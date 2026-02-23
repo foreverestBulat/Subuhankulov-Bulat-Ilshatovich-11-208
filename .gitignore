@@ -1,3 +1,9 @@
 venv
 pages
 index.txt
+tokens.txt
+lemmas.txt
+tokens_en.txt
+lemmas_en.txt
+tokens_ru.txt
+lemmas_ru.txt
