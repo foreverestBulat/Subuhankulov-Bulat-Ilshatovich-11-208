@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>View source for Web crawler - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"263a3fdc-4103-42cb-84a9-31f4ea11bdb1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Web_crawler","wgTitle":"Web crawler","wgCurRevisionId":1337442046,"wgRevisionId":0,"wgArticleId":33120,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Web_crawler","wgRelevantArticleId":33120,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":60000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.charinsert.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.charinsert","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.charinsert.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.16">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="noindex,nofollow,max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WebCrawlerArchitecture.svg/1280px-WebCrawlerArchitecture.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="917">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="View source for Web crawler - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Web_crawler&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Web_crawler">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Web_crawler rootpage-Web_crawler skin-vector-2022 action-edit">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+crawler&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+crawler&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+crawler&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+crawler&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading">View source for Web crawler</h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article is only available in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Web_crawler" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Web_crawler" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="vector-tab-noicon mw-list-item"><a href="/wiki/Web_crawler"><span>Read</span></a></li><li id="ca-edit" class="selected vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Web_crawler&amp;action=edit" title="Edit this page"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Web_crawler&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="vector-more-collapsible-item mw-list-item"><a href="/wiki/Web_crawler"><span>Read</span></a></li><li id="ca-more-edit" class="selected vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Web_crawler&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Web_crawler&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Web_crawler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Web_crawler" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Web_crawler&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DWeb_crawler%26action%3Dedit"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DWeb_crawler%26action%3Dedit"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q45842" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle">← <a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><p>You do not have permission to edit this page, for the following reasons:
+</p>
+<ul class="permissions-errors"><li class="mw-permissionerror-blockedtext-tempuser">
+<div class="mw-blocked-text" style="border: 1px solid #AAA; background-color: var(--background-color-warning-subtle, ivory); color: inherit; padding: 1.5em; width: 100%; box-sizing: border-box;">
+<div style="text-align: center;"><span style="font-size: 26px;"><span typeof="mw:File"><a href="/wiki/File:Stop_hand_nuvola.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/60px-Stop_hand_nuvola.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/120px-Stop_hand_nuvola.svg.png 1.5x" data-file-width="240" data-file-height="240" /></a></span><b> This IP address has been <a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy">blocked</a> from editing Wikipedia.</b></span><br /><span style="font-size: 18px;">This does not affect your ability to <i>read</i> Wikipedia pages.</span></div><div class="paragraphbreak" style="margin-top:0.5em"></div><b>Most people who see this message have done nothing wrong.</b> Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and can sometimes affect other users who are unrelated to that abuse. Review the information below for assistance if you do not believe that you have done anything wrong.<div class="paragraphbreak" style="margin-top:0.5em"></div>
+<p>The IP address or range <span style="font-size:200%"><b>94.237.0.0/17</b></span> has been  <a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy">blocked</a> by <a href="/wiki/User:ST47" title="User:ST47">‪ST47‬</a> for the following reason(s):
+</p>
+<div style="padding:10px; background:var(--background-color-base, white); color:inherit; border:1px #666 solid;">
+<div class="user-block webhost-block" style="margin-bottom: 0.5em; background-color: var(--background-color-warning-subtle, #fef6e7); color: inherit; border: 1px solid #AAA; padding: 0.7em;">
+<figure class="mw-halign-left" typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/40px-Server-multiple.svg.png" decoding="async" width="40" height="57" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/60px-Server-multiple.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Server-multiple.svg/120px-Server-multiple.svg.png 2x" data-file-width="744" data-file-height="1052" /></span><figcaption></figcaption></figure><b>Why you are seeing this message:</b> Your current <a href="/wiki/IP_address" title="IP address">IP address</a> is blocked from editing Wikipedia because it appears to belong to a <style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><span class="rt-commentedText tooltip tooltip-dotted" title="Specifically, the IP address you are using may belong to a webhost provider.">VPN or proxy service</span>. 
+<div style="border-top: 1px solid #AAA; clear: both">
+<p>These types of services are commonly used for abusive editing and circumventing Wikipedia policies, so Wikipedia blocks them as a <a href="/wiki/Wikipedia:Open_proxies" title="Wikipedia:Open proxies">preventive measure</a> — even if you personally haven't done anything wrong. 
+</p><p><b>How to fix it:</b>
+</p>
+<ul><li><b>Turn off VPNs, proxies, or tools like <a rel="nofollow" class="external text" href="https://support.apple.com/en-us/102022">iCloud Private Relay</a> (for Apple users) or <a rel="nofollow" class="external text" href="https://support.microsoft.com/topic/use-the-microsoft-edge-secure-network-to-protect-your-browsing-885472e2-7847-4d89-befb-c80d3dda6318">Microsoft Edge Secure Network</a>.</b> This is the <i>most frequent reason</i> users encounter this block.</li>
+<li><b>Try a different connection.</b> Switch between Wi-Fi and mobile data, or use a home network instead of a public or work one.</li>
+<li><b>Whitelist Wikipedia.</b> You may be able to whitelist Wikipedia from your VPN so that connections to Wikipedia aren't through a VPN service. Instructions for whitelisting Wikipedia on iCloud Private Relay can be found <b><a rel="nofollow" class="external text" href="https://support.apple.com/en-us/102022#website">here</a></b>.</li>
+<li><b>Still blocked?</b> If you believe you are not running an anonymizing proxy or Tor, you should consider checking the configuration to make sure it is accurate. Sometimes the configuration for your network is changed without your knowledge, sometimes by malware. In truly exceptional circumstances, you may request <a href="/wiki/Wikipedia:IP_block_exemption#Requesting_and_granting_exemption" title="Wikipedia:IP block exemption">IP block exemption</a>. Approval is limited and based on specific criteria, and you should only request it if you have no other way to edit Wikipedia.</li></ul>
+<p><b>Note</b>: These blocks are about the type of internet connection, not your actions. We appreciate good-faith contributors and want to help you get editing again.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1214851843">.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}</style><div class="hidden-begin mw-collapsible mw-collapsed" style=""><div class="hidden-title skin-nightmode-reset-color" style="text-align:center;">How to appeal if you are confident that your connection does not use a webhost provider's IP address:</div><div class="hidden-content mw-collapsible-content" style="">
+If you are confident that you are not using a web host, you may <a href="/wiki/Wikipedia:Appealing_a_block" title="Wikipedia:Appealing a block">appeal this block</a> by adding the following text on your <a href="/wiki/Help:Talk_pages" title="Help:Talk pages">talk page</a>: <code>&#123;&#123;<a href="/wiki/Template:Unblock" title="Template:Unblock">unblock</a>&#124;reason=Caught by a web host block but this host or IP is not a web host. My IP address is _______. <i>Place any further information here.</i> &#126;&#126;&#126;&#126;&#125;&#125;</code>. <b>You must fill in the blank with your IP address for this block to be investigated.</b> Your IP address can be determined <span class="plainlinks"><b><a class="external text" href="https://en.wikipedia.org/wiki/Wikipedia:Get_my_IP_address?withJS=MediaWiki:Get-my-ip.js">here</a></b></span>. Alternatively, if you wish to keep your IP address private you can use the <a href="/wiki/Wikipedia:Unblock_Ticket_Request_System" title="Wikipedia:Unblock Ticket Request System">unblock ticket request system</a>. There are several reasons you might be editing using the IP address of a web host provider (such as if you are using VPN software or a business network); please use this method of appeal only if you think your IP address is in fact not a web host provider.</div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1214851843" /><div class="hidden-begin mw-collapsible mw-collapsed sysop-show" style="font-size: 85%"><div class="hidden-title skin-nightmode-reset-color" style="text-align:center;">Information for administrators:</div><div class="hidden-content mw-collapsible-content" style="">
+<span style="border:#707070 solid 1px;background-color:#ffe0e0;padding:2px"><b>Administrators:</b></span> The <a href="/wiki/Wikipedia:IP_block_exemption" title="Wikipedia:IP block exemption">IP block exemption</a> user right should only be applied to allow users to edit using web host in exceptional circumstances, and requests should usually be directed to the functionaries team via email. If you intend to give the IPBE user right, a <a href="/wiki/Wikipedia:CheckUser" title="Wikipedia:CheckUser">CheckUser</a> needs to take a look at the account. This can be requested most easily at <a href="/wiki/Wikipedia:SPI#Quick_CheckUser_requests" class="mw-redirect" title="Wikipedia:SPI">SPI Quick Checkuser Requests</a>. <b>Unblocking</b> an IP or IP range with this template <b>is highly discouraged</b> without at least contacting the blocking administrator.</div></div>
+</div></div>
+</div>
+<p>This block will expire on 05:45, 30 September 2026. Your current IP address is 94.237.18.99. 
+</p>
+<div style="font-size: 16px; margin-top: 0.5em">
+<p>Even when blocked, you will <i>usually</i> still be able to edit your <a href="/wiki/Special:MyTalk" title="Special:MyTalk">user talk page</a>.
+</p>
+</div>
+<div style="font-size: 16px; margin-top: 0.5em">
+<p>For information on how to proceed, please read the <b><a href="/wiki/Wikipedia:Appealing_a_block#Common_questions" title="Wikipedia:Appealing a block">FAQ for blocked users</a></b> and the <a href="/wiki/Wikipedia:Appealing_a_block" title="Wikipedia:Appealing a block">guideline on block appeals</a>. The <a href="/wiki/Wikipedia:Guide_to_appealing_blocks" title="Wikipedia:Guide to appealing blocks">guide to appealing blocks</a> may also be helpful.
+</p>
+</div>
+<p>Other useful links: <a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy">Blocking policy</a> &#183; <a href="/wiki/Help:I_have_been_blocked" title="Help:I have been blocked">Help:I have been blocked</a>
+</p>
+</div></li><li class="mw-permissionerror-globalblocking-blockedtext-range">
+<div class="mw-blocked-text" style="border: 1px solid #AAA; background-color: var(--background-color-warning-subtle, ivory); color: inherit; padding: 1.5em; width: 100%; box-sizing: border-box;">
+<div style="text-align: center;"><span style="font-size: 26px;"><span typeof="mw:File"><a href="/wiki/File:Stop_hand_nuvola.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/60px-Stop_hand_nuvola.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stop_hand_nuvola.svg/120px-Stop_hand_nuvola.svg.png 1.5x" data-file-width="240" data-file-height="240" /></a></span><b> This IP address range has been <a href="https://meta.wikimedia.org/wiki/Global_blocks" class="extiw" title="m:Global blocks">globally blocked</a>.</b></span><br /><span style="font-size: 18px;">This does not affect your ability to <i>read</i> Wikipedia pages.</span></div><div class="paragraphbreak" style="margin-top:0.5em"></div><b>Most people who see this message have done nothing wrong.</b> Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and can sometimes affect other users who are unrelated to that abuse. Review the information below for assistance if you do not believe that you have done anything wrong.<div class="paragraphbreak" style="margin-top:0.5em"></div><div class="paragraphbreak" style="margin-top:0.5em"></div>
+<p>This block affects editing on all Wikimedia wikis.
+</p><p>The IP address or range <span style="font-size:200%"><b>94.237.0.0/17</b></span> has been globally <a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy">blocked</a> by <a href="/wiki/User:EPIC" title="User:EPIC">‪EPIC‬</a> for the following reason(s):
+</p>
+<div style="padding:10px; background:var(--background-color-base, white); color:inherit; border:1px #666 solid;">
+<p><a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/NOP" class="extiw" title="m:Special:MyLanguage/NOP">Open proxy/Webhost</a>: See the <a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/WM:OP/H" class="extiw" title="m:Special:MyLanguage/WM:OP/H">help page</a> if you are affected:
+</p>
+</div>
+<p>This block will expire on 15:35, 16 August 2030. Your current IP address is 94.237.18.99. 
+</p>
+<div style="font-size: 16px; margin-top: 0.5em">
+<p>Even while globally blocked, you will <i>usually</i> still be able to edit pages on <a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:">Meta-Wiki</a>.
+</p>
+</div>
+<div style="font-size: 16px; margin-top: 0.5em">
+<p>If you believe you were blocked by mistake, you can find additional information and instructions in the <a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Stewards/Wizard" class="extiw" title="m:Special:MyLanguage/Stewards/Wizard">Stewards Block Wizard</a>.
+</p>
+</div>
+<p>Other useful links: <a href="https://meta.wikimedia.org/wiki/Global_blocks" class="extiw" title="m:Global blocks">Global blocks</a> &#183; <a href="/wiki/Help:I_have_been_blocked" title="Help:I have been blocked">Help:I have been blocked</a>
+</p>
+</div></li></ul><hr />
+<div id="viewsourcetext">You can view and copy the source of this page:</div><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{short description|Software that systematically browses the World Wide Web}}
+{{hatnote group|
+{{about|the Internet bot|the search engine|WebCrawler}}
+{{redirect-distinguish|Web spider|Spider web}}
+{{redirect-distinguish|Spiderbot|Spiderbot (video game)}}
+}}
+{{Use dmy dates|date=September 2020}}
+[[File:WebCrawlerArchitecture.svg|thumb|Architecture of a Web crawler]]
+
+A '''web crawler''', sometimes called a '''spider''' or '''spiderbot''' and often shortened to '''crawler''', is an [[Internet bot]] that systematically browses the [[World Wide Web]] and that is typically operated by [[search engines]] for the purpose of [[Web indexing]] (''web spidering'').&lt;ref>{{Cite web |title=Web Crawlers: Browsing the Web |url=https://webbrowsersintroduction.com/ |url-status=dead |archive-url=https://web.archive.org/web/20211206205907/https://webbrowsersintroduction.com/ |archive-date=2021-12-06}}&lt;/ref>
+
+Web search engines and some other [[website]]s use Web crawling or spidering [[software]] to update their [[web content]] or indices of other sites' web content. Web crawlers copy pages for processing by a search engine, which [[Index (search engine)|indexes]] the downloaded pages so that users can search more efficiently.
+
+Crawlers consume resources on visited systems and often visit sites unprompted. Issues of schedule, load, and "politeness" come into play when large collections of pages are accessed. Mechanisms exist for public sites not wishing to be crawled to make this known to the crawling agent. For example, including a &lt;code>[[robots.txt]]&lt;/code> file can request [[Software agent|bots]] to index only parts of a website, or nothing at all.
+
+The number of Internet pages is extremely large; even the largest crawlers fall short of making a complete index. For this reason, search engines struggled to give relevant search results in the early years of the World Wide Web, before 2000. Today, relevant results are given almost instantly.
+
+Crawlers can validate [[hyperlink]]s and [[HTML]] code. They can also be used for [[web scraping]] and [[data-driven programming]].
+
+== Nomenclature ==
+A web crawler is also known as a ''spider'',&lt;ref name="spekta">{{cite web|last=Spetka|first=Scott|title=The TkWWW Robot: Beyond Browsing|url=http://archive.ncsa.uiuc.edu/SDG/IT94/Proceedings/Agents/spetka/spetka.html|publisher=[[National Center for Supercomputing Applications|NCSA]]|access-date=21 November 2010 |archive-url=https://web.archive.org/web/20040903174942/http://archive.ncsa.uiuc.edu/SDG/IT94/Proceedings/Agents/spetka/spetka.html |archive-date=3 September 2004}}&lt;/ref> an ''ant'', an ''automatic indexer'',&lt;ref>{{cite journal |author1=Kobayashi, M. |author2=Takeda, K. |name-list-style=amp |title = Information retrieval on the web |journal = ACM Computing Surveys|volume = 32 |issue = 2 |pages = 144–173 |year = 2000 |doi = 10.1145/358923.358934|citeseerx=10.1.1.126.6094 |s2cid=3710903 }}&lt;/ref> or (in the [[FOAF (software)|FOAF]] software context) a ''Web scutter''.&lt;ref>See [http://wiki.foaf-project.org/w/Scutter definition of scutter on FOAF Project's wiki] {{Webarchive|url=https://web.archive.org/web/20091213213920/http://wiki.foaf-project.org/w/Scutter |date=13 December 2009 }}&lt;/ref>
+
+== Overview ==
+A Web crawler starts with a list of [[Uniform Resource Locator|URLs]] to visit. Those first URLs are called the ''seeds''. As the crawler visits these URLs, by communicating with [[web server]]s that respond to those URLs, it identifies all the [[hyperlink]]s in the retrieved web pages and adds them to the list of URLs to visit, called the ''[[crawl frontier]]''. URLs from the frontier are [[Recursion|recursively]] visited according to a set of policies. If the crawler is performing archiving of [[website]]s (or [[web archiving]]), it copies and saves the information as it goes. The archives are usually stored in such a way they can be viewed, read and navigated as if they were on the live web, but are preserved as 'snapshots'.&lt;ref name="GoogleBooks-9237380">{{cite book |url=https://www.springer.com/gp/book/9783540233381 |title=Web Archiving |isbn=978-3-54046332-0 |date=15 February 2007 |publisher=Springer |access-date=24 April 2014 |page=1 |first=Julien |last=Masanès}}&lt;/ref>
+
+The large volume implies the crawler can only download a limited number of the Web pages within a given time, so it needs to prioritize its downloads. The high rate of change can imply the pages might have already been updated or even deleted.
+
+The number of possible URLs crawled being generated by server-side software has also made it difficult for web crawlers to avoid retrieving [[duplicate content]]. Endless combinations of [[HTTP]] GET (URL-based) parameters exist, of which only a small selection will actually return unique content. For example, a simple online photo gallery may offer three options to users, as specified through HTTP GET parameters in the URL. If there exist four ways to sort images, three choices of [[thumbnail]] size, two file formats, and an option to disable user-provided content, then the same set of content can be accessed with 48 different URLs, all of which may be linked on the site. This [[mathematical combination]] creates a problem for crawlers, as they must sort through endless combinations of relatively minor scripted changes in order to retrieve unique content.
+
+As Edwards ''et al.'' noted, "Given that the [[Bandwidth (computing)|bandwidth]] for conducting crawls is neither infinite nor free, it is becoming essential to crawl the Web in not only a scalable, but efficient way, if some reasonable measure of quality or freshness is to be maintained."&lt;ref name=edwards2001>{{Cite book |author = Edwards, J.; McCurley, K. S.; and Tomlin, J. A. |title = Proceedings of the 10th international conference on World Wide Web |chapter = An adaptive model for optimizing performance of an incremental web crawler |pages = 106–113 |year = 2001 |doi = 10.1145/371920.371960 |url = http://www10.org/cdrom/papers/210/index.html |isbn = 978-1581133486 |citeseerx = 10.1.1.1018.1506 |s2cid = 10316730 |access-date = 25 January 2007 |archive-date = 25 June 2014 |archive-url = https://web.archive.org/web/20140625233510/http://www10.org/cdrom/papers/210/index.html |url-status = dead }}&lt;/ref> A crawler must carefully choose at each step which pages to visit next.
+
+==Crawling policy==
+The behavior of a Web crawler is the outcome of a combination of policies:&lt;ref>{{Cite thesis |degree=PhD |title=Effective Web Crawling |url=https://chato.cl/science/crawling_thesis/ |last=Castillo |first=Carlos |year=2004 |publisher=University of Chile|access-date=2010-08-03}}&lt;/ref>
+* a ''selection policy'' which states the pages to download,
+* a ''re-visit policy'' which states when to check for changes to the pages,
+* a ''politeness policy'' that states how to avoid overloading [[websites]].
+* a ''parallelization policy'' that states how to coordinate distributed web crawlers.
+
+===Selection policy===
+Given the current size of the Web, even large search engines cover only a portion of the publicly available part. A 2009 study showed even large-scale [[search engines]] index no more than 40–70% of the indexable Web;&lt;ref>{{cite conference |title=The indexable web is more than 11.5 billion pages |author=Gulls, A. |author2=A. Signori |year=2005 |publisher=ACM Press |book-title=Special interest tracks and posters of the 14th international conference on World Wide Web |pages=902–903 |doi=10.1145/1062745.1062789 }}&lt;/ref> a previous study by [[Steve Lawrence (computer scientist)|Steve Lawrence]] and [[Lee Giles]] showed that no [[Search engine indexing|search engine indexed]] more than 16% of the Web in 1999.&lt;ref>{{Cite journal | doi = 10.1038/21987 | volume = 400 | issue = 6740 | pages = 107–9 | author1= Lawrence, Steve | author2 = C. Lee Giles | title = Accessibility of information on the web | journal = Nature | date = 1999-07-08 | pmid = 10428673 |bibcode = 1999Natur.400..107L | s2cid = 4347646 | doi-access = free }}&lt;/ref> As a crawler always downloads just a fraction of the [[Web pages]], it is highly desirable for the downloaded fraction to contain the most relevant pages and not just a random sample of the Web.
+
+This requires a metric of importance for prioritizing Web pages. The importance of a page is a function of its [[Intrinsic and extrinsic properties (philosophy)|intrinsic]] quality, its popularity in terms of links or visits, and even of its URL (the latter is the case of [[vertical search|vertical search engines]] restricted to a single [[top-level domain]], or search engines restricted to a fixed Web site). Designing a good selection policy has an added difficulty: it must work with partial information, as the complete set of Web pages is not known during crawling.
+
+Junghoo Cho ''et al.'' made the first study on policies for crawling scheduling. Their data set was a 180,000-pages crawl from the &lt;kbd>stanford.edu&lt;/kbd> domain, in which a crawling simulation was done with different strategies.&lt;ref>{{cite journal |author=Cho, J. |author2=Garcia-Molina, H. |author3=Page, L. |title = Efficient Crawling Through URL Ordering |url = http://ilpubs.stanford.edu:8090/347/ |journal = Seventh International World-Wide Web Conference |date = April 1998 |doi=10.1142/3725 |isbn=978-981-02-3400-3 |place = Brisbane, Australia |access-date = 2009-03-23}}&lt;/ref> The ordering metrics tested were [[Breadth-first search|breadth-first]], [[backlink]] count and partial [[PageRank]] calculations. One of the conclusions was that if the crawler wants to download pages with high Pagerank early during the crawling process, then the partial Pagerank strategy is the better, followed by breadth-first and backlink-count. However, these results are for just a single domain. Cho also wrote his PhD dissertation at Stanford on web crawling.&lt;ref>Cho, Junghoo, [http://oak.cs.ucla.edu/~cho/papers/cho-thesis.pdf "Crawling the Web: Discovery and Maintenance of a Large-Scale Web Data"] {{Webarchive|url=https://web.archive.org/web/20121221113621/http://oak.cs.ucla.edu/~cho/papers/cho-thesis.pdf |date=21 December 2012 }}, PhD dissertation, Department of Computer Science, Stanford University, November 2001.&lt;/ref>
+
+[[Marc Najork]] and Janet Wiener performed an actual crawl on 328 million pages, using breadth-first ordering.&lt;ref>[[Marc Najork|Najork, Marc]] and Janet L. Wiener. [http://www10.org/cdrom/papers/pdf/p208.pdf "Breadth-first crawling yields high-quality pages".] {{Webarchive|url=https://web.archive.org/web/20171224210412/http://www10.org/cdrom/papers/pdf/p208.pdf |date=24 December 2017 }} In: ''Proceedings of the Tenth Conference on World Wide Web'', pages 114–118, Hong Kong, May 2001. Elsevier Science.&lt;/ref> They found that a breadth-first crawl captures pages with high Pagerank early in the crawl (but they did not compare this strategy against other strategies). The explanation given by the authors for this result is that "the most important pages have many links to them from numerous hosts, and those links will be found early, regardless of on which host or page the crawl originates."
+
+Abiteboul designed a crawling strategy based on an [[algorithm]] called OPIC (On-line Page Importance Computation).&lt;ref>{{cite conference |author1=Abiteboul, Serge |author2=Mihai Preda |author3=Gregory Cobena |year=2003 |title=Adaptive on-line page importance computation |url=http://www2003.org/cdrom/papers/refereed/p007/p7-abiteboul.html |conference= |location=Budapest, Hungary |publisher=ACM |pages=280–290 |doi=10.1145/775152.775192 |isbn=1-58113-680-3 |archive-url=https://web.archive.org/web/20080320035819/https://www2003.org/cdrom/papers/refereed/p007/p7-abiteboul.html |archive-date=2008-03-20 |access-date=2009-03-22 |book-title=Proceedings of the 12th international conference on World Wide Web}}&lt;/ref> In OPIC, each page is given an initial sum of "cash" that is distributed equally among the pages it points to. It is similar to a PageRank computation, but it is faster and is only done in one step. An OPIC-driven crawler downloads first the pages in the crawling frontier with higher amounts of "cash". Experiments were carried in a 100,000-pages synthetic graph with a power-law distribution of in-links. However, there was no comparison with other strategies nor experiments in the real Web.
+
+Boldi ''et al.'' used simulation on subsets of the Web of 40 million pages from the &lt;kbd>.it&lt;/kbd> domain and 100 million pages from the WebBase crawl, testing breadth-first against depth-first, random ordering and an omniscient strategy. The comparison was based on how well PageRank computed on a partial crawl approximates the true PageRank value. Some visits that accumulate PageRank very quickly (most notably, breadth-first and the omniscient visit) provide very poor progressive approximations.&lt;ref>{{cite journal |doi = 10.1002/spe.587 |volume = 34 |issue = 8 |pages = 711–726 |author1 =Boldi, Paolo |author2 = Bruno Codenotti |author3 = Massimo Santini |author4 = Sebastiano Vigna |title = UbiCrawler: a scalable fully distributed Web crawler |journal = Software: Practice and Experience |access-date = 2009-03-23 |year = 2004 |url = http://vigna.dsi.unimi.it/ftp/papers/UbiCrawler.pdf |citeseerx = 10.1.1.2.5538 |s2cid = 325714 |archive-date = 20 March 2009 |archive-url = https://web.archive.org/web/20090320030833/http://vigna.dsi.unimi.it/ftp/papers/UbiCrawler.pdf |url-status = dead }}&lt;/ref>&lt;ref>{{cite book |pages = 168–180 |author1 = Boldi, Paolo |author2 = Massimo Santini |author3 = Sebastiano Vigna |title = Algorithms and Models for the Web-Graph |volume = 3243 |chapter = Do Your Worst to Make the Best: Paradoxical Effects in PageRank Incremental Computations |access-date = 2009-03-23 |year = 2004 |chapter-url = http://vigna.dsi.unimi.it/ftp/papers/ParadoxicalPageRank.pdf |doi = 10.1007/978-3-540-30216-2_14 |series = Lecture Notes in Computer Science |isbn = 978-3-540-23427-2 |archive-date = 1 October 2005 |archive-url = https://web.archive.org/web/20051001063017/http://vigna.dsi.unimi.it/ftp/papers/ParadoxicalPageRank.pdf |url-status = dead }}&lt;/ref>
+
+Baeza-Yates ''et al.'' used simulation on two subsets of the Web of 3 million pages from the &lt;kbd>.gr&lt;/kbd> and &lt;kbd>.cl&lt;/kbd> domain, testing several crawling strategies.&lt;ref name=baeza2005>Baeza-Yates, R.; Castillo, C.;  Marin, M. and Rodriguez, A. (2005). [http://chato.cl/papers/baeza05_crawling_country_better_breadth_first_web_page_ordering.pdf "Crawling a Country: Better Strategies than Breadth-First for Web Page Ordering."] In: ''Proceedings of the Industrial and Practical Experience track of the 14th conference on World Wide Web'', pages 864–872, Chiba, Japan. ACM Press.&lt;/ref> They showed that both the OPIC strategy and a strategy that uses the length of the per-site queues are better than [[Breadth-first search|breadth-first]] crawling, and that it is also very effective to use a previous crawl, when it is available, to guide the current one.
+
+Daneshpajouh ''et al.'' designed a community based algorithm for discovering good seeds.&lt;ref>Shervin Daneshpajouh, Mojtaba Mohammadi Nasiri, Mohammad Ghodsi, [https://www.researchgate.net/publication/220724572_A_Fast_Community_Based_Algorithm_for_Generating_Web_Crawler_Seeds_Set A Fast Community Based Algorithm for Generating Crawler Seeds Set]. In: ''Proceedings of 4th International Conference on Web Information Systems and Technologies'' (''[[Webist]]''-2008), Funchal, Portugal, May 2008.&lt;/ref> Their method crawls web pages with high PageRank from different communities in less iteration in comparison with crawl starting from random seeds. One can extract good seed from a previously-crawled-Web graph using this new method. Using these seeds, a new crawl can be very effective.
+
+====Restricting followed links====
+A crawler may only want to seek out HTML pages and avoid all other [[Internet media type|MIME types]]. In order to request only HTML resources, a crawler may make an HTTP HEAD request to determine a Web resource's MIME type before requesting the entire resource with a GET request. To avoid making numerous HEAD requests, a crawler may examine the URL and only request a resource if the URL ends with certain characters such as .html, .htm, .asp, .aspx, .php, .jsp, .jspx or a slash. This strategy may cause numerous HTML Web resources to be unintentionally skipped.
+
+Some crawlers may also avoid requesting any resources that have a [[Query string|"?"]] in them (are dynamically produced) in order to avoid [[spider trap]]s that may cause the crawler to download an infinite number of URLs from a Web site. This strategy is unreliable if the site uses [[URL rewriting]] to simplify its URLs.
+
+====URL normalization====
+{{Main|URL normalization}}
+
+Crawlers usually perform some type of [[URL normalization]] in order to avoid crawling the same resource more than once. The term ''URL normalization'', also called ''URL canonicalization'', refers to the process of modifying and standardizing a URL in a consistent manner. There are several types of normalization that may be performed including conversion of URLs to lowercase, removal of "." and ".." segments, and adding trailing slashes to the non-empty path component.&lt;ref>{{cite book |first1 = Gautam |last1 = Pant |first2 = Padmini |last2 = Srinivasan |first3 = Filippo |last3 = Menczer |editor-last = Levene |editor-first = Mark |editor2-last = Poulovassilis |editor2-first = Alexandra |editor2-link = Alexandra Poulovassilis |contribution = Crawling the Web |contribution-url = http://dollar.biz.uiowa.edu/~pant/Papers/crawling.pdf |title = Web Dynamics: Adapting to Change in Content, Size, Topology and Use |year = 2004 |pages = 153–178 |publisher = Springer |isbn = 978-3-540-40676-1 |access-date = 9 May 2006 |archive-date = 20 March 2009 |archive-url = https://web.archive.org/web/20090320030832/http://dollar.biz.uiowa.edu/~pant/Papers/crawling.pdf |url-status = dead }}&lt;/ref>
+
+====Path-ascending crawling====
+Some crawlers intend to download/upload as many resources as possible from a particular web site. So ''path-ascending crawler'' was introduced that would ascend to every path in each URL that it intends to crawl.&lt;ref>{{Cite journal | doi = 10.1002/asi.20078 | volume = 55 | issue = 14 | pages = 1228–1238 | last = Cothey | first = Viv | title = Web-crawling reliability | journal = Journal of the American Society for Information Science and Technology | year = 2004 | url = http://www.scit.wlv.ac.uk/~in7803/publications/cothey_2004.pdf | citeseerx = 10.1.1.117.185 | archive-date = 22 September 2017 | access-date = 26 October 2017 | archive-url = https://web.archive.org/web/20170922004119/http://www.scit.wlv.ac.uk/~in7803/publications/cothey_2004.pdf | url-status = dead }}&lt;/ref> For example, when given a seed URL of &lt;nowiki>http://llama.org/hamster/monkey/page.html&lt;/nowiki>, it will attempt to crawl /hamster/monkey/, /hamster/, and /. Cothey found that a path-ascending crawler was very effective in finding isolated resources, or resources for which no inbound link would have been found in regular crawling.
+
+====Focused crawling====
+{{Main|Focused crawler}}
+
+The importance of a page for a crawler can also be expressed as a function of the similarity of a page to a given query. Web crawlers that attempt to download pages that are similar to each other are called '''focused crawler''' or '''topical crawlers'''. The concepts of topical and focused crawling were first introduced by [[Filippo Menczer]]&lt;ref>Menczer, F. (1997). [http://informatics.indiana.edu/fil/Papers/ICML.ps ARACHNID: Adaptive Retrieval Agents Choosing Heuristic Neighborhoods for Information Discovery] {{Webarchive|url=https://web.archive.org/web/20121221113620/http://informatics.indiana.edu/fil/Papers/ICML.ps |date=21 December 2012 }}. In D. Fisher, ed., Machine Learning: Proceedings of the 14th International Conference (ICML97). Morgan Kaufmann&lt;/ref>&lt;ref>Menczer, F. and Belew, R.K. (1998). [http://informatics.indiana.edu/fil/Papers/AA98.ps Adaptive Information Agents in Distributed Textual Environments] {{Webarchive|url=https://web.archive.org/web/20121221113630/http://informatics.indiana.edu/fil/Papers/AA98.ps |date=21 December 2012 }}. In K. Sycara and M. Wooldridge (eds.) Proc. 2nd Intl. Conf. on Autonomous Agents (Agents '98). ACM Press&lt;/ref> and by Soumen Chakrabarti ''et al.''&lt;ref>{{cite journal|url=http://www.fxpal.com/people/vdberg/pubs/www8/www1999f.pdf|archive-url=https://web.archive.org/web/20040317210216/http://www.fxpal.com/people/vdberg/pubs/www8/www1999f.pdf|url-status=dead|archive-date=2004-03-17|doi=10.1016/s1389-1286(99)00052-3|title=Focused crawling: A new approach to topic-specific Web resource discovery|journal=Computer Networks|volume=31|issue=11–16|pages=1623–1640|year=1999|last1=Chakrabarti|first1=Soumen|last2=Van Den Berg|first2=Martin|last3=Dom|first3=Byron}}&lt;/ref>
+
+The main problem in focused crawling is that in the context of a Web crawler, we would like to be able to predict the similarity of the text of a given page to the query before actually downloading the page. A possible predictor is the anchor text of links; this was the approach taken by Pinkerton&lt;ref name=pinkerton1994>Pinkerton, B. (1994). [https://web.archive.org/web/20010904075500/http://archive.ncsa.uiuc.edu/SDG/IT94/Proceedings/Searching/pinkerton/WebCrawler.html Finding what people want: Experiences with the WebCrawler]. In Proceedings of the First World Wide Web Conference, Geneva, Switzerland.&lt;/ref> in the first web crawler of the early days of the Web. Diligenti ''et al.''&lt;ref>Diligenti, M., Coetzee, F., Lawrence, S., Giles, C. L., and Gori, M. (2000). [http://clgiles.ist.psu.edu/papers/VLDB-2000-focused-crawling.pdf Focused crawling using context graphs]. In Proceedings of 26th International Conference on Very Large Databases (VLDB), pages 527-534, Cairo, Egypt.&lt;/ref> propose using the complete content of the pages already visited to infer the similarity between the driving query and the pages that have not been visited yet. The performance of a focused crawling depends mostly on the richness of links in the specific topic being searched, and a focused crawling usually relies on a general Web search engine for providing starting points.
+
+=====Academic focused crawler=====
+An example of the [[focused crawlers]] are academic crawlers, which crawls free-access academic related documents, such as the ''citeseerxbot'', which is the crawler of [[CiteSeer]]&lt;sup>X&lt;/sup> search engine. Other academic search engines are [[Google Scholar]] and [[Microsoft Academic Search]] etc. Because most academic papers are published in [[PDF]] formats, such kind of crawler is particularly interested in crawling PDF, [[PostScript]] files, [[Microsoft Word]] including their [[Zipped file|zipped]] formats. Because of this, general open-source crawlers, such as [[Heritrix]], must be customized to filter out other [[MIME types]], or a [[middleware]] is used to extract these documents out and import them to the focused crawl database and repository.&lt;ref>{{Cite book | doi=10.1145/2389936.2389949| chapter=Web crawler middleware for search engine digital libraries| title=Proceedings of the twelfth international workshop on Web information and data management - WIDM '12| pages=57| year=2012| last1=Wu| first1=Jian| last2=Teregowda| first2=Pradeep| last3=Khabsa| first3=Madian| last4=Carman| first4=Stephen| last5=Jordan| first5=Douglas| last6=San Pedro Wandelmer| first6=Jose| last7=Lu| first7=Xin| last8=Mitra| first8=Prasenjit| last9=Giles| first9=C. Lee| isbn=9781450317207| s2cid=18513666}}&lt;/ref> Identifying whether these documents are academic or not is challenging and can add a significant overhead to the crawling process, so this is performed as a post crawling process using [[machine learning]] or [[regular expression]] algorithms. These academic documents are usually obtained from home pages of faculties and students or from publication page of research institutes. Because academic documents make up only a small fraction of all web pages, a good seed selection is important in boosting the efficiencies of these web crawlers.&lt;ref>{{Cite book |doi = 10.1145/2380718.2380762|chapter = The evolution of a crawling strategy for an academic document search engine|title = Proceedings of the 3rd Annual ACM Web Science Conference on - Web ''Sci'' '12|pages = 340–343|year = 2012|last1 = Wu|first1 = Jian|last2 = Teregowda|first2 = Pradeep|last3 = Ramírez|first3 = Juan Pablo Fernández|last4 = Mitra|first4 = Prasenjit|last5 = Zheng|first5 = Shuyi|last6 = Giles|first6 = C. Lee|isbn = 9781450312288|s2cid = 16718130}}&lt;/ref> Other academic crawlers may download plain text and [[HTML]] files, that contains [[metadata]] of academic papers, such as titles, papers, and abstracts. This increases the overall number of papers, but a significant fraction may not provide free PDF downloads.
+
+=====Semantic focused crawler=====
+Another type of focused crawlers is semantic focused crawler, which makes use of [[domain ontology|domain ontologies]] to represent topical maps and link Web pages with relevant ontological concepts for the selection and categorization purposes.&lt;ref>{{cite book|chapter-url=https://www.researchgate.net/publication/44241179|doi=10.1007/978-3-642-02457-3_74|chapter=State of the Art in Semantic Focused Crawlers|title=Computational Science and Its Applications – ICCSA 2009|volume=5593|pages=910–924|series=Lecture Notes in Computer Science|year=2009|last1=Dong|first1=Hai|last2=Hussain|first2=Farookh Khadeer|last3=Chang|first3=Elizabeth|isbn=978-3-642-02456-6|hdl=20.500.11937/48288}}&lt;/ref> In addition, ontologies can be automatically updated in the crawling process. Dong et al.&lt;ref>{{cite journal|url=https://www.researchgate.net/publication/264620349|doi=10.1002/cpe.2980|title=SOF: A semi-supervised ontology-learning-based focused crawler|journal=Concurrency and Computation: Practice and Experience|volume=25|issue=12|pages=1755–1770|year=2013|last1=Dong|first1=Hai|last2=Hussain|first2=Farookh Khadeer|s2cid=205690364}}&lt;/ref> introduced such an ontology-learning-based crawler using a [[support-vector machine]] to update the content of ontological concepts when crawling Web pages.
+
+===Re-visit policy===
+The Web has a very dynamic nature, and crawling a fraction of the Web can take weeks or months. By the time a Web crawler has finished its crawl, many events could have happened, including creations, updates, and deletions.
+
+From the search engine's point of view, there is a cost associated with not detecting an event, and thus having an outdated copy of a resource. The most-used cost functions are freshness and age.&lt;ref>{{Cite conference | publisher = ACM | doi = 10.1145/342009.335391 | isbn = 1-58113-217-4 | pages = 117–128 | author1 = Junghoo Cho | author2 = Hector Garcia-Molina | title = Synchronizing a database to improve freshness | book-title = Proceedings of the 2000 ACM SIGMOD international conference on Management of data | location = Dallas, Texas, United States | access-date = 2009-03-23 | year = 2000 | url = https://www.cs.brown.edu/courses/cs227/2002/cache/Cho.pdf}}&lt;/ref>
+
+'''Freshness''': This is a binary measure that indicates whether the local copy is accurate or not. The freshness of a page ''p'' in the repository at time ''t'' is defined as:
+
+: &lt;math>
+F_p(t) = \begin{cases} 1 &amp; {\rm
+if}~p~{\rm~is~equal~to~the~local~copy~at~time}~t\\ 0 &amp; {\rm otherwise} \end{cases}
+&lt;/math>
+
+'''Age''': This is a measure that indicates how outdated the local copy is. The age of a page ''p'' in the repository, at time ''t'' is defined as:
+
+: &lt;math>
+A_p(t) = \begin{cases} 0 &amp; {\rm if}~p~{\rm~is~not~modified~at~time}~t\\ t - {\rm modification~time~of}~p &amp;
+{\rm otherwise} \end{cases}
+&lt;/math>
+
+[[Edward G. Coffman, Jr.|Coffman]] ''et al.'' worked with a definition of the objective of a Web crawler that is equivalent to freshness, but use a different wording: they propose that a crawler must minimize the fraction of time pages remain outdated. They also noted that the problem of Web crawling can be modeled as a multiple-queue, single-server polling system, on which the Web crawler is the server and the Web sites are the queues. Page modifications are the arrival of the customers, and switch-over times are the interval between page accesses to a single Web site. Under this model, mean waiting time for a customer in the polling system is equivalent to the average age for the Web crawler.&lt;ref name="coffman">{{Cite journal | doi = 10.1002/(SICI)1099-1425(199806)1:1&lt;15::AID-JOS3>3.0.CO;2-K | volume = 1 | issue = 1 | pages = 15–29 | author1 = E. G. Coffman Jr | author2 = Zhen Liu | author3 = Richard R. Weber | title = Optimal robot scheduling for Web search engines | journal = Journal of Scheduling | year = 1998 | citeseerx = 10.1.1.36.6087 }}&lt;/ref>
+
+The objective of the crawler is to keep the average freshness of pages in its collection as high as possible, or to keep the average age of pages as low as possible. These objectives are not equivalent: in the first case, the crawler is just concerned with how many pages are outdated, while in the second case, the crawler is concerned with how old the local copies of pages are.
+
+[[File:Web Crawling Freshness Age.png|thumb|Evolution of Freshness and Age in a web crawler]]
+Two simple re-visiting policies were studied by Cho and Garcia-Molina:&lt;ref name=cho2003>{{Cite journal |doi = 10.1145/958942.958945|title = Effective page refresh policies for Web crawlers|journal = ACM Transactions on Database Systems|volume = 28|issue = 4|pages = 390–426|year = 2003|last1 = Cho|first1 = Junghoo|last2 = Garcia-Molina|first2 = Hector|s2cid = 147958}}&lt;/ref>
+* Uniform policy: This involves re-visiting all pages in the collection with the same frequency, regardless of their rates of change.
+* Proportional policy: This involves re-visiting more often the pages that change more frequently. The visiting frequency is directly proportional to the (estimated) change frequency.
+
+In both cases, the repeated crawling order of pages can be done either in a random or a fixed order.
+
+Cho and Garcia-Molina proved the surprising result that, in terms of average freshness, the uniform policy outperforms the proportional policy in both a simulated Web and a real Web crawl. Intuitively, the reasoning is that, as web crawlers have a limit to how many pages they can crawl in a given time frame, (1) they will allocate too many new crawls to rapidly changing pages at the expense of less frequently updating pages, and (2) the freshness of rapidly changing pages lasts for shorter period than that of less frequently changing pages. In other words, a proportional policy allocates more resources to crawling frequently updating pages, but experiences less overall freshness time from them.
+
+To improve freshness, the crawler should penalize the elements that change too often.&lt;ref name="cho2003a">{{Cite journal | doi = 10.1145/857166.857170 | volume = 3 | issue = 3 | pages = 256–290 | author1 = Junghoo Cho | author2 = Hector Garcia-Molina | title = Estimating frequency of change | journal =  ACM Transactions on Internet Technology| year = 2003 | citeseerx = 10.1.1.59.5877 | s2cid = 9362566 }}&lt;/ref> The optimal re-visiting policy is neither the uniform policy nor the proportional policy. The optimal method for keeping average freshness high includes ignoring the pages that change too often, and the optimal for keeping average age low is to use access frequencies that monotonically (and sub-linearly) increase with the rate of change of each page. In both cases, the optimal is closer to the uniform policy than to the proportional policy: as [[Edward G. Coffman, Jr.|Coffman]] ''et al.'' note, "in order to minimize the expected obsolescence time, the accesses to any particular page should be kept as evenly spaced as possible".&lt;ref name="coffman" /> Explicit formulas for the re-visit policy are not attainable in general, but they are obtained numerically, as they depend on the distribution of page changes. Cho and Garcia-Molina show that the exponential distribution is a good fit for describing page changes,&lt;ref name="cho2003a" /> while [[Panos Ipeirotis|Ipeirotis]] ''et al.'' show how to use statistical tools to discover parameters that affect this distribution.&lt;ref>Ipeirotis, P., Ntoulas, A., Cho, J., Gravano, L. (2005) [http://pages.stern.nyu.edu/~panos/publications/icde2005.pdf Modeling and managing content changes in text databases] {{Webarchive|url=https://web.archive.org/web/20050905013119/http://pages.stern.nyu.edu/~panos/publications/icde2005.pdf |date=5 September 2005 }}. In Proceedings of the 21st IEEE International Conference on Data Engineering, pages 606-617, April 2005, Tokyo.&lt;/ref> The re-visiting policies considered here regard all pages as homogeneous in terms of quality ("all pages on the Web are worth the same"), something that is not a realistic scenario, so further information about the Web page quality should be included to achieve a better crawling policy.
+
+===Politeness policy===
+Crawlers can retrieve data much quicker and in greater depth than human searchers, so they can have a crippling impact on the performance of a site. If a single crawler is performing multiple requests per second and/or downloading large files, a server can have a hard time keeping up with requests from multiple crawlers.
+
+As noted by Koster, the use of Web crawlers is useful for a number of tasks, but comes with a price for the general community.&lt;ref>Koster, M. (1995). Robots in the web: threat or treat? ConneXions, 9(4).&lt;/ref> The costs of using Web crawlers include:
+* network resources, as crawlers require considerable bandwidth and operate with a high degree of parallelism during a long period of time;
+* server overload, especially if the frequency of accesses to a given server is too high;
+* poorly written crawlers, which can crash servers or routers, or which download pages they cannot handle; and
+* personal crawlers that, if deployed by too many users, can disrupt networks and Web servers.
+
+A partial solution to these problems is the [[Robots Exclusion Standard|robots exclusion protocol]], also known as the robots.txt protocol that is a standard for administrators to indicate which parts of their Web servers should not be accessed by crawlers.&lt;ref>Koster, M. (1996). [http://www.robotstxt.org/wc/exclusion.html A standard for robot exclusion] {{Webarchive|url=https://web.archive.org/web/20071107021800/http://www.robotstxt.org/wc/exclusion.html |date=7 November 2007 }}.&lt;/ref> This standard does not include a suggestion for the interval of visits to the same server, even though this interval is the most effective way of avoiding server overload. Recently commercial search engines like [[Google.com|Google]], [[Ask.com|Ask Jeeves]], [[Bing (search engine)|MSN]] and [[Yahoo! Search]] are able to use an extra "Crawl-delay:" parameter in the [[robots.txt]] file to indicate the number of seconds to delay between requests.
+
+The first proposed interval between successive pageloads was 60 seconds.&lt;ref>Koster, M. (1993). [http://www.robotstxt.org/wc/guidelines.html Guidelines for robots writers] {{Webarchive|url=https://web.archive.org/web/20050422045839/http://www.robotstxt.org/wc/guidelines.html |date=22 April 2005 }}.&lt;/ref> However, if pages were downloaded at this rate from a website with more than 100,000 pages over a perfect connection with zero latency and infinite bandwidth, it would take more than 2 months to download only that entire Web site; also, only a fraction of the resources from that Web server would be used.
+
+Cho uses 10 seconds as an interval for accesses,&lt;ref name=cho2003/> and the WIRE crawler uses 15 seconds as the default.&lt;ref name=baeza2002>Baeza-Yates, R. and Castillo, C. (2002). [http://www.chato.cl/papers/baeza02balancing.pdf Balancing volume, quality and freshness in Web crawling]. In Soft Computing Systems&amp;nbsp;– Design, Management and Applications, pages 565–572, Santiago, Chile. IOS Press Amsterdam.&lt;/ref> The MercatorWeb crawler follows an adaptive politeness policy: if it took ''t'' seconds to download a document from a given server, the crawler waits for 10''t'' seconds before downloading the next page.&lt;ref>{{cite journal |author1=Heydon, Allan |author2=Najork, Marc |title=Mercator: A Scalable, Extensible Web Crawler |date=1999-06-26 |url=http://www.cindoc.csic.es/cybermetrics/pdf/68.pdf |access-date=2009-03-22 |url-status=dead |archive-url=https://web.archive.org/web/20060219085958/http://www.cindoc.csic.es/cybermetrics/pdf/68.pdf |archive-date=19 February 2006}}&lt;/ref> Dill ''et al.'' use 1 second.&lt;ref>{{cite journal |last1 = Dill |first1 = S. |last2 = Kumar |first2 = R. |last3 = Mccurley |first3 = K. S. |last4 = Rajagopalan |first4 = S. |last5 = Sivakumar |first5 = D. |last6 = Tomkins |first6 = A. |year = 2002 |title = Self-similarity in the web |url = http://www.mccurley.org/papers/fractal.pdf |journal = ACM Transactions on Internet Technology|volume = 2 |issue = 3 |pages = 205–223 |doi=10.1145/572326.572328|s2cid = 6416041 }}&lt;/ref>
+
+For those using Web crawlers for research purposes, a more detailed cost-benefit analysis is needed and ethical considerations should be taken into account when deciding where to crawl and how fast to crawl.&lt;ref>{{Cite journal | author1 = M. Thelwall | author2 = D. Stuart | year = 2006 | url = http://www.scit.wlv.ac.uk/%7Ecm1993/papers/Web_Crawling_Ethics_preprint.doc | title = Web crawling ethics revisited: Cost, privacy and denial of service | volume = 57 | issue = 13 | pages = 1771–1779 | journal = Journal of the American Society for Information Science and Technology | doi = 10.1002/asi.20388 | archive-date = 7 March 2008 | access-date = 28 January 2008 | archive-url = https://web.archive.org/web/20080307071132/http://www.scit.wlv.ac.uk/%7Ecm1993/papers/Web_Crawling_Ethics_preprint.doc | url-status = dead }}&lt;/ref>
+
+Anecdotal evidence from access logs shows that access intervals from known crawlers vary between 20 seconds and 3–4 minutes. It is worth noticing that even when being very polite, and taking all the safeguards to avoid overloading Web servers, some complaints from Web server administrators are received. [[Sergey Brin]] and [[Larry Page]] noted in 1998, "... running a crawler which connects to more than half a million servers ... generates a fair amount of e-mail and phone calls. Because of the vast number of people coming on line, there are always those who do not know what a crawler is, because this is the first one they have seen."&lt;ref name=brin1998>{{cite journal|url=http://infolab.stanford.edu/~backrub/google.html|doi=10.1016/s0169-7552(98)00110-x|title=The anatomy of a large-scale hypertextual Web search engine|journal=Computer Networks and ISDN Systems|volume=30|issue=1–7|pages=107–117|year=1998|last1=Brin|first1=Sergey|last2=Page|first2=Lawrence|s2cid=7587743 }}&lt;/ref>
+
+===Parallelization policy===
+{{Main|Distributed web crawling}}
+
+A [[Parallel computing|parallel]] crawler is a crawler that runs multiple processes in parallel. The goal is to maximize the download rate while minimizing the overhead from parallelization and to avoid repeated downloads of the same page. To avoid downloading the same page more than once, the crawling system requires a policy for assigning the new URLs discovered during the crawling process, as the same URL can be found by two different crawling processes.
+
+==Architectures==
+[[File:WebCrawlerArchitecture.svg|thumb|300px|High-level architecture of a standard Web crawler]]
+A crawler must not only have a good crawling strategy, as noted in the previous sections, but it should also have a highly optimized architecture.
+
+Shkapenyuk and Suel noted that:&lt;ref name=shkapenyuk2002>Shkapenyuk, V. and [[Torsten Suel|Suel, T.]] (2002). [http://cis.poly.edu/tr/tr-cis-2001-03.pdf Design and implementation of a high performance distributed web crawler] {{Webarchive|url=https://web.archive.org/web/20051001063011/http://cis.poly.edu/tr/tr-cis-2001-03.pdf |date=1 October 2005 }}. In Proceedings of the 18th International Conference on Data Engineering (ICDE), pages 357-368, San Jose, California. IEEE CS Press.&lt;/ref>
+
+{{quote|While it is fairly easy to build a slow crawler that downloads a few pages per second for a short period of time, building a high-performance system that can download hundreds of millions of pages over several weeks presents a number of challenges in system design, I/O and network efficiency, and robustness and manageability.}}
+
+Web crawlers are a central part of search engines, and details on their algorithms and architecture are kept as business secrets. When crawler designs are published, there is often an important lack of detail that prevents others from reproducing the work. There are also emerging concerns about "[[Spamdexing|search engine spamming]]", which prevent major search engines from publishing their ranking algorithms.
+
+==Security==
+While most of the website owners are keen to have their pages indexed as broadly as possible to have strong presence in [[Web search engine|search engines]], web crawling can also have [[unintended consequences]] and lead to a [[Web application security|compromise]] or [[data breach]] if a search engine indexes resources that should not be publicly available, or pages revealing potentially vulnerable versions of software.
+
+{{main|Google hacking}}
+
+Apart from standard [[web application security]] recommendations website owners can reduce their exposure to opportunistic hacking by only allowing search engines to index the public parts of their websites (with [[Robots exclusion standard|robots.txt]]) and explicitly blocking them from indexing transactional parts (login pages, private pages, etc.).
+
+==Crawler identification==
+Web crawlers typically identify themselves to a Web server by using the [[user agent|User-agent]] field of an [[HTTP]] request. Web site administrators typically examine their [[Web server]]s' log and use the user agent field to determine which crawlers have visited the web server and how often. The user agent field may include a [[Uniform Resource Locator|URL]] where the Web site administrator may find out more information about the crawler. Examining Web server log is tedious task, and therefore some administrators use tools to identify, track and verify Web crawlers. [[Spambots]] and other malicious Web crawlers are unlikely to place identifying information in the user agent field, or they may mask their identity as a browser or other well-known crawler.
+
+Web site administrators prefer Web crawlers to identify themselves so that they can contact the owner if needed. In some cases, crawlers may be accidentally trapped in a [[spider trap|crawler trap]] or they may be overloading a Web server with requests, and the owner needs to stop the crawler. Identification is also useful for administrators that are interested in knowing when they may expect their Web pages to be indexed by a particular [[Web search engine|search engine]].
+
+==Crawling the deep web==
+A vast amount of web pages lie in the [[Deep Web (search indexing)|deep or invisible web]].&lt;ref>Shestakov, Denis (2008). [https://oa.doria.fi/handle/10024/38506 ''Search Interfaces on the Web: Querying and Characterizing''] {{Webarchive|url=https://web.archive.org/web/20140706120641/https://oa.doria.fi/handle/10024/38506 |date=6 July 2014 }}. TUCS Doctoral Dissertations 104, University of Turku&lt;/ref> These pages are typically only accessible by submitting queries to a database, and regular crawlers are unable to find these pages if there are no links that point to them. Google's [[Sitemaps]] protocol and [[mod oai]]&lt;ref>{{Cite journal|arxiv=cs/0503069 |author1=Michael L Nelson |author2=Herbert Van de Sompel |author3=Xiaoming Liu |author4=Terry L Harrison |author5=Nathan McFarland |title=mod_oai: An Apache Module for Metadata Harvesting |pages=cs/0503069 |date=2005-03-24|bibcode=2005cs........3069N }}&lt;/ref> are intended to allow discovery of these [[Deep web|deep-Web]] resources.
+
+Deep web crawling also multiplies the number of web links to be crawled. Some crawlers only take some of the URLs in &lt;code>&amp;lt;a&amp;nbsp;href="URL"&amp;gt;&lt;/code> form. In some cases, such as the [[Googlebot]], Web crawling is done on all text contained inside the hypertext content, tags, or text.
+
+Strategic approaches may be taken to target deep Web content. With a technique called [[screen scraping]], specialized software may be customized to automatically and repeatedly query a given Web form with the intention of aggregating the resulting data. Such software can be used to span multiple Web forms across multiple Websites. Data extracted from the results of one Web form submission can be taken and applied as input to another Web form thus establishing continuity across the Deep Web in a way not possible with traditional web crawlers.&lt;ref>{{cite journal
+ |first1  = Denis
+ |last1   = Shestakov
+ |first2  = Sourav S.
+ |last2   = Bhowmick
+ |first3  = Ee-Peng
+ |last3   = Lim
+ |title   = DEQUE: Querying the Deep Web
+ |journal = Data &amp; Knowledge Engineering
+ |volume  = 52
+ |issue   = 3
+ |pages   = 273–311
+ |year    = 2005
+ |url     = http://www.mendeley.com/download/public/1423991/3893295922/dc0f7d824fd2a8fbbc84f6fdf9e4f337d343987d/dl.pdf
+ |doi     = 10.1016/s0169-023x(04)00107-7
+}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref>
+
+Pages built on [[AJAX]] are among those causing problems to web crawlers. [[Google search engine|Google]] has proposed a format of AJAX calls that their bot can recognize and index.&lt;ref>{{cite web | url=https://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=174992 | title=AJAX crawling: Guide for webmasters and developers | access-date=17 March 2013 | archive-date=6 March 2013 | archive-url=https://web.archive.org/web/20130306070359/http://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=174992 | url-status=dead }}&lt;/ref>
+
+== Visual vs programmatic crawlers ==
+There are a number of "visual web scraper/crawler" products available on the web which will crawl pages and structure data into columns and rows based on the users requirements. One of the main difference between a classic and a visual crawler is the level of programming ability required to set up a crawler. The latest generation of "visual scrapers" remove the majority of the programming skill needed to be able to program and start a crawl to scrape web data.
+
+The visual scraping/crawling method relies on the user "teaching" a piece of crawler technology, which then follows patterns in semi-structured data sources. The dominant method for teaching a visual crawler is by highlighting data in a browser and training columns and rows. While the technology is not new, for example it was the basis of Needlebase which has been bought by Google (as part of a larger acquisition of ITA Labs&lt;ref>ITA Labs [http://semanticweb.com/more-semantics-for-google-ita-software-acquisition-comes-with-needlebase-too_b19329 "ITA Labs Acquisition"] {{Webarchive|url=https://web.archive.org/web/20140318134631/http://semanticweb.com/more-semantics-for-google-ita-software-acquisition-comes-with-needlebase-too_b19329 |date=18 March 2014 }} 20 April 2011 1:28 AM&lt;/ref>), there is continued growth and investment in this area by investors and end-users.{{citation needed|date=June 2021}}
+
+== List of web crawlers ==
+{{further|List of search engine software}}
+
+The following is a list of published crawler architectures for general-purpose crawlers (excluding focused web crawlers), with a brief description that includes the names given to the different components and outstanding features:
+
+=== Historical web crawlers ===
+&lt;!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+* [https://web.archive.org/web/20020106130042/http://www.wolfbot.com/ WolfBot] was a massively multi threaded crawler built in 2001 by Mani Singh a Civil Engineering graduate from the University of California at Davis.
+* [[World Wide Web Worm]] was a crawler used to build a simple index of document titles and URLs. The index could be searched by using the &lt;kbd>[[grep]]&lt;/kbd> [[Unix]] command.
+* Yahoo! Slurp was the name of the [[Yahoo!]] Search crawler until Yahoo! contracted with [[Microsoft]] to use [[Bingbot]] instead.
+
+=== In-house web crawlers ===
+
+&lt;!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+* Applebot is [[Apple (company)|Apple]]'s web crawler. It supports [[Siri]] and other products.&lt;ref>{{cite web |title=About Applebot |url=https://support.apple.com/en-us/HT204683 |publisher=Apple Inc |access-date=18 October 2021}}&lt;/ref>
+* [[Bingbot]] is the name of Microsoft's [[Bing (search engine)|Bing]] webcrawler. It replaced ''[[Msnbot]]''.
+* Baiduspider is [[Baidu]]'s web crawler.
+* DuckDuckBot is [[DuckDuckGo]]'s web crawler.
+* [[Googlebot]] is described in some detail, but the reference is only about an early version of its architecture, which was written in C++ and [[Python (programming language)|Python]]. The crawler was integrated with the indexing process, because text parsing was done for full-text indexing and also for URL extraction. There is a URL server that sends lists of URLs to be fetched by several crawling processes. During parsing, the URLs found were passed to a URL server that checked if the URL have been previously seen. If not, the URL was added to the queue of the URL server.
+* [[WebCrawler]] was used to build the first publicly available full-text index of a subset of the Web. It was based on [[Libwww|lib-WWW]] to download pages, and another program to parse and order URLs for breadth-first exploration of the Web graph. It also included a real-time crawler that followed links based on the similarity of the anchor text with the provided query.
+* [[WebFountain]] is a distributed, modular crawler similar to Mercator but written in C++.
+* [[Xenon (program)|Xenon]] is a web crawler used by government tax authorities to detect fraud.{{r|Norton-2007-01-25}}{{r|Canada-2017-04-11}}
+
+=== Commercial web crawlers ===
+The following web crawlers are available, for a price:
+* [[Diffbot]] - programmatic general web crawler, available as an [[API]]
+* [[SortSite]] - crawler for analyzing websites, available for [[Microsoft Windows|Windows]] and [[Macintosh operating systems|Mac OS]]
+* Swiftbot - [[Swiftype]]'s web crawler, available as [[software as a service]]
+* Aleph Search - web crawler allowing massive collection with high scalability
+
+=== Open-source crawlers ===
+
+&lt;!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+* [[Apache Nutch]] is a highly extensible and scalable web crawler written in Java and released under an [[Apache License]]. It is based on [[Apache Hadoop]] and can be used with [[Apache Solr]] or [[Elasticsearch]].
+* [[Grub (search engine)|Grub]] was an open source distributed search crawler that [[Wikia Search]] used to crawl the web.
+* [[Heritrix]] is the [[Internet Archive]]'s archival-quality crawler, designed for archiving periodic snapshots of a large portion of the Web. It was written in [[Java (programming language)|Java]].
+* [[Ht-//dig|ht://Dig]] includes a Web crawler in its indexing engine.
+* [[HTTrack]] uses a Web crawler to create a mirror of a web site for off-line viewing. It is written in [[C (programming language)|C]] and released under the GPL.
+* Norconex Web Crawler is a highly extensible Web Crawler written in [[Java (programming language)|Java]] and released under an [[Apache License]]. It can be used with many repositories such as [[Apache Solr]], [[Elasticsearch]], [[Azure Cognitive Search|Microsoft Azure Cognitive Search]], [[Amazon CloudSearch]] and more.
+* [[mnoGoSearch]] was a crawler, indexer and a search engine written in C and licensed under the GPL which was in operation from 2000 to 2022.
+* [[Open Search Server]] is a search engine and web crawler software release under the GPL.
+* [[Scrapy]], an open source webcrawler framework, written in python (licensed under [[BSD License|BSD]]).
+* [[Seeks]], a free distributed search engine (licensed under [[GNU Affero General Public License|AGPL]]).
+* [[StormCrawler]], a collection of resources for building low-latency, scalable web crawlers on [[Storm (event processor)|Apache Storm]] (Apache License).
+* [[tkWWW Robot]], a crawler based on the [[tkWWW]] web browser (licensed under GPL).
+* [[Wget|GNU Wget]] is a [[Command line interface|command-line]]-operated crawler written in [[C (programming language)|C]] and released under the [[GNU General Public License|GPL]]. It is typically used to mirror Web and FTP sites.
+* [[YaCy]], a free distributed search engine, built on principles of peer-to-peer networks (licensed under GPL).
+
+==See also==
+* [[Automatic indexing]]
+* [[Common Crawl]]
+* [[Gnutella crawler]]
+* [[Web archiving]]
+* [[Webgraph]]
+* [[Website mirroring software]]
+* [[Search Engine Scraping]]
+* [[Web scraping]]
+
+==References==
+{{Reflist | 30em | refs =
+&lt;ref name        = Canada-2017-04-11>
+{{cite web
+ | url           = https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/protecting-your-privacy/privacy-impact-assessment/xenon-web-crawling-initiative-privacy-impact-assessment-summary.html
+ | date          = 11 April 2017
+ | title         = Xenon web crawling initiative: privacy impact assessment (PIA) summary
+ | publisher     = Government of Canada
+ | location      = Ottawa
+ | access-date   = 2017-10-13
+ | archive-url   = https://web.archive.org/web/20170925203155/https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/protecting-your-privacy/privacy-impact-assessment/xenon-web-crawling-initiative-privacy-impact-assessment-summary.html
+ | url-status      = live
+ | archive-date  = 2017-09-25
+}}&lt;/ref>
+&lt;ref name        = Norton-2007-01-25>
+{{cite news
+ | url           = https://www.wired.com/2007/01/tax-takers-send-in-the-spiders/
+ | last          = Norton
+ | first         = Quinn
+ | date          = 25 January 2007
+ | title         = Tax takers send in the spiders
+ | magazine    = [[Wired (magazine)|Wired]]
+ | department    = Business
+ | access-date   = 2017-10-13
+ | archive-url   = https://web.archive.org/web/20161222185208/https://www.wired.com/2007/01/tax-takers-send-in-the-spiders/
+ | url-status      = live
+ | archive-date  = 2016-12-22
+}}&lt;/ref>
+}}
+
+==Further reading==
+* Cho, Junghoo, [http://oak.cs.ucla.edu/~cho/research/crawl.html "Web Crawling Project"] {{Webarchive|url=https://web.archive.org/web/20130707020128/http://oak.cs.ucla.edu/~cho/research/crawl.html |date=7 July 2013 }}, UCLA Computer Science Department.
+* [http://www.wiley.com/legacy/compbooks/sonnenreich/history.html A History of Search Engines], from [[John Wiley &amp; Sons|Wiley]]
+* [https://github.com/bedirhan/wivet WIVET] is a benchmarking project by [[OWASP]], which aims to measure if a web crawler can identify all the hyperlinks in a target website.
+* Shestakov, Denis, [http://www.slideshare.net/denshe/icwe13-tutorial-webcrawling "Current Challenges in Web Crawling"] and [http://www.slideshare.net/denshe/intelligent-crawling-shestakovwiiat13 "Intelligent Web Crawling"], slides for tutorials given at ICWE'13 and WI-IAT'13.
+{{Internet search}}
+{{Web crawlers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Web crawler}}
+[[Category:Search engine software]]
+[[Category:Web crawlers| ]]
+[[Category:Internet search algorithms]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Transclusion" title="Help:Transclusion">help</a>)</span>:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:About" title="Template:About">Template:About</a> (<a href="/w/index.php?title=Template:About&amp;action=edit" title="Template:About">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Authority_control" title="Template:Authority control">Template:Authority control</a> (<a href="/w/index.php?title=Template:Authority_control&amp;action=edit" title="Template:Authority control">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Blockquote" title="Template:Blockquote">Template:Blockquote</a> (<a href="/w/index.php?title=Template:Blockquote&amp;action=edit" title="Template:Blockquote">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Blockquote/styles.css" title="Template:Blockquote/styles.css">Template:Blockquote/styles.css</a> (<a href="/w/index.php?title=Template:Blockquote/styles.css&amp;action=edit" title="Template:Blockquote/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Citation_needed" title="Template:Citation needed">Template:Citation needed</a> (<a href="/w/index.php?title=Template:Citation_needed&amp;action=edit" title="Template:Citation needed">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_book" title="Template:Cite book">Template:Cite book</a> (<a href="/w/index.php?title=Template:Cite_book&amp;action=edit" title="Template:Cite book">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_conference" title="Template:Cite conference">Template:Cite conference</a> (<a href="/w/index.php?title=Template:Cite_conference&amp;action=edit" title="Template:Cite conference">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Cite_journal" title="Template:Cite journal">Template:Cite journal</a> (<a href="/w/index.php?title=Template:Cite_journal&amp;action=edit" title="Template:Cite journal">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_news" title="Template:Cite news">Template:Cite news</a> (<a href="/w/index.php?title=Template:Cite_news&amp;action=edit" title="Template:Cite news">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Cite_thesis" title="Template:Cite thesis">Template:Cite thesis</a> (<a href="/w/index.php?title=Template:Cite_thesis&amp;action=edit" title="Template:Cite thesis">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (fully protected)</li><li><a href="/wiki/Template:DMCA" class="mw-redirect" title="Template:DMCA">Template:DMCA</a> (<a href="/w/index.php?title=Template:DMCA&amp;action=edit" class="mw-redirect" title="Template:DMCA">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dated_maintenance_category" title="Template:Dated maintenance category">Template:Dated maintenance category</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category&amp;action=edit" title="Template:Dated maintenance category">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dated_maintenance_category_(articles)" title="Template:Dated maintenance category (articles)">Template:Dated maintenance category (articles)</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category_(articles)&amp;action=edit" title="Template:Dated maintenance category (articles)">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dead_link" title="Template:Dead link">Template:Dead link</a> (<a href="/w/index.php?title=Template:Dead_link&amp;action=edit" title="Template:Dead link">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Delink" title="Template:Delink">Template:Delink</a> (<a href="/w/index.php?title=Template:Delink&amp;action=edit" title="Template:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Template:FULLROOTPAGENAME" title="Template:FULLROOTPAGENAME">Template:FULLROOTPAGENAME</a> (<a href="/w/index.php?title=Template:FULLROOTPAGENAME&amp;action=edit" title="Template:FULLROOTPAGENAME">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Fix" title="Template:Fix">Template:Fix</a> (<a href="/w/index.php?title=Template:Fix&amp;action=edit" title="Template:Fix">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Fix/category" title="Template:Fix/category">Template:Fix/category</a> (<a href="/w/index.php?title=Template:Fix/category&amp;action=edit" title="Template:Fix/category">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Further" title="Template:Further">Template:Further</a> (<a href="/w/index.php?title=Template:Further&amp;action=edit" title="Template:Further">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Hatnote_group" title="Template:Hatnote group">Template:Hatnote group</a> (<a href="/w/index.php?title=Template:Hatnote_group&amp;action=edit" title="Template:Hatnote group">view source</a>) (semi protected)</li><li><a href="/wiki/Template:Hlist/styles.css" title="Template:Hlist/styles.css">Template:Hlist/styles.css</a> (<a href="/w/index.php?title=Template:Hlist/styles.css&amp;action=edit" title="Template:Hlist/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Internet_search" title="Template:Internet search">Template:Internet search</a> (<a href="/w/index.php?title=Template:Internet_search&amp;action=edit" title="Template:Internet search">edit</a>) </li><li><a href="/wiki/Template:Main" title="Template:Main">Template:Main</a> (<a href="/w/index.php?title=Template:Main&amp;action=edit" title="Template:Main">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Main_other" title="Template:Main other">Template:Main other</a> (<a href="/w/index.php?title=Template:Main_other&amp;action=edit" title="Template:Main other">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/w/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Ns_has_subpages" title="Template:Ns has subpages">Template:Ns has subpages</a> (<a href="/w/index.php?title=Template:Ns_has_subpages&amp;action=edit" title="Template:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Pagetype" title="Template:Pagetype">Template:Pagetype</a> (<a href="/w/index.php?title=Template:Pagetype&amp;action=edit" title="Template:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Quote" class="mw-redirect" title="Template:Quote">Template:Quote</a> (<a href="/w/index.php?title=Template:Quote&amp;action=edit" class="mw-redirect" title="Template:Quote">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R" title="Template:R">Template:R</a> (<a href="/w/index.php?title=Template:R&amp;action=edit" title="Template:R">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R/ref" title="Template:R/ref">Template:R/ref</a> (<a href="/w/index.php?title=Template:R/ref&amp;action=edit" title="Template:R/ref">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R/superscript" title="Template:R/superscript">Template:R/superscript</a> (<a href="/w/index.php?title=Template:R/superscript&amp;action=edit" title="Template:R/superscript">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:R/where" title="Template:R/where">Template:R/where</a> (<a href="/w/index.php?title=Template:R/where&amp;action=edit" title="Template:R/where">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Redirect-distinguish" title="Template:Redirect-distinguish">Template:Redirect-distinguish</a> (<a href="/w/index.php?title=Template:Redirect-distinguish&amp;action=edit" title="Template:Redirect-distinguish">view source</a>) (extended confirmed protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Reflist/styles.css" title="Template:Reflist/styles.css">Template:Reflist/styles.css</a> (<a href="/w/index.php?title=Template:Reflist/styles.css&amp;action=edit" title="Template:Reflist/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Template:SDcat" title="Template:SDcat">Template:SDcat</a> (<a href="/w/index.php?title=Template:SDcat&amp;action=edit" title="Template:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Short_description" title="Template:Short description">Template:Short description</a> (<a href="/w/index.php?title=Template:Short_description&amp;action=edit" title="Template:Short description">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Short_description/lowercasecheck" title="Template:Short description/lowercasecheck">Template:Short description/lowercasecheck</a> (<a href="/w/index.php?title=Template:Short_description/lowercasecheck&amp;action=edit" title="Template:Short description/lowercasecheck">view source</a>) (fully protected)</li><li><a href="/wiki/Template:Use_dmy_dates" title="Template:Use dmy dates">Template:Use dmy dates</a> (<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit" title="Template:Use dmy dates">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Web_crawlers" title="Template:Web crawlers">Template:Web crawlers</a> (<a href="/w/index.php?title=Template:Web_crawlers&amp;action=edit" title="Template:Web crawlers">edit</a>) </li><li><a href="/wiki/Template:Webarchive" title="Template:Webarchive">Template:Webarchive</a> (<a href="/w/index.php?title=Template:Webarchive&amp;action=edit" title="Template:Webarchive">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:About" title="Module:About">Module:About</a> (<a href="/w/index.php?title=Module:About&amp;action=edit" title="Module:About">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Arguments" title="Module:Arguments">Module:Arguments</a> (<a href="/w/index.php?title=Module:Arguments&amp;action=edit" title="Module:Arguments">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Authority_control" title="Module:Authority control">Module:Authority control</a> (<a href="/w/index.php?title=Module:Authority_control&amp;action=edit" title="Module:Authority control">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Authority_control/config" title="Module:Authority control/config">Module:Authority control/config</a> (<a href="/w/index.php?title=Module:Authority_control/config&amp;action=edit" title="Module:Authority control/config">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Category_handler" title="Module:Category handler">Module:Category handler</a> (<a href="/w/index.php?title=Module:Category_handler&amp;action=edit" title="Module:Category handler">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/blacklist" title="Module:Category handler/blacklist">Module:Category handler/blacklist</a> (<a href="/w/index.php?title=Module:Category_handler/blacklist&amp;action=edit" title="Module:Category handler/blacklist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/config" title="Module:Category handler/config">Module:Category handler/config</a> (<a href="/w/index.php?title=Module:Category_handler/config&amp;action=edit" title="Module:Category handler/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/data" title="Module:Category handler/data">Module:Category handler/data</a> (<a href="/w/index.php?title=Module:Category_handler/data&amp;action=edit" title="Module:Category handler/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Category_handler/shared" title="Module:Category handler/shared">Module:Category handler/shared</a> (<a href="/w/index.php?title=Module:Category_handler/shared&amp;action=edit" title="Module:Category handler/shared">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Check_for_unknown_parameters" title="Module:Check for unknown parameters">Module:Check for unknown parameters</a> (<a href="/w/index.php?title=Module:Check_for_unknown_parameters&amp;action=edit" title="Module:Check for unknown parameters">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1" title="Module:Citation/CS1">Module:Citation/CS1</a> (<a href="/w/index.php?title=Module:Citation/CS1&amp;action=edit" title="Module:Citation/CS1">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/COinS" title="Module:Citation/CS1/COinS">Module:Citation/CS1/COinS</a> (<a href="/w/index.php?title=Module:Citation/CS1/COinS&amp;action=edit" title="Module:Citation/CS1/COinS">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Configuration" title="Module:Citation/CS1/Configuration">Module:Citation/CS1/Configuration</a> (<a href="/w/index.php?title=Module:Citation/CS1/Configuration&amp;action=edit" title="Module:Citation/CS1/Configuration">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Date_validation" title="Module:Citation/CS1/Date validation">Module:Citation/CS1/Date validation</a> (<a href="/w/index.php?title=Module:Citation/CS1/Date_validation&amp;action=edit" title="Module:Citation/CS1/Date validation">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Identifiers" title="Module:Citation/CS1/Identifiers">Module:Citation/CS1/Identifiers</a> (<a href="/w/index.php?title=Module:Citation/CS1/Identifiers&amp;action=edit" title="Module:Citation/CS1/Identifiers">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Utilities" title="Module:Citation/CS1/Utilities">Module:Citation/CS1/Utilities</a> (<a href="/w/index.php?title=Module:Citation/CS1/Utilities&amp;action=edit" title="Module:Citation/CS1/Utilities">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/Whitelist" title="Module:Citation/CS1/Whitelist">Module:Citation/CS1/Whitelist</a> (<a href="/w/index.php?title=Module:Citation/CS1/Whitelist&amp;action=edit" title="Module:Citation/CS1/Whitelist">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Citation/CS1/styles.css" title="Module:Citation/CS1/styles.css">Module:Citation/CS1/styles.css</a> (<a href="/w/index.php?title=Module:Citation/CS1/styles.css&amp;action=edit" title="Module:Citation/CS1/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Delink" title="Module:Delink">Module:Delink</a> (<a href="/w/index.php?title=Module:Delink&amp;action=edit" title="Module:Delink">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Disambiguation/templates" title="Module:Disambiguation/templates">Module:Disambiguation/templates</a> (<a href="/w/index.php?title=Module:Disambiguation/templates&amp;action=edit" title="Module:Disambiguation/templates">view source</a>) (fully protected)</li><li><a href="/wiki/Module:EditAtWikidata" title="Module:EditAtWikidata">Module:EditAtWikidata</a> (<a href="/w/index.php?title=Module:EditAtWikidata&amp;action=edit" title="Module:EditAtWikidata">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Format_link" title="Module:Format link">Module:Format link</a> (<a href="/w/index.php?title=Module:Format_link&amp;action=edit" title="Module:Format link">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:GetParameters" title="Module:GetParameters">Module:GetParameters</a> (<a href="/w/index.php?title=Module:GetParameters&amp;action=edit" title="Module:GetParameters">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Hatnote" title="Module:Hatnote">Module:Hatnote</a> (<a href="/w/index.php?title=Module:Hatnote&amp;action=edit" title="Module:Hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote/styles.css" title="Module:Hatnote/styles.css">Module:Hatnote/styles.css</a> (<a href="/w/index.php?title=Module:Hatnote/styles.css&amp;action=edit" title="Module:Hatnote/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote_group" title="Module:Hatnote group">Module:Hatnote group</a> (<a href="/w/index.php?title=Module:Hatnote_group&amp;action=edit" title="Module:Hatnote group">view source</a>) (semi protected)</li><li><a href="/wiki/Module:Hatnote_list" title="Module:Hatnote list">Module:Hatnote list</a> (<a href="/w/index.php?title=Module:Hatnote_list&amp;action=edit" title="Module:Hatnote list">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Labelled_list_hatnote" title="Module:Labelled list hatnote">Module:Labelled list hatnote</a> (<a href="/w/index.php?title=Module:Labelled_list_hatnote&amp;action=edit" title="Module:Labelled list hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Namespace_detect/config" title="Module:Namespace detect/config">Module:Namespace detect/config</a> (<a href="/w/index.php?title=Module:Namespace_detect/config&amp;action=edit" title="Module:Namespace detect/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Namespace_detect/data" title="Module:Namespace detect/data">Module:Namespace detect/data</a> (<a href="/w/index.php?title=Module:Namespace_detect/data&amp;action=edit" title="Module:Namespace detect/data">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar" title="Module:Navbar">Module:Navbar</a> (<a href="/w/index.php?title=Module:Navbar&amp;action=edit" title="Module:Navbar">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar/configuration" title="Module:Navbar/configuration">Module:Navbar/configuration</a> (<a href="/w/index.php?title=Module:Navbar/configuration&amp;action=edit" title="Module:Navbar/configuration">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbar/styles.css" title="Module:Navbar/styles.css">Module:Navbar/styles.css</a> (<a href="/w/index.php?title=Module:Navbar/styles.css&amp;action=edit" title="Module:Navbar/styles.css">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Navbox" title="Module:Navbox">Module:Navbox</a> (<a href="/w/index.php?title=Module:Navbox&amp;action=edit" title="Module:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Navbox/configuration" title="Module:Navbox/configuration">Module:Navbox/configuration</a> (<a href="/w/index.php?title=Module:Navbox/configuration&amp;action=edit" title="Module:Navbox/configuration">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Navbox/styles.css" title="Module:Navbox/styles.css">Module:Navbox/styles.css</a> (<a href="/w/index.php?title=Module:Navbox/styles.css&amp;action=edit" title="Module:Navbox/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Ns_has_subpages" title="Module:Ns has subpages">Module:Ns has subpages</a> (<a href="/w/index.php?title=Module:Ns_has_subpages&amp;action=edit" title="Module:Ns has subpages">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype" title="Module:Pagetype">Module:Pagetype</a> (<a href="/w/index.php?title=Module:Pagetype&amp;action=edit" title="Module:Pagetype">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/config" title="Module:Pagetype/config">Module:Pagetype/config</a> (<a href="/w/index.php?title=Module:Pagetype/config&amp;action=edit" title="Module:Pagetype/config">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/disambiguation" class="mw-redirect" title="Module:Pagetype/disambiguation">Module:Pagetype/disambiguation</a> (<a href="/w/index.php?title=Module:Pagetype/disambiguation&amp;action=edit" class="mw-redirect" title="Module:Pagetype/disambiguation">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/rfd" title="Module:Pagetype/rfd">Module:Pagetype/rfd</a> (<a href="/w/index.php?title=Module:Pagetype/rfd&amp;action=edit" title="Module:Pagetype/rfd">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/setindex" title="Module:Pagetype/setindex">Module:Pagetype/setindex</a> (<a href="/w/index.php?title=Module:Pagetype/setindex&amp;action=edit" title="Module:Pagetype/setindex">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Pagetype/softredirect" title="Module:Pagetype/softredirect">Module:Pagetype/softredirect</a> (<a href="/w/index.php?title=Module:Pagetype/softredirect&amp;action=edit" title="Module:Pagetype/softredirect">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Redirect-distinguish" title="Module:Redirect-distinguish">Module:Redirect-distinguish</a> (<a href="/w/index.php?title=Module:Redirect-distinguish&amp;action=edit" title="Module:Redirect-distinguish">view source</a>) (extended confirmed protected)</li><li><a href="/wiki/Module:SDcat" title="Module:SDcat">Module:SDcat</a> (<a href="/w/index.php?title=Module:SDcat&amp;action=edit" title="Module:SDcat">view source</a>) (fully protected)</li><li><a href="/wiki/Module:String" title="Module:String">Module:String</a> (<a href="/w/index.php?title=Module:String&amp;action=edit" title="Module:String">view source</a>) (fully protected)</li><li><a href="/wiki/Module:String2" title="Module:String2">Module:String2</a> (<a href="/w/index.php?title=Module:String2&amp;action=edit" title="Module:String2">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:TableTools" title="Module:TableTools">Module:TableTools</a> (<a href="/w/index.php?title=Module:TableTools&amp;action=edit" title="Module:TableTools">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Unsubst" title="Module:Unsubst">Module:Unsubst</a> (<a href="/w/index.php?title=Module:Unsubst&amp;action=edit" title="Module:Unsubst">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Webarchive" title="Module:Webarchive">Module:Webarchive</a> (<a href="/w/index.php?title=Module:Webarchive&amp;action=edit" title="Module:Webarchive">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Webarchive/data" title="Module:Webarchive/data">Module:Webarchive/data</a> (<a href="/w/index.php?title=Module:Webarchive/data&amp;action=edit" title="Module:Webarchive/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Wikitext_Parsing" title="Module:Wikitext Parsing">Module:Wikitext Parsing</a> (<a href="/w/index.php?title=Module:Wikitext_Parsing&amp;action=edit" title="Module:Wikitext Parsing">view source</a>) (fully protected)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">view source</a>) (fully protected)</li></ul></div><p id="mw-returnto">Return to <a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a>.</p>
+<noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Web_crawler">https://en.wikipedia.org/wiki/Web_crawler</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw-interface=""></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Web_crawler&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" >View source for Web crawler</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Add languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.canary-77bcdb8c98-m62cb","wgBackendResponseTime":438,"wgPageParseReport":{"limitreport":{"cputime":"0.071","walltime":"0.107","ppvisitednodes":{"value":697,"limit":1000000},"revisionsize":{"value":1289,"limit":2097152},"postexpandincludesize":{"value":21489,"limit":2097152},"templateargumentsize":{"value":8523,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1191,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%   75.930      1 -total"," 99.91%   75.865      2 Template:Blocked_text"," 58.75%   44.607      1 Template:Webhostblock"," 32.53%   24.702      1 Template:Tooltip"," 28.95%   21.981      2 Template:Replace"," 23.61%   17.924      2 Template:Hidden"," 10.90%    8.273      1 Template:Tlx","  8.11%    6.160      2 Template:Hidden_begin","  7.03%    5.334      1 Template:Encodefirst","  5.59%    4.244      1 Template:Yesno-yes"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":1282965,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.canary-77bcdb8c98-m62cb","timestamp":"20260223142156","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

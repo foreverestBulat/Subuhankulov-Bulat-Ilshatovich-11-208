@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Backlink - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6f6a1fa2-a37b-49f9-84ee-349d7c250fe5","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Backlink","wgTitle":"Backlink","wgCurRevisionId":1318195786,"wgRevisionId":1318195786,"wgArticleId":580494,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia indefinitely semi-protected pages","Internet terminology","URL","Hypertext"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Backlink","wgRelevantArticleId":580494,"wgTempUserName":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q373952","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseTestKitchenExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.16">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Backlink - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Backlink">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Backlink rootpage-Backlink skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Backlink" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Backlink" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Backlink" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Backlink" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Backlinks_and_search_engines"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Backlinks_and_search_engines">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Backlinks and search engines</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Backlinks_and_search_engines-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Backlink</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 23 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-23" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">23 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D8%B7_%D9%86%D8%B5%D9%8A" title="رابط نصي – Arabic" lang="ar" hreflang="ar" data-title="رابط نصي" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Backlink" title="Backlink – Azerbaijani" lang="az" hreflang="az" data-title="Backlink" data-language-autonym="Azərbaycanca" data-language-local-name="Azerbaijani" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Backlink" title="Backlink – Bavarian" lang="bar" hreflang="bar" data-title="Backlink" data-language-autonym="Boarisch" data-language-local-name="Bavarian" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Zp%C4%9Btn%C3%BD_odkaz" title="Zpětný odkaz – Czech" lang="cs" hreflang="cs" data-title="Zpětný odkaz" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/R%C3%BCckverweis" title="Rückverweis – German" lang="de" hreflang="de" data-title="Rückverweis" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Retroenlace" title="Retroenlace – Spanish" lang="es" hreflang="es" data-title="Retroenlace" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D9%88%D9%86%D8%AF_%D9%88%D8%B1%D9%88%D8%AF%DB%8C" title="پیوند ورودی – Persian" lang="fa" hreflang="fa" data-title="پیوند ورودی" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Lien_retour" title="Lien retour – French" lang="fr" hreflang="fr" data-title="Lien retour" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95" title="बैकलिंक – Hindi" lang="hi" hreflang="hi" data-title="बैकलिंक" data-language-autonym="हिन्दी" data-language-local-name="Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Pranala_balik" title="Pranala balik – Indonesian" lang="id" hreflang="id" data-title="Pranala balik" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/Backlink" title="Backlink – Igbo" lang="ig" hreflang="ig" data-title="Backlink" data-language-autonym="Igbo" data-language-local-name="Igbo" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Backlink" title="Backlink – Italian" lang="it" hreflang="it" data-title="Backlink" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A7%81%ED%81%AC" title="백링크 – Korean" lang="ko" hreflang="ko" data-title="백링크" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%88%E0%A8%95%E0%A8%B2%E0%A8%BF%E0%A9%B0%E0%A8%95" title="ਬੈਕਲਿੰਕ – Punjabi" lang="pa" hreflang="pa" data-title="ਬੈਕਲਿੰਕ" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="Punjabi" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Backlink" title="Backlink – Portuguese" lang="pt" hreflang="pt" data-title="Backlink" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0" title="Обратная ссылка – Russian" lang="ru" hreflang="ru" data-title="Обратная ссылка" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Backlink" title="Backlink – Simple English" lang="en-simple" hreflang="en-simple" data-title="Backlink" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Sp%C3%A4tn%C3%BD_odkaz" title="Spätný odkaz – Slovak" lang="sk" hreflang="sk" data-title="Spätný odkaz" data-language-autonym="Slovenčina" data-language-local-name="Slovak" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Backlink" title="Backlink – Turkish" lang="tr" hreflang="tr" data-title="Backlink" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B5_%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F" title="Зворотне посилання – Ukrainian" lang="uk" hreflang="uk" data-title="Зворотне посилання" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DB%8C%DA%A9_%D9%84%D9%86%DA%A9%D8%B3_%D8%A7%D9%88%D8%B1_%D8%B3%D8%B1%DA%86_%D8%A7%D9%86%D8%AC%D9%86" title="بیک لنکس اور سرچ انجن – Urdu" lang="ur" hreflang="ur" data-title="بیک لنکس اور سرچ انجن" data-language-autonym="اردو" data-language-local-name="Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Backlink" title="Backlink – Vietnamese" lang="vi" hreflang="vi" data-title="Backlink" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E9%93%BE%E6%8E%A5" title="反向链接 – Chinese" lang="zh" hreflang="zh" data-title="反向链接" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373952#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Backlink" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Backlink" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Backlink"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Backlink&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Backlink&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Backlink"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Backlink&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Backlink&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Backlink" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Backlink" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Backlink&amp;oldid=1318195786" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Backlink&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Backlink&amp;id=1318195786&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBacklink"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBacklink"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Backlink&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Backlink&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373952" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 1.5x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-subjectpageheader">
+</div><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Link from another website (referrer) to that web resource (referent)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1333133064">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1246091330">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}</style><table class="sidebar nomobile nowraplinks hlist" role="navigation"><tbody><tr><td class="sidebar-pretitle">Part of a series on</td></tr><tr><th class="sidebar-title-with-pretitle"><a href="/wiki/Online_advertising" title="Online advertising">Internet marketing</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Local_search_engine_optimisation" title="Local search engine optimisation">Local search engine optimisation</a></li>
+<li><a href="/wiki/Social_media_marketing" title="Social media marketing">Social media marketing</a></li>
+<li><a href="/wiki/Email_marketing" title="Email marketing">Email marketing</a></li>
+<li><a href="/wiki/Referral_marketing" title="Referral marketing">Referral marketing</a></li>
+<li><a href="/wiki/Content_marketing" title="Content marketing">Content marketing</a></li>
+<li><a href="/wiki/Native_advertising" title="Native advertising">Native advertising</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#ddddff;">
+<a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Pay-per-click" title="Pay-per-click">Pay-per-click</a></li>
+<li><a href="/wiki/Cost_per_impression" title="Cost per impression">Cost per impression</a></li>
+<li><a href="/wiki/Search_analytics" title="Search analytics">Search analytics</a></li>
+<li><a href="/wiki/Web_analytics" title="Web analytics">Web analytics</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#ddddff;">
+<a href="/wiki/Display_advertising" class="mw-redirect" title="Display advertising">Display advertising</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Ad_blocking" title="Ad blocking">Ad blocking</a></li>
+<li><a href="/wiki/Contextual_advertising" title="Contextual advertising">Contextual advertising</a></li>
+<li><a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">Behavioral targeting</a></li>
+<li><a href="/wiki/Mobile_advertising" title="Mobile advertising">Mobile advertising</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#ddddff;">
+<a href="/wiki/Affiliate_marketing" title="Affiliate marketing">Affiliate marketing</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Cost_per_action" title="Cost per action">Cost per action</a></li>
+<li><a href="/wiki/Revenue_sharing" title="Revenue sharing">Revenue sharing</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#ddddff;">
+Misc</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Keyword_density" title="Keyword density">Keyword density</a></li>
+<li><a href="/wiki/Keyword_research" title="Keyword research">Keyword research</a></li>
+<li><a href="/wiki/PageRank" title="PageRank">PageRank</a></li>
+<li><a href="/wiki/WordPress" title="WordPress">WordPress CMS</a></li></ul></td>
+</tr><tr><td class="sidebar-navbar"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_marketing" title="Template:Internet marketing"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_marketing" title="Template talk:Internet marketing"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Internet_marketing" title="Special:EditPage/Template:Internet marketing"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>From the point of view of a given web resource (<a href="/wiki/Referent" title="Referent">referent</a>), a <b>backlink</b> is a regular hyperlink on another web resource (the <a href="/wiki/Referrer" class="mw-redirect" title="Referrer">referrer</a>) that points to the referent.<sup id="cite&#95;ref-ASIST&#95;1-0" class="reference"><a href="#cite_note-ASIST-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> A <i>web resource</i> may be (for example) a <a href="/wiki/Website" title="Website">website</a>, <a href="/wiki/Web_page" title="Web page">web page</a>, or <a href="/wiki/Web_directory" title="Web directory">web directory</a>.<sup id="cite&#95;ref-ASIST&#95;1-1" class="reference"><a href="#cite_note-ASIST-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>A backlink is a <a href="/wiki/Reference" title="Reference">reference</a> comparable to a <a href="/wiki/Citation" title="Citation">citation</a>.<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> The quantity, quality, and relevance of backlinks for a <a href="/wiki/Web_page" title="Web page">web page</a> are among the factors that search engines like <a href="/wiki/Google" title="Google">Google</a> evaluate in order to estimate how important the page is.<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-Lingras&#95;Akerkar&#95;4-0" class="reference"><a href="#cite_note-Lingras_Akerkar-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/PageRank" title="PageRank">PageRank</a> calculates the score for each web page based on how all the web pages are connected among themselves, and is one of the variables that <a href="/wiki/Google_Search" title="Google Search">Google Search</a> uses to determine how high a web page should go in <a href="/wiki/Search_engine_results_page" title="Search engine results page">search results</a>.<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> This <a href="/wiki/Weighting" class="mw-redirect" title="Weighting">weighting</a> of backlinks is analogous to <a href="/wiki/Citation_analysis" title="Citation analysis">citation analysis</a> of books, <a href="/wiki/Scholarly_paper" class="mw-redirect" title="Scholarly paper">scholarly papers</a>, and <a href="/wiki/Academic_journal" title="Academic journal">academic journals</a>.<sup id="cite&#95;ref-ASIST&#95;1-2" class="reference"><a href="#cite_note-ASIST-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-Lingras&#95;Akerkar&#95;4-1" class="reference"><a href="#cite_note-Lingras_Akerkar-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> A Topical PageRank has been researched and implemented as well, which gives more weight to backlinks coming from the page of a same topic as a target page.<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Some other words for <i>backlink</i> are <b>incoming link</b>, <b>inbound link</b>, <b>inlink</b>, <b>inward link</b>, and <b>citation</b>.<sup id="cite&#95;ref-ASIST&#95;1-3" class="reference"><a href="#cite_note-ASIST-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Backlinks_and_search_engines">Backlinks and search engines</h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1320445320">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Link_building" title="Link building">Link building</a></div>
+<p><a href="/wiki/Search_engine" title="Search engine">Search engines</a> often use the number of backlinks that a website has as one of the most important factors for determining that website's search engine ranking, popularity and importance.<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Google" title="Google">Google</a>'s description of its <a href="/wiki/PageRank" title="PageRank">PageRank</a> system (January 1998), for instance, noted that "<a href="/wiki/Google" title="Google">Google</a> interprets a link from page A to page B as a vote, by page A, for page B."<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> Knowledge of this form of search engine rankings has fueled a portion of the <a href="/wiki/Search_engine_optimization" title="Search engine optimization">search engine optimization</a> (SEO) industry commonly termed <a href="/wiki/Linkspam" class="mw-redirect" title="Linkspam">linkspam</a>, where a company attempts to place as many inbound links as possible to their site regardless of the context of the originating site.<sup id="cite&#95;ref-ent&#95;9-0" class="reference"><a href="#cite_note-ent-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup> In January 2017, Google launched <a href="/wiki/Google_Penguin" title="Google Penguin">Penguin 4</a> update which devalued such link spam practices.<sup id="cite&#95;ref-ent&#95;9-1" class="reference"><a href="#cite_note-ent-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The significance of search engine rankings is high, and it is regarded as a crucial parameter in online business and the <a href="/wiki/Conversion_marketing" title="Conversion marketing">conversion rate</a> of visitors to any website, particularly when it comes to <a href="/wiki/Online_shopping" title="Online shopping">online shopping</a>.<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> Blog commenting, guest blogging, article submission, <a href="/wiki/Press_release" title="Press release">press release</a> distribution, social media engagements, and forum posting can be used to increase backlinks.
+</p><p>Websites often employ SEO techniques to increase the number of backlinks pointing to their website. Some methods are free for use by everyone whereas some methods, like <a href="/wiki/Link_bait" class="mw-redirect" title="Link bait">linkbaiting</a>, require quite a bit of planning and marketing to work.<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> There are also paid techniques to increase the number of backlinks to a target site. For example, private <a href="/wiki/Blog_network" class="mw-redirect" title="Blog network">blog networks</a> can be used to purchase backlinks. It has been estimated that the average cost of buying a link in 2019 was $291.55 and $391.55, when marketing blogs were excluded from the calculation.<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>There are several factors that determine the value of a backlink. Backlinks from <a href="/wiki/Domain_authority" title="Domain authority">authoritative</a> sites on a given topic are highly valuable. If both sites and pages have content geared toward the topic, the backlink is considered relevant and believed to have strong influence on the search engine rankings of the <a href="/wiki/Webpage" class="mw-redirect" title="Webpage">web page</a> granted the backlink.<sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> A backlink represents a favorable 'editorial vote' for the receiving webpage from another granting webpage. Another important factor is the anchor text of the backlink. <a href="/wiki/Anchor_text" title="Anchor text">Anchor text</a> is the descriptive labeling of the hyperlink as it appears on a <a href="/wiki/Web_page" title="Web page">web page</a>.<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> Search engine bots (i.e., spiders, crawlers, etc.) examine the anchor text to evaluate how relevant it is to the content on a webpage. Backlinks can be generated by submissions, such as directory submissions, forum submission, <a href="/wiki/Social_bookmarking" title="Social bookmarking">social bookmarking</a>, business listing, blog submissions, etc. Anchor text and webpage content congruency are highly weighted in <a href="/wiki/Search_engine_results_page" title="Search engine results page">search engine results page</a> (SERP) rankings of a webpage with respect to any given keyword query by a search engine user.<sup id="cite&#95;ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Changes to the algorithms that produce search engine rankings can place a heightened focus on relevance to a particular topic. While some backlinks might be from sources containing highly valuable metrics, they could also be unrelated to the consumer's query or interest.<sup id="cite&#95;ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup> An example of this would be a link from a popular shoe blog (with valuable metrics) to a site selling vintage pencil sharpeners. While the link appears valuable, it provides little to the consumer in terms of relevance.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2></div>
+<ul><li><a href="/wiki/Link_farm" title="Link farm">Link farm</a>&#160;– Group of websites that link to each others</li>
+<li><a href="/wiki/Linkback" title="Linkback">Linkback</a>&#160;– Method of notifications for web authors</li>
+<li><a href="/wiki/Link_building" title="Link building">Methods of website linking</a>&#160;– Efforts to increase the number of high-quality links pointing to a website</li>
+<li><a href="/wiki/Internal_links" class="mw-redirect" title="Internal links">Internal links</a>&#160;– Hyperlinks to resources in the same domain or website</li>
+<li><a href="/wiki/PageRank" title="PageRank">PageRank</a>&#160;– Algorithm used by Google Search to rank web pages</li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a>&#160;– Practice of increasing online visibility</li>
+<li><a href="/wiki/Search_engine_results_page" title="Search engine results page">Search engine results page</a>&#160;– Display of results from a search</li>
+<li><a href="/wiki/Trackback" title="Trackback">Trackback</a>&#160;– Type of linkback method for Web authors</li>
+<li><a href="/wiki/Search_engine_optimization_metrics" title="Search engine optimization metrics">Search engine optimization metrics</a>&#160;– Collection, analysis, and reporting of web data to optimize search engines</li>
+<li><a href="/wiki/Website_audit" title="Website audit">Website audit</a>&#160;– Concept in search engine optimization</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1327269900">.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</style><div>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-ASIST-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ASIST_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ASIST_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ASIST_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ASIST_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1333433106">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFBjörnebornIngwersen2004" class="citation journal cs1">Björneborn, Lennart; Ingwersen, Peter (2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140910140314/http://onlinelibrary.wiley.com/doi/10.1002/asi.20077/abstract">"Toward a Basic Framework for Webometrics"</a>. <i><a href="/wiki/Journal_of_the_Association_for_Information_Science_and_Technology" title="Journal of the Association for Information Science and Technology">Journal of the Association for Information Science and Technology</a></i>. <b>55</b> (14): 1218. <a href="/wiki/CiteSeerX_(identifier)" class="mw-redirect" title="CiteSeerX (identifier)">CiteSeerX</a>&#160;<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.94.1691">10.1.1.94.1691</a></span>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fasi.20077">10.1002/asi.20077</a>. Archived from <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.1691&amp;rep=rep1&amp;type=pdf">the original</a> on 2014-09-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Association+for+Information+Science+and+Technology&amp;rft.atitle=Toward+a+Basic+Framework+for+Webometrics&amp;rft.volume=55&amp;rft.issue=14&amp;rft.pages=1218&amp;rft.date=2004&amp;rft&#95;id=https%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.94.1691%23id-name%3DCiteSeerX&amp;rft&#95;id=info%3Adoi%2F10.1002%2Fasi.20077&amp;rft.aulast=Bj%C3%B6rneborn&amp;rft.aufirst=Lennart&amp;rft.au=Ingwersen%2C+Peter&amp;rft&#95;id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.94.1691%26rep%3Drep1%26type%3Dpdf&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGohFoo2007" class="citation book cs1">Goh, Dion; Foo, Schubert (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=eNv7_KxJBUcC&amp;pg=PA132"><i>Social Information Retrieval Systems: Emerging Technologies and Applications for Searching the Web Effectively: Emerging Technologies and Applications for Searching the Web Effectively</i></a>. Information Science Reference. p.&#160;132. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59904-543-6" title="Special:BookSources/978-1-59904-543-6"><bdi>978-1-59904-543-6</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Social+Information+Retrieval+Systems%3A+Emerging+Technologies+and+Applications+for+Searching+the+Web+Effectively%3A+Emerging+Technologies+and+Applications+for+Searching+the+Web+Effectively&amp;rft.pages=132&amp;rft.pub=Information+Science+Reference&amp;rft.date=2007&amp;rft.isbn=978-1-59904-543-6&amp;rft.aulast=Goh&amp;rft.aufirst=Dion&amp;rft.au=Foo%2C+Schubert&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DeNv7&#95;KxJBUcC%26pg%3DPA132&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111104131332/https://www.google.com/competition/howgooglesearchworks.html">"About Search"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.google.com/competition/howgooglesearchworks.html">the original</a> on 2011-11-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-20</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Search&amp;rft&#95;id=https%3A%2F%2Fwww.google.com%2Fcompetition%2Fhowgooglesearchworks.html&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-Lingras&#95;Akerkar-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lingras_Akerkar_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lingras_Akerkar_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFLingrasAkerkar2010" class="citation book cs1">Lingras, Pawan; Akerkar, Rajendra (10 March 2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=a_a5gsKxBOEC&amp;pg=PA294">"Web Structure Mining § PageRank Algorithm"</a>. <i>Building an Intelligent Web: Theory and Practice</i>. Jones &amp; Bartlett Publishers. p.&#160;294. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4496-6322-3" title="Special:BookSources/978-1-4496-6322-3"><bdi>978-1-4496-6322-3</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Web+Structure+Mining+%C2%A7+PageRank+Algorithm&amp;rft.btitle=Building+an+Intelligent+Web%3A+Theory+and+Practice&amp;rft.pages=294&amp;rft.pub=Jones+%26+Bartlett+Publishers&amp;rft.date=2010-03-10&amp;rft.isbn=978-1-4496-6322-3&amp;rft.aulast=Lingras&amp;rft.aufirst=Pawan&amp;rft.au=Akerkar%2C+Rajendra&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Da&#95;a5gsKxBOEC%26pg%3DPA294&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFOlsen2010" class="citation book cs1">Olsen, Martin (20 May 2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4RTexhx0efEC&amp;pg=PA37">"Maximizing PageRank with New Backlinks"</a>. In Diaz, Josep; Calamoneri, Tiziana (eds.). <i>Algorithms and Complexity: 7th International Conference, CIAC 2010, Rome, Italy, May 26–28, 2010, Proceedings</i>. Berlin: Springer Science &amp; Business Media. p.&#160;37. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-13072-4" title="Special:BookSources/978-3-642-13072-4"><bdi>978-3-642-13072-4</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/oclc/873382847">873382847</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Maximizing+PageRank+with+New+Backlinks&amp;rft.btitle=Algorithms+and+Complexity%3A+7th+International+Conference%2C+CIAC+2010%2C+Rome%2C+Italy%2C+May+26%E2%80%9328%2C+2010%2C+Proceedings&amp;rft.place=Berlin&amp;rft.pages=37&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft.date=2010-05-20&amp;rft&#95;id=info%3Aoclcnum%2F873382847&amp;rft.isbn=978-3-642-13072-4&amp;rft.aulast=Olsen&amp;rft.aufirst=Martin&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4RTexhx0efEC%26pg%3DPA37&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFNieDavisonQi2006" class="citation book cs1">Nie, Lan; Davison, Brian D.; Qi, Xiaoguang (2006). <span class="id-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/sigirseattle20060000inte/page/91">"Topical link analysis for web search"</a></span>. <i>Proceedings of the 29th annual international ACM SIGIR conference on Research and development in information retrieval</i>. SIGIR '06. New York, NY, US: ACM. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/sigirseattle20060000inte/page/91">91–98</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F1148170.1148189">10.1145/1148170.1148189</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1595933690" title="Special:BookSources/978-1595933690"><bdi>978-1595933690</bdi></a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:2877831">2877831</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Topical+link+analysis+for+web+search&amp;rft.btitle=Proceedings+of+the+29th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&amp;rft.place=New+York%2C+NY%2C+US&amp;rft.series=SIGIR+%2706&amp;rft.pages=91-98&amp;rft.pub=ACM&amp;rft.date=2006&amp;rft&#95;id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A2877831%23id-name%3DS2CID&amp;rft&#95;id=info%3Adoi%2F10.1145%2F1148170.1148189&amp;rft.isbn=978-1595933690&amp;rft.aulast=Nie&amp;rft.aufirst=Lan&amp;rft.au=Davison%2C+Brian+D.&amp;rft.au=Qi%2C+Xiaoguang&amp;rft&#95;id=https%3A%2F%2Farchive.org%2Fdetails%2Fsigirseattle20060000inte%2Fpage%2F91&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFJones2018" class="citation web cs1">Jones, Kristopher (2018-01-24). <a rel="nofollow" class="external text" href="https://www.searchenginejournal.com/content-not-ranking-google/232831/">"How to Push Great Content that Isn't Ranking Well"</a>. <i>searchenginejournal.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=searchenginejournal.com&amp;rft.atitle=How+to+Push+Great+Content+that+Isn%27t+Ranking+Well&amp;rft.date=2018-01-24&amp;rft.aulast=Jones&amp;rft.aufirst=Kristopher&amp;rft&#95;id=https%3A%2F%2Fwww.searchenginejournal.com%2Fcontent-not-ranking-google%2F232831%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200310034512/http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf">"Google's overview of PageRank"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 10 March 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2014</span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google%27s+overview+of+PageRank&amp;rft&#95;id=http%3A%2F%2Filpubs.stanford.edu%3A8090%2F422%2F1%2F1999-66.pdf&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-ent-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-ent_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ent_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFMisra2017" class="citation web cs1">Misra, Parth (2017-01-27). <a rel="nofollow" class="external text" href="https://www.entrepreneur.com/article/295099">"The Invisible Threat of 'Black Hat' SEO to Your Company's Reputation"</a>. <i><a href="/wiki/Entrepreneur_(magazine)" title="Entrepreneur (magazine)">Entrepreneur</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Entrepreneur&amp;rft.atitle=The+Invisible+Threat+of+%27Black+Hat%27+SEO+to+Your+Company%27s+Reputation&amp;rft.date=2017-01-27&amp;rft.aulast=Misra&amp;rft.aufirst=Parth&amp;rft&#95;id=https%3A%2F%2Fwww.entrepreneur.com%2Farticle%2F295099&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFChasinov2019" class="citation web cs1">Chasinov, Nick (2019-04-05). <a rel="nofollow" class="external text" href="https://www.entrepreneur.com/article/331693">"How Entrepreneurs Can Beat Amazon at Organic Search"</a>. <i><a href="/wiki/Entrepreneur_(magazine)" title="Entrepreneur (magazine)">Entrepreneur</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Entrepreneur&amp;rft.atitle=How+Entrepreneurs+Can+Beat+Amazon+at+Organic+Search&amp;rft.date=2019-04-05&amp;rft.aulast=Chasinov&amp;rft.aufirst=Nick&amp;rft&#95;id=https%3A%2F%2Fwww.entrepreneur.com%2Farticle%2F331693&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFTaylor2013" class="citation book cs1">Taylor, Gabriela (2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=fWgaAQAAQBAJ&amp;pg=PA171"><i>Give Your Marketing a Digital Edge</i></a>. Global &amp; Digital. p.&#160;171. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-909924-30-7" title="Special:BookSources/978-1-909924-30-7"><bdi>978-1-909924-30-7</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Give+Your+Marketing+a+Digital+Edge&amp;rft.pages=171&amp;rft.pub=Global+%26+Digital&amp;rft.date=2013&amp;rft.isbn=978-1-909924-30-7&amp;rft.aulast=Taylor&amp;rft.aufirst=Gabriela&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfWgaAQAAQBAJ%26pg%3DPA171&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFBucciachio2019" class="citation web cs1">Bucciachio, Vincent (2019-12-08). <a rel="nofollow" class="external text" href="https://www.sociallyinfused.com/marketing/buy-backlinks/">"What's the Cost of Buying Links in 2020? We Contacted 1,950 Blogs to Uncover the Truth"</a>. <i>sociallyinfused.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sociallyinfused.com&amp;rft.atitle=What%27s+the+Cost+of+Buying+Links+in+2020%3F+We+Contacted+1%2C950+Blogs+to+Uncover+the+Truth&amp;rft.date=2019-12-08&amp;rft.aulast=Bucciachio&amp;rft.aufirst=Vincent&amp;rft&#95;id=https%3A%2F%2Fwww.sociallyinfused.com%2Fmarketing%2Fbuy-backlinks%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGriffin2019" class="citation web cs1">Griffin, Fran (2019-06-07). <a rel="nofollow" class="external text" href="https://www.prweek.com/article/1586848/does-modern-pr-professional-look-2019">"What does the modern PR professional look like in 2019?"</a>. <i><a href="/wiki/PRWeek" title="PRWeek">PRWeek</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PRWeek&amp;rft.atitle=What+does+the+modern+PR+professional+look+like+in+2019%3F&amp;rft.date=2019-06-07&amp;rft.aulast=Griffin&amp;rft.aufirst=Fran&amp;rft&#95;id=https%3A%2F%2Fwww.prweek.com%2Farticle%2F1586848%2Fdoes-modern-pr-professional-look-2019&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFLoop2016" class="citation book cs1">Loop, Matthew (2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=rqZmCwAAQBAJ&amp;pg=PA129"><i>Social Media Made Me Rich: Here's How it Can do the Same for You</i></a>. Morgan James Publishing. p.&#160;129. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-63047-793-6" title="Special:BookSources/978-1-63047-793-6"><bdi>978-1-63047-793-6</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Social+Media+Made+Me+Rich%3A+Here%27s+How+it+Can+do+the+Same+for+You&amp;rft.pages=129&amp;rft.pub=Morgan+James+Publishing&amp;rft.date=2016&amp;rft.isbn=978-1-63047-793-6&amp;rft.aulast=Loop&amp;rft.aufirst=Matthew&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DrqZmCwAAQBAJ%26pg%3DPA129&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.searchenginejournal.com/ranking-factors/anchor-text/">"Anchor Text As A Google Ranking Factor: Everything You Need to Know"</a>. <i>Search Engine Journal</i>. 2021-10-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-06-25</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Search+Engine+Journal&amp;rft.atitle=Anchor+Text+As+A+Google+Ranking+Factor%3A+Everything+You+Need+to+Know&amp;rft.date=2021-10-03&amp;rft&#95;id=https%3A%2F%2Fwww.searchenginejournal.com%2Franking-factors%2Fanchor-text%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGlazier2011" class="citation book cs1">Glazier, Alan (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=y9XValwmetIC&amp;pg=PA80"><i>Searchial Marketing:: How Social Media Drives Search Optimization in Web 3.0</i></a>. Author House. p.&#160;80. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4567-3892-1" title="Special:BookSources/978-1-4567-3892-1"><bdi>978-1-4567-3892-1</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Searchial+Marketing%3A%3A+How+Social+Media+Drives+Search+Optimization+in+Web+3.0&amp;rft.pages=80&amp;rft.pub=Author+House&amp;rft.date=2011&amp;rft.isbn=978-1-4567-3892-1&amp;rft.aulast=Glazier&amp;rft.aufirst=Alan&amp;rft&#95;id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dy9XValwmetIC%26pg%3DPA80&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ABacklink" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐78b74dd8c4‐cnnxb
+Cached time: 20260223133409
+Cache expiry: 37558
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, prevent‐selective‐update]
+CPU time usage: 0.442 seconds
+Real time usage: 0.583 seconds
+Preprocessor visited node count: 2549/1000000
+Revision size: 10673/2097152 bytes
+Post‐expand include size: 40087/2097152 bytes
+Template argument size: 942/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 70350/5000000 bytes
+Lua time usage: 0.327/10.000 seconds
+Lua memory usage: 16351380/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  548.771      1 -total
+ 33.46%  183.626      1 Template:Reflist
+ 29.68%  162.890     10 Template:Annotated_link
+ 17.48%   95.940      1 Template:Cite_journal
+ 14.05%   77.116      1 Template:Internet_Marketing
+ 13.43%   73.704      1 Template:Sidebar
+ 13.24%   72.683      1 Template:Short_description
+  7.46%   40.935      2 Template:Pagetype
+  5.99%   32.884      8 Template:Cite_web
+  5.71%   31.350      7 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:580494:|#|:idhash:canonical and timestamp 20260223133409 and revision id 1318195786. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Backlink&amp;oldid=1318195786">https://en.wikipedia.org/w/index.php?title=Backlink&amp;oldid=1318195786</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_terminology" title="Category:Internet terminology">Internet terminology</a></li><li><a href="/wiki/Category:URL" title="Category:URL">URL</a></li><li><a href="/wiki/Category:Hypertext" title="Category:Hypertext">Hypertext</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2025, at 13:37<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Backlink&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Backlink</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>23 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-78b74dd8c4-tkxdf","wgBackendResponseTime":193,"wgPageParseReport":{"limitreport":{"cputime":"0.442","walltime":"0.583","ppvisitednodes":{"value":2549,"limit":1000000},"revisionsize":{"value":10673,"limit":2097152},"postexpandincludesize":{"value":40087,"limit":2097152},"templateargumentsize":{"value":942,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":70350,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  548.771      1 -total"," 33.46%  183.626      1 Template:Reflist"," 29.68%  162.890     10 Template:Annotated_link"," 17.48%   95.940      1 Template:Cite_journal"," 14.05%   77.116      1 Template:Internet_Marketing"," 13.43%   73.704      1 Template:Sidebar"," 13.24%   72.683      1 Template:Short_description","  7.46%   40.935      2 Template:Pagetype","  5.99%   32.884      8 Template:Cite_web","  5.71%   31.350      7 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.327","limit":"10.000"},"limitreport-memusage":{"value":16351380,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-78b74dd8c4-cnnxb","timestamp":"20260223133409","ttl":37558,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Backlink","url":"https:\/\/en.wikipedia.org\/wiki\/Backlink","sameAs":"http:\/\/www.wikidata.org\/entity\/Q373952","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q373952","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-06T19:34:06Z","dateModified":"2025-10-22T13:37:45Z","headline":"links from some other website (the referrer) to that web resource (the referent)"}</script>
+</body>
+</html>
