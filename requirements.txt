@@ -2,3 +2,7 @@ requests
 beautifulsoup4
 pymorphy3
 nltk
+
+fastapi
+uvicorn
+jinja2
