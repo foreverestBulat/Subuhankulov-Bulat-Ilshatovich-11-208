@@ -1,12 +1,9 @@
 import os
 import re
 import math
-import requests
 from fastapi import FastAPI, Request, Query
-from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
-from fastapi.staticfiles import StaticFiles
-from bs4 import BeautifulSoup
 from nltk.stem import WordNetLemmatizer
 
 app = FastAPI()

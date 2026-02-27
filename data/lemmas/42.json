@@ -1,0 +1,5576 @@
+{
+    "search": [
+        "searches",
+        "searched",
+        "search",
+        "searching"
+    ],
+    "engine": [
+        "engines",
+        "engine"
+    ],
+    "wikipedia": [
+        "wikipedia"
+    ],
+    "jump": [
+        "jump"
+    ],
+    "content": [
+        "contents",
+        "content"
+    ],
+    "main": [
+        "main"
+    ],
+    "menu": [
+        "menu"
+    ],
+    "move": [
+        "moves",
+        "move"
+    ],
+    "sidebar": [
+        "sidebar"
+    ],
+    "hide": [
+        "hide",
+        "hiding"
+    ],
+    "navigation": [
+        "navigation"
+    ],
+    "page": [
+        "page",
+        "pages"
+    ],
+    "current": [
+        "current"
+    ],
+    "event": [
+        "events"
+    ],
+    "random": [
+        "random"
+    ],
+    "article": [
+        "article",
+        "articles"
+    ],
+    "contact": [
+        "contact",
+        "contacts"
+    ],
+    "contribute": [
+        "contribute"
+    ],
+    "help": [
+        "helps",
+        "help"
+    ],
+    "learn": [
+        "learning",
+        "learn"
+    ],
+    "edit": [
+        "edit",
+        "edited"
+    ],
+    "community": [
+        "community"
+    ],
+    "portal": [
+        "portal",
+        "portals"
+    ],
+    "recent": [
+        "recent"
+    ],
+    "change": [
+        "changing",
+        "change",
+        "changed",
+        "changes"
+    ],
+    "upload": [
+        "upload"
+    ],
+    "file": [
+        "filed",
+        "file",
+        "files"
+    ],
+    "special": [
+        "special"
+    ],
+    "appearance": [
+        "appearance"
+    ],
+    "donate": [
+        "donate"
+    ],
+    "create": [
+        "creating",
+        "created",
+        "create"
+    ],
+    "account": [
+        "account"
+    ],
+    "log": [
+        "log",
+        "logs"
+    ],
+    "personal": [
+        "personal"
+    ],
+    "tool": [
+        "tool",
+        "tools"
+    ],
+    "top": [
+        "top"
+    ],
+    "history": [
+        "history"
+    ],
+    "toggle": [
+        "toggle"
+    ],
+    "subsection": [
+        "subsection"
+    ],
+    "birth": [
+        "birth"
+    ],
+    "present": [
+        "present",
+        "presented"
+    ],
+    "post": [
+        "post"
+    ],
+    "dot": [
+        "dot"
+    ],
+    "com": [
+        "com"
+    ],
+    "bubble": [
+        "bubbling",
+        "bubble",
+        "bubbles"
+    ],
+    "approach": [
+        "approach"
+    ],
+    "local": [
+        "local"
+    ],
+    "market": [
+        "marketing",
+        "market"
+    ],
+    "share": [
+        "share",
+        "shares"
+    ],
+    "russia": [
+        "russia"
+    ],
+    "east": [
+        "east"
+    ],
+    "asia": [
+        "asia"
+    ],
+    "bias": [
+        "bias",
+        "biases"
+    ],
+    "customize": [
+        "customized"
+    ],
+    "result": [
+        "results",
+        "result"
+    ],
+    "filter": [
+        "filter",
+        "filters",
+        "filtering",
+        "filtered"
+    ],
+    "religious": [
+        "religious"
+    ],
+    "submission": [
+        "submissions",
+        "submission"
+    ],
+    "comparison": [
+        "comparison"
+    ],
+    "social": [
+        "social"
+    ],
+    "bookmarking": [
+        "bookmarking"
+    ],
+    "technology": [
+        "technology",
+        "technologies"
+    ],
+    "archie": [
+        "archie"
+    ],
+    "lone": [
+        "lone"
+    ],
+    "wanderer": [
+        "wanderer"
+    ],
+    "excite": [
+        "excite"
+    ],
+    "yahoo": [
+        "yahoo",
+        "yahoos"
+    ],
+    "lycos": [
+        "lycos"
+    ],
+    "type": [
+        "types",
+        "type"
+    ],
+    "web": [
+        "web"
+    ],
+    "see": [
+        "see"
+    ],
+    "also": [
+        "also"
+    ],
+    "reference": [
+        "referenced",
+        "references",
+        "reference",
+        "referencing"
+    ],
+    "further": [
+        "further"
+    ],
+    "read": [
+        "read",
+        "reading"
+    ],
+    "external": [
+        "external"
+    ],
+    "link": [
+        "links",
+        "linked",
+        "link"
+    ],
+    "table": [
+        "table"
+    ],
+    "language": [
+        "languages",
+        "language"
+    ],
+    "banjar": [
+        "banjar"
+    ],
+    "bosanski": [
+        "bosanski"
+    ],
+    "cymraeg": [
+        "cymraeg"
+    ],
+    "esperanto": [
+        "esperanto"
+    ],
+    "eesti": [
+        "eesti"
+    ],
+    "euskara": [
+        "euskara"
+    ],
+    "suomi": [
+        "suomi"
+    ],
+    "gaeilge": [
+        "gaeilge"
+    ],
+    "hrvatski": [
+        "hrvatski"
+    ],
+    "magyar": [
+        "magyar"
+    ],
+    "bahasa": [
+        "bahasa"
+    ],
+    "indonesia": [
+        "indonesia"
+    ],
+    "latina": [
+        "latina"
+    ],
+    "minangkabau": [
+        "minangkabau"
+    ],
+    "melayu": [
+        "melayu"
+    ],
+    "li": [
+        "li"
+    ],
+    "niha": [
+        "niha"
+    ],
+    "norsk": [
+        "norsk"
+    ],
+    "polski": [
+        "polski"
+    ],
+    "runa": [
+        "runa"
+    ],
+    "simi": [
+        "simi"
+    ],
+    "srpskohrvatski": [
+        "srpskohrvatski"
+    ],
+    "simple": [
+        "simple"
+    ],
+    "english": [
+        "english"
+    ],
+    "srpski": [
+        "srpski"
+    ],
+    "talk": [
+        "talk"
+    ],
+    "view": [
+        "views",
+        "view"
+    ],
+    "source": [
+        "source"
+    ],
+    "action": [
+        "actions"
+    ],
+    "general": [
+        "general"
+    ],
+    "what": [
+        "what"
+    ],
+    "here": [
+        "here"
+    ],
+    "relate": [
+        "relating",
+        "related"
+    ],
+    "permanent": [
+        "permanent"
+    ],
+    "information": [
+        "information"
+    ],
+    "cite": [
+        "cite",
+        "cites"
+    ],
+    "get": [
+        "get"
+    ],
+    "shorten": [
+        "shortened"
+    ],
+    "url": [
+        "urls",
+        "url"
+    ],
+    "download": [
+        "download",
+        "downloaded"
+    ],
+    "qr": [
+        "qr"
+    ],
+    "code": [
+        "code"
+    ],
+    "print": [
+        "print"
+    ],
+    "export": [
+        "export"
+    ],
+    "pdf": [
+        "pdf"
+    ],
+    "printable": [
+        "printable"
+    ],
+    "version": [
+        "versions",
+        "version"
+    ],
+    "other": [
+        "other"
+    ],
+    "project": [
+        "projects",
+        "project"
+    ],
+    "wikimedia": [
+        "wikimedia"
+    ],
+    "common": [
+        "common",
+        "commons"
+    ],
+    "wikibooks": [
+        "wikibooks"
+    ],
+    "wikiversity": [
+        "wikiversity"
+    ],
+    "wikidata": [
+        "wikidata"
+    ],
+    "item": [
+        "item"
+    ],
+    "free": [
+        "free"
+    ],
+    "encyclopedia": [
+        "encyclopedia"
+    ],
+    "redirect": [
+        "redirected",
+        "redirecting",
+        "redirect"
+    ],
+    "software": [
+        "software"
+    ],
+    "system": [
+        "system",
+        "systems"
+    ],
+    "find": [
+        "find",
+        "finding",
+        "found"
+    ],
+    "relevant": [
+        "relevant"
+    ],
+    "be": [
+        "were",
+        "are",
+        "was",
+        "be",
+        "is",
+        "being",
+        "been"
+    ],
+    "world": [
+        "world"
+    ],
+    "wide": [
+        "wide"
+    ],
+    "us": [
+        "uses"
+    ],
+    "disambiguation": [
+        "disambiguation"
+    ],
+    "s": [
+        "s"
+    ],
+    "tone": [
+        "tone"
+    ],
+    "style": [
+        "style"
+    ],
+    "may": [
+        "may"
+    ],
+    "not": [
+        "not"
+    ],
+    "reflect": [
+        "reflect"
+    ],
+    "encyclopedic": [
+        "encyclopedic"
+    ],
+    "use": [
+        "uses",
+        "use",
+        "using",
+        "used"
+    ],
+    "guide": [
+        "guide"
+    ],
+    "write": [
+        "writing",
+        "written",
+        "wrote"
+    ],
+    "good": [
+        "good",
+        "better"
+    ],
+    "suggestion": [
+        "suggestions"
+    ],
+    "june": [
+        "june"
+    ],
+    "how": [
+        "how"
+    ],
+    "when": [
+        "when"
+    ],
+    "remove": [
+        "remove"
+    ],
+    "message": [
+        "message"
+    ],
+    "google": [
+        "google"
+    ],
+    "phrase": [
+        "phrase",
+        "phrases"
+    ],
+    "magic": [
+        "magic"
+    ],
+    "flute": [
+        "flute"
+    ],
+    "opera": [
+        "opera"
+    ],
+    "that": [
+        "that"
+    ],
+    "provide": [
+        "provided",
+        "provide",
+        "providing",
+        "provides"
+    ],
+    "hyperlink": [
+        "hyperlinks"
+    ],
+    "response": [
+        "response"
+    ],
+    "user": [
+        "users",
+        "user"
+    ],
+    "query": [
+        "queries",
+        "query"
+    ],
+    "enter": [
+        "enters",
+        "entered"
+    ],
+    "browser": [
+        "browser"
+    ],
+    "mobile": [
+        "mobile"
+    ],
+    "app": [
+        "app"
+    ],
+    "typically": [
+        "typically"
+    ],
+    "list": [
+        "listed",
+        "list"
+    ],
+    "accompany": [
+        "accompanied"
+    ],
+    "textual": [
+        "textual"
+    ],
+    "summary": [
+        "summaries"
+    ],
+    "image": [
+        "images",
+        "image"
+    ],
+    "have": [
+        "has",
+        "had",
+        "have",
+        "having"
+    ],
+    "option": [
+        "option"
+    ],
+    "limit": [
+        "limited",
+        "limiting"
+    ],
+    "specific": [
+        "specific"
+    ],
+    "such": [
+        "such"
+    ],
+    "videos": [
+        "videos"
+    ],
+    "news": [
+        "news"
+    ],
+    "provider": [
+        "provider"
+    ],
+    "part": [
+        "part"
+    ],
+    "distribute": [
+        "distributed"
+    ],
+    "computing": [
+        "computing"
+    ],
+    "can": [
+        "can"
+    ],
+    "encompass": [
+        "encompass"
+    ],
+    "many": [
+        "many"
+    ],
+    "data": [
+        "data"
+    ],
+    "center": [
+        "center",
+        "centers"
+    ],
+    "speed": [
+        "speed"
+    ],
+    "accuracy": [
+        "accuracy"
+    ],
+    "base": [
+        "based"
+    ],
+    "complex": [
+        "complex"
+    ],
+    "index": [
+        "index",
+        "indexed",
+        "indexing",
+        "indices",
+        "indexes"
+    ],
+    "continuously": [
+        "continuously"
+    ],
+    "update": [
+        "updated",
+        "update",
+        "updating"
+    ],
+    "automated": [
+        "automated"
+    ],
+    "crawler": [
+        "crawler",
+        "crawlers"
+    ],
+    "include": [
+        "including",
+        "included",
+        "include"
+    ],
+    "mine": [
+        "mining"
+    ],
+    "database": [
+        "database",
+        "databases"
+    ],
+    "store": [
+        "storing",
+        "stored"
+    ],
+    "server": [
+        "server",
+        "servers"
+    ],
+    "accessible": [
+        "accessible"
+    ],
+    "there": [
+        "there"
+    ],
+    "dawn": [
+        "dawn"
+    ],
+    "however": [
+        "however"
+    ],
+    "become": [
+        "became",
+        "become",
+        "becoming"
+    ],
+    "dominant": [
+        "dominant"
+    ],
+    "one": [
+        "one"
+    ],
+    "remain": [
+        "remain",
+        "remaining",
+        "remains",
+        "remained"
+    ],
+    "so": [
+        "so"
+    ],
+    "accord": [
+        "according"
+    ],
+    "statcounter": [
+        "statcounter"
+    ],
+    "hold": [
+        "holds",
+        "hold"
+    ],
+    "approximately": [
+        "approximately"
+    ],
+    "worldwide": [
+        "worldwide"
+    ],
+    "competitor": [
+        "competitors"
+    ],
+    "trail": [
+        "trailing"
+    ],
+    "far": [
+        "far",
+        "further"
+    ],
+    "bing": [
+        "bing"
+    ],
+    "yandex": [
+        "yandex"
+    ],
+    "duckduckgo": [
+        "duckduckgo"
+    ],
+    "baidu": [
+        "baidu"
+    ],
+    "notably": [
+        "notably"
+    ],
+    "mark": [
+        "marks",
+        "mark"
+    ],
+    "first": [
+        "first"
+    ],
+    "time": [
+        "times",
+        "time"
+    ],
+    "decade": [
+        "decade"
+    ],
+    "fall": [
+        "fall",
+        "fallen"
+    ],
+    "threshold": [
+        "threshold"
+    ],
+    "business": [
+        "business",
+        "businesses"
+    ],
+    "website": [
+        "websites",
+        "website"
+    ],
+    "improve": [
+        "improving",
+        "improve"
+    ],
+    "visibility": [
+        "visibility"
+    ],
+    "know": [
+        "known",
+        "know"
+    ],
+    "marketing": [
+        "marketing"
+    ],
+    "optimization": [
+        "optimization"
+    ],
+    "thus": [
+        "thus"
+    ],
+    "largely": [
+        "largely"
+    ],
+    "focus": [
+        "focus",
+        "focused"
+    ],
+    "timeline": [
+        "timeline"
+    ],
+    "full": [
+        "full"
+    ],
+    "year": [
+        "years",
+        "year"
+    ],
+    "status": [
+        "status"
+    ],
+    "inactive": [
+        "inactive"
+    ],
+    "aliweb": [
+        "aliweb"
+    ],
+    "jumpstation": [
+        "jumpstation"
+    ],
+    "www": [
+        "www"
+    ],
+    "worm": [
+        "worm"
+    ],
+    "webcrawler": [
+        "webcrawler"
+    ],
+    "active": [
+        "active"
+    ],
+    "go": [
+        "goes",
+        "went",
+        "going",
+        "go"
+    ],
+    "redirects": [
+        "redirects"
+    ],
+    "disney": [
+        "disney"
+    ],
+    "infoseek": [
+        "infoseek"
+    ],
+    "initially": [
+        "initially"
+    ],
+    "function": [
+        "function"
+    ],
+    "directory": [
+        "directory"
+    ],
+    "daum": [
+        "daum"
+    ],
+    "ch": [
+        "ch"
+    ],
+    "magellan": [
+        "magellan"
+    ],
+    "metacrawler": [
+        "metacrawler"
+    ],
+    "altavista": [
+        "altavista"
+    ],
+    "acquire": [
+        "acquired"
+    ],
+    "sapo": [
+        "sapo"
+    ],
+    "rankdex": [
+        "rankdex"
+    ],
+    "incorporate": [
+        "incorporated",
+        "incorporating"
+    ],
+    "dogpile": [
+        "dogpile"
+    ],
+    "hotbot": [
+        "hotbot"
+    ],
+    "inktomi": [
+        "inktomi"
+    ],
+    "ask": [
+        "ask"
+    ],
+    "jeeves": [
+        "jeeves"
+    ],
+    "rebranded": [
+        "rebranded"
+    ],
+    "aol": [
+        "aol"
+    ],
+    "goo": [
+        "goo"
+    ],
+    "ne": [
+        "ne"
+    ],
+    "jp": [
+        "jp"
+    ],
+    "northern": [
+        "northern"
+    ],
+    "light": [
+        "light"
+    ],
+    "ixquick": [
+        "ixquick"
+    ],
+    "startpage": [
+        "startpage"
+    ],
+    "msn": [
+        "msn"
+    ],
+    "empas": [
+        "empas"
+    ],
+    "merge": [
+        "merged"
+    ],
+    "nate": [
+        "nate"
+    ],
+    "alltheweb": [
+        "alltheweb"
+    ],
+    "genieknows": [
+        "genieknows"
+    ],
+    "yellowee": [
+        "yellowee"
+    ],
+    "justlocalbusiness": [
+        "justlocalbusiness"
+    ],
+    "naver": [
+        "naver"
+    ],
+    "teoma": [
+        "teoma"
+    ],
+    "exalead": [
+        "exalead"
+    ],
+    "gigablast": [
+        "gigablast"
+    ],
+    "kartoo": [
+        "kartoo"
+    ],
+    "info": [
+        "info"
+    ],
+    "clusty": [
+        "clusty"
+    ],
+    "yippy": [
+        "yippy"
+    ],
+    "previously": [
+        "previously"
+    ],
+    "now": [
+        "now"
+    ],
+    "own": [
+        "owns",
+        "own",
+        "owned"
+    ],
+    "togoda": [
+        "togoda"
+    ],
+    "mojeek": [
+        "mojeek"
+    ],
+    "sogou": [
+        "sogou"
+    ],
+    "searchme": [
+        "searchme"
+    ],
+    "kidzsearch": [
+        "kidzsearch"
+    ],
+    "soso": [
+        "soso"
+    ],
+    "quaero": [
+        "quaero"
+    ],
+    "chacha": [
+        "chacha"
+    ],
+    "live": [
+        "live"
+    ],
+    "wikiseek": [
+        "wikiseek"
+    ],
+    "sproose": [
+        "sproose"
+    ],
+    "wikia": [
+        "wikia"
+    ],
+    "blackle": [
+        "blackle"
+    ],
+    "powerset": [
+        "powerset"
+    ],
+    "picollator": [
+        "picollator"
+    ],
+    "viewzi": [
+        "viewzi"
+    ],
+    "boogami": [
+        "boogami"
+    ],
+    "leapfish": [
+        "leapfish"
+    ],
+    "forestle": [
+        "forestle"
+    ],
+    "ecosia": [
+        "ecosia"
+    ],
+    "tineye": [
+        "tineye"
+    ],
+    "yebol": [
+        "yebol"
+    ],
+    "scout": [
+        "scout"
+    ],
+    "goby": [
+        "goby"
+    ],
+    "sister": [
+        "sister"
+    ],
+    "blekko": [
+        "blekko"
+    ],
+    "sell": [
+        "selling",
+        "sold"
+    ],
+    "ibm": [
+        "ibm"
+    ],
+    "cuil": [
+        "cuil"
+    ],
+    "parsijoo": [
+        "parsijoo"
+    ],
+    "yacy": [
+        "yacy"
+    ],
+    "volunia": [
+        "volunia"
+    ],
+    "qwant": [
+        "qwant"
+    ],
+    "egerin": [
+        "egerin"
+    ],
+    "kurdish": [
+        "kurdish"
+    ],
+    "sorani": [
+        "sorani"
+    ],
+    "swisscows": [
+        "swisscows"
+    ],
+    "searx": [
+        "searx"
+    ],
+    "yooz": [
+        "yooz"
+    ],
+    "cliqz": [
+        "cliqz"
+    ],
+    "kiddle": [
+        "kiddle"
+    ],
+    "presearch": [
+        "presearch"
+    ],
+    "kagi": [
+        "kagi"
+    ],
+    "petal": [
+        "petal"
+    ],
+    "brave": [
+        "brave"
+    ],
+    "perplexity": [
+        "perplexity"
+    ],
+    "pre": [
+        "pre"
+    ],
+    "vannevar": [
+        "vannevar"
+    ],
+    "bush": [
+        "bush"
+    ],
+    "describe": [
+        "describe",
+        "described"
+    ],
+    "retrieval": [
+        "retrieval"
+    ],
+    "would": [
+        "would"
+    ],
+    "allow": [
+        "allowing",
+        "allow",
+        "allowed",
+        "allows"
+    ],
+    "access": [
+        "access"
+    ],
+    "great": [
+        "great"
+    ],
+    "expanse": [
+        "expanse"
+    ],
+    "single": [
+        "single"
+    ],
+    "desk": [
+        "desk"
+    ],
+    "which": [
+        "which"
+    ],
+    "call": [
+        "called"
+    ],
+    "memex": [
+        "memex"
+    ],
+    "title": [
+        "title",
+        "titles",
+        "titled"
+    ],
+    "think": [
+        "think"
+    ],
+    "atlantic": [
+        "atlantic"
+    ],
+    "monthly": [
+        "monthly"
+    ],
+    "intend": [
+        "intended"
+    ],
+    "give": [
+        "given",
+        "give",
+        "gives"
+    ],
+    "capability": [
+        "capability"
+    ],
+    "overcome": [
+        "overcome"
+    ],
+    "ever": [
+        "ever"
+    ],
+    "increase": [
+        "increasing"
+    ],
+    "difficulty": [
+        "difficulty"
+    ],
+    "locate": [
+        "locating",
+        "located",
+        "locate",
+        "locates"
+    ],
+    "grow": [
+        "grew",
+        "growing"
+    ],
+    "centralized": [
+        "centralized"
+    ],
+    "scientific": [
+        "scientific"
+    ],
+    "work": [
+        "work",
+        "working",
+        "works"
+    ],
+    "envision": [
+        "envisioned"
+    ],
+    "library": [
+        "libraries"
+    ],
+    "research": [
+        "researching",
+        "research"
+    ],
+    "connect": [
+        "connected",
+        "connect"
+    ],
+    "annotation": [
+        "annotations"
+    ],
+    "similar": [
+        "similar"
+    ],
+    "modern": [
+        "modern"
+    ],
+    "analysis": [
+        "analysis"
+    ],
+    "eventually": [
+        "eventually"
+    ],
+    "crucial": [
+        "crucial"
+    ],
+    "component": [
+        "component"
+    ],
+    "algorithm": [
+        "algorithm",
+        "algorithms"
+    ],
+    "hyper": [
+        "hyper"
+    ],
+    "pagerank": [
+        "pagerank"
+    ],
+    "internet": [
+        "internet"
+    ],
+    "predate": [
+        "predating",
+        "predate"
+    ],
+    "debut": [
+        "debut",
+        "debuted"
+    ],
+    "december": [
+        "december"
+    ],
+    "whois": [
+        "whois"
+    ],
+    "date": [
+        "date",
+        "dates"
+    ],
+    "back": [
+        "backed",
+        "back"
+    ],
+    "knowbot": [
+        "knowbot"
+    ],
+    "service": [
+        "service",
+        "services"
+    ],
+    "multi": [
+        "multi"
+    ],
+    "network": [
+        "network"
+    ],
+    "implement": [
+        "implemented"
+    ],
+    "well": [
+        "better",
+        "well"
+    ],
+    "document": [
+        "documented",
+        "document"
+    ],
+    "namely": [
+        "namely"
+    ],
+    "ftp": [
+        "ftp"
+    ],
+    "september": [
+        "september"
+    ],
+    "prior": [
+        "prior"
+    ],
+    "entirely": [
+        "entirely"
+    ],
+    "hand": [
+        "hand"
+    ],
+    "webservers": [
+        "webservers"
+    ],
+    "tim": [
+        "tim"
+    ],
+    "berners": [
+        "berners"
+    ],
+    "lee": [
+        "lee"
+    ],
+    "host": [
+        "hosted"
+    ],
+    "cern": [
+        "cern"
+    ],
+    "webserver": [
+        "webserver"
+    ],
+    "snapshot": [
+        "snapshot"
+    ],
+    "remains": [
+        "remains"
+    ],
+    "more": [
+        "more"
+    ],
+    "central": [
+        "central"
+    ],
+    "could": [
+        "could"
+    ],
+    "no": [
+        "no"
+    ],
+    "longer": [
+        "longer"
+    ],
+    "keep": [
+        "keep",
+        "keeps"
+    ],
+    "up": [
+        "up"
+    ],
+    "ncsa": [
+        "ncsa"
+    ],
+    "site": [
+        "site",
+        "sites"
+    ],
+    "new": [
+        "new"
+    ],
+    "announce": [
+        "announcing",
+        "announced"
+    ],
+    "oppose": [
+        "opposed"
+    ],
+    "name": [
+        "name",
+        "named",
+        "names"
+    ],
+    "stand": [
+        "standing",
+        "stands"
+    ],
+    "archive": [
+        "archive",
+        "archives",
+        "archived",
+        "archiving"
+    ],
+    "v": [
+        "vs",
+        "v"
+    ],
+    "alan": [
+        "alan"
+    ],
+    "emtage": [
+        "emtage"
+    ],
+    "computer": [
+        "computers",
+        "computer"
+    ],
+    "science": [
+        "sciences",
+        "science"
+    ],
+    "student": [
+        "student"
+    ],
+    "mcgill": [
+        "mcgill"
+    ],
+    "university": [
+        "university"
+    ],
+    "montreal": [
+        "montreal"
+    ],
+    "quebec": [
+        "quebec"
+    ],
+    "canada": [
+        "canada"
+    ],
+    "program": [
+        "programmed",
+        "programming",
+        "programs",
+        "program"
+    ],
+    "listing": [
+        "listings"
+    ],
+    "all": [
+        "all"
+    ],
+    "public": [
+        "public"
+    ],
+    "anonymous": [
+        "anonymous"
+    ],
+    "transfer": [
+        "transfer"
+    ],
+    "protocol": [
+        "protocols",
+        "protocol"
+    ],
+    "sit": [
+        "sites"
+    ],
+    "searchable": [
+        "searchable"
+    ],
+    "do": [
+        "done",
+        "do",
+        "does",
+        "doing",
+        "did"
+    ],
+    "amount": [
+        "amount"
+    ],
+    "limited": [
+        "limited"
+    ],
+    "readily": [
+        "readily"
+    ],
+    "manually": [
+        "manually"
+    ],
+    "rise": [
+        "rose",
+        "rise"
+    ],
+    "gopher": [
+        "gopher"
+    ],
+    "mccahill": [
+        "mccahill"
+    ],
+    "minnesota": [
+        "minnesota"
+    ],
+    "lead": [
+        "leads",
+        "led",
+        "lead",
+        "leading"
+    ],
+    "two": [
+        "two"
+    ],
+    "veronica": [
+        "veronica"
+    ],
+    "jughead": [
+        "jughead"
+    ],
+    "very": [
+        "very"
+    ],
+    "easy": [
+        "easy"
+    ],
+    "rodent": [
+        "rodent"
+    ],
+    "orient": [
+        "oriented"
+    ],
+    "net": [
+        "net"
+    ],
+    "computerize": [
+        "computerized"
+    ],
+    "keyword": [
+        "keyword"
+    ],
+    "most": [
+        "most"
+    ],
+    "entire": [
+        "entire"
+    ],
+    "jonzy": [
+        "jonzy"
+    ],
+    "universal": [
+        "universal"
+    ],
+    "hierarchy": [
+        "hierarchy"
+    ],
+    "excavation": [
+        "excavation"
+    ],
+    "display": [
+        "display"
+    ],
+    "obtain": [
+        "obtaining",
+        "obtained"
+    ],
+    "comic": [
+        "comic"
+    ],
+    "book": [
+        "book"
+    ],
+    "series": [
+        "series"
+    ],
+    "character": [
+        "characters"
+    ],
+    "predecessor": [
+        "predecessors",
+        "predecessor"
+    ],
+    "summer": [
+        "summer"
+    ],
+    "exist": [
+        "existed"
+    ],
+    "numerous": [
+        "numerous"
+    ],
+    "specialized": [
+        "specialized"
+    ],
+    "catalog": [
+        "catalog",
+        "catalogs"
+    ],
+    "maintain": [
+        "maintained",
+        "maintains",
+        "maintaining"
+    ],
+    "oscar": [
+        "oscar"
+    ],
+    "nierstrasz": [
+        "nierstrasz"
+    ],
+    "geneva": [
+        "geneva"
+    ],
+    "perl": [
+        "perl"
+    ],
+    "script": [
+        "scripts",
+        "script"
+    ],
+    "periodically": [
+        "periodically"
+    ],
+    "mirror": [
+        "mirrored"
+    ],
+    "rewrite": [
+        "rewrote"
+    ],
+    "standard": [
+        "standard",
+        "standards"
+    ],
+    "format": [
+        "format"
+    ],
+    "form": [
+        "formed",
+        "form"
+    ],
+    "basis": [
+        "basis"
+    ],
+    "primitive": [
+        "primitive"
+    ],
+    "release": [
+        "released"
+    ],
+    "matthew": [
+        "matthew"
+    ],
+    "gray": [
+        "gray"
+    ],
+    "then": [
+        "then"
+    ],
+    "mit": [
+        "mit"
+    ],
+    "produce": [
+        "produce",
+        "produced"
+    ],
+    "probably": [
+        "probably"
+    ],
+    "robot": [
+        "robots",
+        "robot"
+    ],
+    "generate": [
+        "generate",
+        "generating",
+        "generates"
+    ],
+    "wandex": [
+        "wandex"
+    ],
+    "purpose": [
+        "purpose"
+    ],
+    "measure": [
+        "measure",
+        "measures"
+    ],
+    "size": [
+        "size"
+    ],
+    "late": [
+        "later",
+        "late"
+    ],
+    "second": [
+        "second"
+    ],
+    "appear": [
+        "appeared",
+        "appear",
+        "appears"
+    ],
+    "november": [
+        "november"
+    ],
+    "instead": [
+        "instead"
+    ],
+    "depend": [
+        "depended",
+        "depends",
+        "depending"
+    ],
+    "notify": [
+        "notified"
+    ],
+    "administrator": [
+        "administrators",
+        "administrator"
+    ],
+    "existence": [
+        "existence"
+    ],
+    "particular": [
+        "particular"
+    ],
+    "jonathon": [
+        "jonathon"
+    ],
+    "fletcher": [
+        "fletcher"
+    ],
+    "build": [
+        "build"
+    ],
+    "interface": [
+        "interface"
+    ],
+    "resource": [
+        "resources",
+        "resource"
+    ],
+    "discovery": [
+        "discovery"
+    ],
+    "combine": [
+        "combine",
+        "combined"
+    ],
+    "three": [
+        "three"
+    ],
+    "essential": [
+        "essential"
+    ],
+    "feature": [
+        "feature",
+        "features"
+    ],
+    "crawl": [
+        "crawl",
+        "crawling",
+        "crawled"
+    ],
+    "indexing": [
+        "indexing"
+    ],
+    "available": [
+        "available"
+    ],
+    "platform": [
+        "platforms",
+        "platform"
+    ],
+    "run": [
+        "run",
+        "ran",
+        "running"
+    ],
+    "hence": [
+        "hence"
+    ],
+    "searching": [
+        "searching"
+    ],
+    "heading": [
+        "headings"
+    ],
+    "encounter": [
+        "encounter",
+        "encountered"
+    ],
+    "text": [
+        "text",
+        "texts"
+    ],
+    "come": [
+        "came"
+    ],
+    "out": [
+        "out"
+    ],
+    "word": [
+        "words",
+        "word"
+    ],
+    "major": [
+        "major"
+    ],
+    "widely": [
+        "widely"
+    ],
+    "start": [
+        "started"
+    ],
+    "carnegie": [
+        "carnegie"
+    ],
+    "mellon": [
+        "mellon"
+    ],
+    "launch": [
+        "launched"
+    ],
+    "commercial": [
+        "commercial"
+    ],
+    "endeavor": [
+        "endeavor"
+    ],
+    "popular": [
+        "popular"
+    ],
+    "product": [
+        "product"
+    ],
+    "found": [
+        "founded"
+    ],
+    "jerry": [
+        "jerry"
+    ],
+    "yang": [
+        "yang"
+    ],
+    "david": [
+        "david"
+    ],
+    "filo": [
+        "filo"
+    ],
+    "january": [
+        "january"
+    ],
+    "add": [
+        "adds",
+        "added",
+        "add"
+    ],
+    "way": [
+        "way",
+        "ways"
+    ],
+    "people": [
+        "people"
+    ],
+    "interest": [
+        "interest"
+    ],
+    "operate": [
+        "operating",
+        "operated"
+    ],
+    "rather": [
+        "rather"
+    ],
+    "copy": [
+        "copies"
+    ],
+    "soon": [
+        "soon"
+    ],
+    "number": [
+        "number"
+    ],
+    "vie": [
+        "vied"
+    ],
+    "popularity": [
+        "popularity"
+    ],
+    "seeker": [
+        "seekers",
+        "seeker"
+    ],
+    "browse": [
+        "browse",
+        "browsing"
+    ],
+    "robin": [
+        "robin"
+    ],
+    "develop": [
+        "developed"
+    ],
+    "score": [
+        "scoring"
+    ],
+    "ranking": [
+        "ranking"
+    ],
+    "receive": [
+        "receiving",
+        "received",
+        "receive"
+    ],
+    "patent": [
+        "patent",
+        "patents"
+    ],
+    "quality": [
+        "quality"
+    ],
+    "later": [
+        "later"
+    ],
+    "larry": [
+        "larry"
+    ],
+    "u": [
+        "u"
+    ],
+    "china": [
+        "china"
+    ],
+    "netscape": [
+        "netscape"
+    ],
+    "look": [
+        "looks",
+        "looking",
+        "look"
+    ],
+    "exclusive": [
+        "exclusive"
+    ],
+    "deal": [
+        "deals",
+        "deal"
+    ],
+    "featured": [
+        "featured"
+    ],
+    "much": [
+        "much"
+    ],
+    "struck": [
+        "struck"
+    ],
+    "five": [
+        "five"
+    ],
+    "million": [
+        "million",
+        "millions"
+    ],
+    "rotation": [
+        "rotation"
+    ],
+    "adopt": [
+        "adopted"
+    ],
+    "idea": [
+        "idea"
+    ],
+    "term": [
+        "termed",
+        "term",
+        "terms"
+    ],
+    "small": [
+        "smaller",
+        "small"
+    ],
+    "company": [
+        "companies",
+        "company"
+    ],
+    "goto": [
+        "goto"
+    ],
+    "significant": [
+        "significant"
+    ],
+    "effect": [
+        "effect"
+    ],
+    "struggle": [
+        "struggling"
+    ],
+    "profitable": [
+        "profitable"
+    ],
+    "bright": [
+        "brightest"
+    ],
+    "star": [
+        "stars"
+    ],
+    "invest": [
+        "investing"
+    ],
+    "frenzy": [
+        "frenzy"
+    ],
+    "occur": [
+        "occurred"
+    ],
+    "several": [
+        "several"
+    ],
+    "spectacularly": [
+        "spectacularly"
+    ],
+    "record": [
+        "record"
+    ],
+    "gain": [
+        "gains"
+    ],
+    "initial": [
+        "initial"
+    ],
+    "offering": [
+        "offerings"
+    ],
+    "take": [
+        "taken"
+    ],
+    "down": [
+        "down"
+    ],
+    "enterprise": [
+        "enterprise"
+    ],
+    "only": [
+        "only"
+    ],
+    "edition": [
+        "editions"
+    ],
+    "catch": [
+        "catch",
+        "caught"
+    ],
+    "speculation": [
+        "speculation"
+    ],
+    "drive": [
+        "driven"
+    ],
+    "boom": [
+        "boom"
+    ],
+    "peak": [
+        "peaked"
+    ],
+    "march": [
+        "march"
+    ],
+    "prominence": [
+        "prominence"
+    ],
+    "achieve": [
+        "achieved"
+    ],
+    "explain": [
+        "explained",
+        "explains"
+    ],
+    "paper": [
+        "papers",
+        "paper"
+    ],
+    "anatomy": [
+        "anatomy"
+    ],
+    "sergey": [
+        "sergey"
+    ],
+    "brin": [
+        "brin"
+    ],
+    "founder": [
+        "founders"
+    ],
+    "iterative": [
+        "iterative"
+    ],
+    "rank": [
+        "ranked",
+        "ranks",
+        "rank",
+        "ranking"
+    ],
+    "premise": [
+        "premise"
+    ],
+    "desirable": [
+        "desirable"
+    ],
+    "others": [
+        "others"
+    ],
+    "earlier": [
+        "earlier"
+    ],
+    "influence": [
+        "influence"
+    ],
+    "minimalist": [
+        "minimalist"
+    ],
+    "contrast": [
+        "contrast"
+    ],
+    "embed": [
+        "embedded"
+    ],
+    "fact": [
+        "fact"
+    ],
+    "spoof": [
+        "spoof"
+    ],
+    "emerge": [
+        "emerged"
+    ],
+    "mystery": [
+        "mystery"
+    ],
+    "overture": [
+        "overture"
+    ],
+    "switch": [
+        "switched"
+    ],
+    "combined": [
+        "combined"
+    ],
+    "acquisition": [
+        "acquisitions"
+    ],
+    "microsoft": [
+        "microsoft"
+    ],
+    "early": [
+        "early"
+    ],
+    "begin": [
+        "begins",
+        "began",
+        "begin"
+    ],
+    "looksmart": [
+        "looksmart"
+    ],
+    "blend": [
+        "blended"
+    ],
+    "short": [
+        "short"
+    ],
+    "transition": [
+        "transition"
+    ],
+    "power": [
+        "power",
+        "powered"
+    ],
+    "msnbot": [
+        "msnbot"
+    ],
+    "july": [
+        "july"
+    ],
+    "finalize": [
+        "finalized"
+    ],
+    "following": [
+        "following"
+    ],
+    "process": [
+        "process",
+        "processes"
+    ],
+    "real": [
+        "real"
+    ],
+    "spider": [
+        "spider",
+        "spiders"
+    ],
+    "check": [
+        "checking",
+        "checks",
+        "check"
+    ],
+    "filename": [
+        "filename"
+    ],
+    "txt": [
+        "txt"
+    ],
+    "address": [
+        "addressed"
+    ],
+    "contains": [
+        "contains"
+    ],
+    "directive": [
+        "directives"
+    ],
+    "tell": [
+        "telling"
+    ],
+    "send": [
+        "sent",
+        "sends"
+    ],
+    "certain": [
+        "certain"
+    ],
+    "indexed": [
+        "indexed"
+    ],
+    "factor": [
+        "factors"
+    ],
+    "javascript": [
+        "javascript"
+    ],
+    "cascade": [
+        "cascading"
+    ],
+    "sheet": [
+        "sheets"
+    ],
+    "css": [
+        "css"
+    ],
+    "metadata": [
+        "metadata"
+    ],
+    "html": [
+        "html"
+    ],
+    "meta": [
+        "meta"
+    ],
+    "tag": [
+        "tag",
+        "tags"
+    ],
+    "spend": [
+        "spent"
+    ],
+    "stop": [
+        "stops"
+    ],
+    "n": [
+        "n"
+    ],
+    "o": [
+        "o"
+    ],
+    "actually": [
+        "actually"
+    ],
+    "reachable": [
+        "reachable"
+    ],
+    "due": [
+        "due"
+    ],
+    "infinite": [
+        "infinite"
+    ],
+    "trap": [
+        "traps",
+        "trap"
+    ],
+    "spam": [
+        "spam"
+    ],
+    "exigency": [
+        "exigencies"
+    ],
+    "apply": [
+        "apply"
+    ],
+    "policy": [
+        "policy"
+    ],
+    "determine": [
+        "determine",
+        "determined",
+        "determining"
+    ],
+    "crawling": [
+        "crawling"
+    ],
+    "should": [
+        "should"
+    ],
+    "deem": [
+        "deemed"
+    ],
+    "sufficient": [
+        "sufficient"
+    ],
+    "exhaustively": [
+        "exhaustively"
+    ],
+    "partially": [
+        "partially"
+    ],
+    "mean": [
+        "means",
+        "meant"
+    ],
+    "associate": [
+        "associating"
+    ],
+    "definable": [
+        "definable"
+    ],
+    "token": [
+        "tokens"
+    ],
+    "domain": [
+        "domain"
+    ],
+    "field": [
+        "fields"
+    ],
+    "association": [
+        "associations"
+    ],
+    "multiple": [
+        "multiple"
+    ],
+    "sentence": [
+        "sentence"
+    ],
+    "as": [
+        "as"
+    ],
+    "quickly": [
+        "quickly"
+    ],
+    "possible": [
+        "possible"
+    ],
+    "technique": [
+        "techniques"
+    ],
+    "cache": [
+        "caching"
+    ],
+    "trade": [
+        "trade"
+    ],
+    "secret": [
+        "secrets"
+    ],
+    "whereas": [
+        "whereas"
+    ],
+    "straightforward": [
+        "straightforward"
+    ],
+    "visit": [
+        "visiting",
+        "visits",
+        "visit"
+    ],
+    "systematic": [
+        "systematic"
+    ],
+    "cached": [
+        "cached"
+    ],
+    "need": [
+        "need",
+        "needed",
+        "needs"
+    ],
+    "render": [
+        "render"
+    ],
+    "memory": [
+        "memory"
+    ],
+    "inquirer": [
+        "inquirer"
+    ],
+    "overdue": [
+        "overdue"
+    ],
+    "just": [
+        "just"
+    ],
+    "act": [
+        "act"
+    ],
+    "proxy": [
+        "proxy"
+    ],
+    "case": [
+        "case",
+        "cases"
+    ],
+    "differ": [
+        "differ"
+    ],
+    "whose": [
+        "whose"
+    ],
+    "useful": [
+        "useful"
+    ],
+    "actual": [
+        "actual"
+    ],
+    "lose": [
+        "lost"
+    ],
+    "problem": [
+        "problem"
+    ],
+    "consider": [
+        "considered"
+    ],
+    "mild": [
+        "mild"
+    ],
+    "linkrot": [
+        "linkrot"
+    ],
+    "high": [
+        "higher",
+        "high"
+    ],
+    "level": [
+        "levels",
+        "level"
+    ],
+    "architecture": [
+        "architecture"
+    ],
+    "few": [
+        "few"
+    ],
+    "keywords": [
+        "keywords"
+    ],
+    "already": [
+        "already"
+    ],
+    "contain": [
+        "contained",
+        "containing"
+    ],
+    "instantly": [
+        "instantly"
+    ],
+    "processing": [
+        "processing"
+    ],
+    "load": [
+        "load"
+    ],
+    "must": [
+        "must"
+    ],
+    "weight": [
+        "weighted",
+        "weighting",
+        "weight"
+    ],
+    "require": [
+        "requires",
+        "require",
+        "required"
+    ],
+    "lookup": [
+        "lookup",
+        "lookups"
+    ],
+    "reconstruction": [
+        "reconstruction"
+    ],
+    "markup": [
+        "markup"
+    ],
+    "snippet": [
+        "snippets"
+    ],
+    "show": [
+        "shown",
+        "showing",
+        "show"
+    ],
+    "context": [
+        "context"
+    ],
+    "match": [
+        "matches",
+        "matching",
+        "matched"
+    ],
+    "offer": [
+        "offer"
+    ],
+    "gui": [
+        "gui"
+    ],
+    "command": [
+        "commanding",
+        "command"
+    ],
+    "operator": [
+        "operators"
+    ],
+    "parameter": [
+        "parameters"
+    ],
+    "refine": [
+        "refining",
+        "refine"
+    ],
+    "necessary": [
+        "necessary"
+    ],
+    "control": [
+        "controls",
+        "control"
+    ],
+    "engage": [
+        "engaged"
+    ],
+    "feedback": [
+        "feedback"
+    ],
+    "loop": [
+        "loop"
+    ],
+    "example": [
+        "example"
+    ],
+    "click": [
+        "clicking",
+        "click",
+        "clicks"
+    ],
+    "leftmost": [
+        "leftmost"
+    ],
+    "column": [
+        "column"
+    ],
+    "select": [
+        "selecting"
+    ],
+    "desired": [
+        "desired"
+    ],
+    "range": [
+        "range"
+    ],
+    "modification": [
+        "modification"
+    ],
+    "support": [
+        "support",
+        "supported"
+    ],
+    "boolean": [
+        "boolean"
+    ],
+    "end": [
+        "end",
+        "ends"
+    ],
+    "literal": [
+        "literal"
+    ],
+    "extend": [
+        "extend"
+    ],
+    "exactly": [
+        "exactly"
+    ],
+    "advanced": [
+        "advanced"
+    ],
+    "proximity": [
+        "proximity"
+    ],
+    "define": [
+        "define",
+        "defined"
+    ],
+    "distance": [
+        "distance"
+    ],
+    "concept": [
+        "concept"
+    ],
+    "where": [
+        "where"
+    ],
+    "involve": [
+        "involves"
+    ],
+    "statistical": [
+        "statistical"
+    ],
+    "usefulness": [
+        "usefulness"
+    ],
+    "relevance": [
+        "relevance"
+    ],
+    "set": [
+        "set"
+    ],
+    "authoritative": [
+        "authoritative"
+    ],
+    "employ": [
+        "employ"
+    ],
+    "method": [
+        "methods",
+        "method"
+    ],
+    "best": [
+        "best"
+    ],
+    "decides": [
+        "decides"
+    ],
+    "order": [
+        "ordered",
+        "order"
+    ],
+    "varies": [
+        "varies"
+    ],
+    "over": [
+        "over"
+    ],
+    "usage": [
+        "usage"
+    ],
+    "evolve": [
+        "evolve",
+        "evolved"
+    ],
+    "predefined": [
+        "predefined"
+    ],
+    "hierarchically": [
+        "hierarchically"
+    ],
+    "human": [
+        "humans",
+        "human"
+    ],
+    "extensively": [
+        "extensively"
+    ],
+    "inverted": [
+        "inverted"
+    ],
+    "analyze": [
+        "analyze",
+        "analyzing"
+    ],
+    "relies": [
+        "relies"
+    ],
+    "heavily": [
+        "heavily"
+    ],
+    "bulk": [
+        "bulk"
+    ],
+    "venture": [
+        "venture",
+        "ventures"
+    ],
+    "advertising": [
+        "advertising"
+    ],
+    "revenue": [
+        "revenue"
+    ],
+    "advertiser": [
+        "advertisers"
+    ],
+    "higher": [
+        "higher"
+    ],
+    "fee": [
+        "fee"
+    ],
+    "accept": [
+        "accept"
+    ],
+    "money": [
+        "money"
+    ],
+    "make": [
+        "making",
+        "make",
+        "made"
+    ],
+    "ad": [
+        "ads"
+    ],
+    "regular": [
+        "regular"
+    ],
+    "someone": [
+        "someone"
+    ],
+    "optimize": [
+        "optimizes"
+    ],
+    "effort": [
+        "efforts"
+    ],
+    "ensure": [
+        "ensuring"
+    ],
+    "consistent": [
+        "consistent"
+    ],
+    "important": [
+        "important"
+    ],
+    "plan": [
+        "plan"
+    ],
+    "buy": [
+        "buy",
+        "bought"
+    ],
+    "used": [
+        "used"
+    ],
+    "less": [
+        "less"
+    ],
+    "dominance": [
+        "dominance"
+    ],
+    "rule": [
+        "ruled"
+    ],
+    "illegal": [
+        "illegal"
+    ],
+    "monopoly": [
+        "monopoly"
+    ],
+    "bring": [
+        "brought"
+    ],
+    "department": [
+        "department"
+    ],
+    "justice": [
+        "justice"
+    ],
+    "section": [
+        "section"
+    ],
+    "please": [
+        "please"
+    ],
+    "newly": [
+        "newly"
+    ],
+    "relatively": [
+        "relatively"
+    ],
+    "stable": [
+        "stable"
+    ],
+    "notable": [
+        "notable"
+    ],
+    "shift": [
+        "shifts"
+    ],
+    "geopolitical": [
+        "geopolitical"
+    ],
+    "technological": [
+        "technological"
+    ],
+    "development": [
+        "development",
+        "developments"
+    ],
+    "continue": [
+        "continues"
+    ],
+    "dominate": [
+        "dominate"
+    ],
+    "key": [
+        "key"
+    ],
+    "player": [
+        "player"
+    ],
+    "localized": [
+        "localized"
+    ],
+    "ride": [
+        "ride"
+    ],
+    "hailing": [
+        "hailing"
+    ],
+    "e": [
+        "e"
+    ],
+    "commerce": [
+        "commerce"
+    ],
+    "strengthen": [
+        "strengthening"
+    ],
+    "ecosystem": [
+        "ecosystem"
+    ],
+    "domestic": [
+        "domestic"
+    ],
+    "inaccessible": [
+        "inaccessible"
+    ],
+    "mainland": [
+        "mainland"
+    ],
+    "long": [
+        "long"
+    ],
+    "censorship": [
+        "censorship"
+    ],
+    "issue": [
+        "issues",
+        "issue"
+    ],
+    "exit": [
+        "exited"
+    ],
+    "chinese": [
+        "chinese"
+    ],
+    "follow": [
+        "followed",
+        "follow",
+        "following"
+    ],
+    "dispute": [
+        "disputes"
+    ],
+    "cybersecurity": [
+        "cybersecurity"
+    ],
+    "niche": [
+        "niche"
+    ],
+    "presence": [
+        "presence"
+    ],
+    "foreign": [
+        "foreign"
+    ],
+    "regulatory": [
+        "regulatory"
+    ],
+    "constraint": [
+        "constraints"
+    ],
+    "south": [
+        "south"
+    ],
+    "korea": [
+        "korea"
+    ],
+    "strength": [
+        "strength"
+    ],
+    "lie": [
+        "lies"
+    ],
+    "integration": [
+        "integration"
+    ],
+    "korean": [
+        "korean"
+    ],
+    "japan": [
+        "japan"
+    ],
+    "currently": [
+        "currently"
+    ],
+    "large": [
+        "large",
+        "largest"
+    ],
+    "z": [
+        "z"
+    ],
+    "holding": [
+        "holdings"
+    ],
+    "softbank": [
+        "softbank"
+    ],
+    "joint": [
+        "joint"
+    ],
+    "retain": [
+        "retains"
+    ],
+    "taiwan": [
+        "taiwan"
+    ],
+    "predominant": [
+        "predominant"
+    ],
+    "algorithmic": [
+        "algorithmic"
+    ],
+    "combination": [
+        "combination",
+        "combinations"
+    ],
+    "relevancy": [
+        "relevancy"
+    ],
+    "empirical": [
+        "empirical"
+    ],
+    "study": [
+        "study",
+        "studies",
+        "studied"
+    ],
+    "indicate": [
+        "indicate"
+    ],
+    "various": [
+        "various"
+    ],
+    "political": [
+        "political"
+    ],
+    "economic": [
+        "economic"
+    ],
+    "underlying": [
+        "underlying"
+    ],
+    "assumption": [
+        "assumptions"
+    ],
+    "direct": [
+        "direct"
+    ],
+    "g": [
+        "g"
+    ],
+    "advertise": [
+        "advertise"
+    ],
+    "organic": [
+        "organic"
+    ],
+    "removal": [
+        "removal"
+    ],
+    "comply": [
+        "comply"
+    ],
+    "law": [
+        "laws",
+        "law"
+    ],
+    "will": [
+        "will"
+    ],
+    "surface": [
+        "surface"
+    ],
+    "neo": [
+        "neo"
+    ],
+    "nazi": [
+        "nazi"
+    ],
+    "france": [
+        "france"
+    ],
+    "germany": [
+        "germany"
+    ],
+    "holocaust": [
+        "holocaust"
+    ],
+    "denial": [
+        "denial"
+    ],
+    "frequently": [
+        "frequently"
+    ],
+    "design": [
+        "design",
+        "designed"
+    ],
+    "exclude": [
+        "exclude"
+    ],
+    "non": [
+        "non"
+    ],
+    "normative": [
+        "normative"
+    ],
+    "viewpoint": [
+        "viewpoints",
+        "viewpoint"
+    ],
+    "favor": [
+        "favor"
+    ],
+    "skew": [
+        "skew"
+    ],
+    "towards": [
+        "towards"
+    ],
+    "coverage": [
+        "coverage"
+    ],
+    "country": [
+        "countries"
+    ],
+    "bombing": [
+        "bombing"
+    ],
+    "attempt": [
+        "attempts",
+        "attempt"
+    ],
+    "manipulate": [
+        "manipulate"
+    ],
+    "reason": [
+        "reasons"
+    ],
+    "scholar": [
+        "scholar",
+        "scholars"
+    ],
+    "cultural": [
+        "cultural"
+    ],
+    "trigger": [
+        "triggered"
+    ],
+    "representation": [
+        "representation"
+    ],
+    "controversial": [
+        "controversial"
+    ],
+    "topic": [
+        "topics",
+        "topic"
+    ],
+    "terrorism": [
+        "terrorism"
+    ],
+    "ireland": [
+        "ireland"
+    ],
+    "climate": [
+        "climate"
+    ],
+    "conspiracy": [
+        "conspiracy"
+    ],
+    "theory": [
+        "theories"
+    ],
+    "concern": [
+        "concern"
+    ],
+    "raise": [
+        "raised"
+    ],
+    "activity": [
+        "activity"
+    ],
+    "echo": [
+        "echo"
+    ],
+    "chamber": [
+        "chambers"
+    ],
+    "eli": [
+        "eli"
+    ],
+    "pariser": [
+        "pariser"
+    ],
+    "argument": [
+        "argument"
+    ],
+    "medium": [
+        "media"
+    ],
+    "algorithms": [
+        "algorithms"
+    ],
+    "selectively": [
+        "selectively"
+    ],
+    "guess": [
+        "guess"
+    ],
+    "like": [
+        "like"
+    ],
+    "location": [
+        "location"
+    ],
+    "behavior": [
+        "behavior"
+    ],
+    "websites": [
+        "websites"
+    ],
+    "tend": [
+        "tends",
+        "tend"
+    ],
+    "agree": [
+        "agrees",
+        "agree"
+    ],
+    "exposure": [
+        "exposure"
+    ],
+    "conflict": [
+        "conflicting"
+    ],
+    "isolate": [
+        "isolated"
+    ],
+    "intellectually": [
+        "intellectually"
+    ],
+    "informational": [
+        "informational"
+    ],
+    "identify": [
+        "identified"
+    ],
+    "compete": [
+        "competing"
+    ],
+    "seek": [
+        "seeking",
+        "seek"
+    ],
+    "avoid": [
+        "avoid"
+    ],
+    "track": [
+        "tracking",
+        "track"
+    ],
+    "question": [
+        "questioned",
+        "question"
+    ],
+    "little": [
+        "little"
+    ],
+    "evidence": [
+        "evidence"
+    ],
+    "contrary": [
+        "contrary"
+    ],
+    "try": [
+        "try",
+        "trying"
+    ],
+    "verify": [
+        "verify"
+    ],
+    "minor": [
+        "minor"
+    ],
+    "personalization": [
+        "personalization"
+    ],
+    "online": [
+        "online"
+    ],
+    "promote": [
+        "promote"
+    ],
+    "mainstream": [
+        "mainstream"
+    ],
+    "establish": [
+        "established"
+    ],
+    "outlet": [
+        "outlets"
+    ],
+    "engines": [
+        "engines"
+    ],
+    "global": [
+        "global"
+    ],
+    "growth": [
+        "growth"
+    ],
+    "electronic": [
+        "electronic"
+    ],
+    "arab": [
+        "arab"
+    ],
+    "muslim": [
+        "muslims",
+        "muslim"
+    ],
+    "last": [
+        "last"
+    ],
+    "encourage": [
+        "encouraged"
+    ],
+    "islamic": [
+        "islamic"
+    ],
+    "adherent": [
+        "adherents"
+    ],
+    "middle": [
+        "middle"
+    ],
+    "asian": [
+        "asian"
+    ],
+    "sub": [
+        "sub"
+    ],
+    "continent": [
+        "continent"
+    ],
+    "enable": [
+        "enable"
+    ],
+    "perform": [
+        "performing",
+        "perform"
+    ],
+    "safe": [
+        "safe"
+    ],
+    "usual": [
+        "usual"
+    ],
+    "categorize": [
+        "categorized",
+        "categorizing"
+    ],
+    "halal": [
+        "halal"
+    ],
+    "haram": [
+        "haram"
+    ],
+    "interpretation": [
+        "interpretation"
+    ],
+    "sharia": [
+        "sharia"
+    ],
+    "imhalal": [
+        "imhalal"
+    ],
+    "halalgoogling": [
+        "halalgoogling"
+    ],
+    "collection": [
+        "collection",
+        "collections"
+    ],
+    "lack": [
+        "lack"
+    ],
+    "investment": [
+        "investment"
+    ],
+    "slow": [
+        "slow"
+    ],
+    "pace": [
+        "pace"
+    ],
+    "hinder": [
+        "hindered"
+    ],
+    "progress": [
+        "progress"
+    ],
+    "thwart": [
+        "thwarted"
+    ],
+    "success": [
+        "success"
+    ],
+    "target": [
+        "targeting"
+    ],
+    "consumer": [
+        "consumers"
+    ],
+    "muxlim": [
+        "muxlim"
+    ],
+    "lifestyle": [
+        "lifestyle"
+    ],
+    "dollar": [
+        "dollars"
+    ],
+    "investor": [
+        "investors"
+    ],
+    "rite": [
+        "rite"
+    ],
+    "falter": [
+        "faltered"
+    ],
+    "religion": [
+        "religion"
+    ],
+    "jewogle": [
+        "jewogle"
+    ],
+    "jewish": [
+        "jewish"
+    ],
+    "christian": [
+        "christians",
+        "christian"
+    ],
+    "seekfind": [
+        "seekfind"
+    ],
+    "org": [
+        "org"
+    ],
+    "attack": [
+        "attack"
+    ],
+    "degrade": [
+        "degrade"
+    ],
+    "faith": [
+        "faith"
+    ],
+    "webmaster": [
+        "webmaster",
+        "webmasters"
+    ],
+    "submit": [
+        "submits",
+        "submit",
+        "submitted"
+    ],
+    "directly": [
+        "directly"
+    ],
+    "sometimes": [
+        "sometimes"
+    ],
+    "generally": [
+        "generally"
+    ],
+    "assistance": [
+        "assistance"
+    ],
+    "sitemap": [
+        "sitemap"
+    ],
+    "normally": [
+        "normally"
+    ],
+    "home": [
+        "home"
+    ],
+    "able": [
+        "able"
+    ],
+    "wait": [
+        "waiting"
+    ],
+    "discover": [
+        "discover"
+    ],
+    "substantial": [
+        "substantial"
+    ],
+    "redesign": [
+        "redesign"
+    ],
+    "helpful": [
+        "helpful"
+    ],
+    "john": [
+        "john"
+    ],
+    "mueller": [
+        "mueller"
+    ],
+    "state": [
+        "stated",
+        "state",
+        "states"
+    ],
+    "tremendous": [
+        "tremendous"
+    ],
+    "unnatural": [
+        "unnatural"
+    ],
+    "negative": [
+        "negative"
+    ],
+    "impact": [
+        "impact"
+    ],
+    "advantage": [
+        "advantage",
+        "advantages"
+    ],
+    "traditional": [
+        "traditional"
+    ],
+    "automate": [
+        "automated"
+    ],
+    "classification": [
+        "classification"
+    ],
+    "being": [
+        "beings"
+    ],
+    "who": [
+        "who"
+    ],
+    "understand": [
+        "understand"
+    ],
+    "algorithmically": [
+        "algorithmically"
+    ],
+    "meaning": [
+        "meaning"
+    ],
+    "bookmark": [
+        "bookmark"
+    ],
+    "yet": [
+        "yet"
+    ],
+    "notice": [
+        "noticed"
+    ],
+    "additionally": [
+        "additionally"
+    ],
+    "bookmarked": [
+        "bookmarked"
+    ],
+    "metric": [
+        "metric"
+    ],
+    "point": [
+        "pointing"
+    ],
+    "vulnerable": [
+        "vulnerable"
+    ],
+    "fraud": [
+        "fraud"
+    ],
+    "game": [
+        "gaming"
+    ],
+    "technical": [
+        "technical"
+    ],
+    "countermeasure": [
+        "countermeasures"
+    ],
+    "clean": [
+        "cleaned"
+    ],
+    "summarize": [
+        "summarized"
+    ],
+    "split": [
+        "split"
+    ],
+    "primary": [
+        "primary"
+    ],
+    "retrieve": [
+        "retrieving",
+        "retrieved",
+        "retrieve"
+    ],
+    "still": [
+        "still"
+    ],
+    "specify": [
+        "specified"
+    ],
+    "exchange": [
+        "exchange"
+    ],
+    "decide": [
+        "decides"
+    ],
+    "want": [
+        "wants",
+        "wanted",
+        "want"
+    ],
+    "client": [
+        "client"
+    ],
+    "fully": [
+        "fully"
+    ],
+    "specification": [
+        "specifications"
+    ],
+    "forth": [
+        "forth"
+    ],
+    "anyone": [
+        "anyone"
+    ],
+    "repository": [
+        "repositories"
+    ],
+    "even": [
+        "even"
+    ],
+    "scatter": [
+        "scattered"
+    ],
+    "equivalent": [
+        "equivalent"
+    ],
+    "mouth": [
+        "mouth"
+    ],
+    "somebody": [
+        "somebody"
+    ],
+    "mail": [
+        "mail"
+    ],
+    "discussion": [
+        "discussion"
+    ],
+    "forum": [
+        "forum"
+    ],
+    "availability": [
+        "availability"
+    ],
+    "gatherer": [
+        "gatherer"
+    ],
+    "fetch": [
+        "fetched"
+    ],
+    "expression": [
+        "expression"
+    ],
+    "matcher": [
+        "matcher"
+    ],
+    "scour": [
+        "scoured"
+    ],
+    "nevada": [
+        "nevada"
+    ],
+    "compute": [
+        "computing"
+    ],
+    "group": [
+        "group",
+        "groups"
+    ],
+    "device": [
+        "device"
+    ],
+    "sole": [
+        "sole"
+    ],
+    "round": [
+        "rounding"
+    ],
+    "strip": [
+        "strip"
+    ],
+    "triumvirate": [
+        "triumvirate"
+    ],
+    "acronym": [
+        "acronym"
+    ],
+    "assume": [
+        "assume"
+    ],
+    "creator": [
+        "creator"
+    ],
+    "functionality": [
+        "functionality"
+    ],
+    "pretty": [
+        "pretty"
+    ],
+    "identical": [
+        "identical"
+    ],
+    "rougher": [
+        "rougher"
+    ],
+    "edge": [
+        "edges"
+    ],
+    "count": [
+        "counted"
+    ],
+    "shortly": [
+        "shortly"
+    ],
+    "introduction": [
+        "introduction"
+    ],
+    "capture": [
+        "capture",
+        "captured"
+    ],
+    "urls": [
+        "urls"
+    ],
+    "captured": [
+        "captured"
+    ],
+    "quite": [
+        "quite"
+    ],
+    "controversy": [
+        "controversy"
+    ],
+    "rampant": [
+        "rampant"
+    ],
+    "cause": [
+        "caused",
+        "causes"
+    ],
+    "noticeable": [
+        "noticeable"
+    ],
+    "netwide": [
+        "netwide"
+    ],
+    "performance": [
+        "performance"
+    ],
+    "degradation": [
+        "degradation"
+    ],
+    "same": [
+        "same"
+    ],
+    "hundred": [
+        "hundreds"
+    ],
+    "day": [
+        "day"
+    ],
+    "amend": [
+        "amended"
+    ],
+    "bad": [
+        "bad"
+    ],
+    "martijn": [
+        "martijn"
+    ],
+    "koster": [
+        "koster"
+    ],
+    "october": [
+        "october"
+    ],
+    "imply": [
+        "implies"
+    ],
+    "http": [
+        "https",
+        "http"
+    ],
+    "unique": [
+        "unique"
+    ],
+    "participate": [
+        "participating"
+    ],
+    "about": [
+        "about"
+    ],
+    "eat": [
+        "eating"
+    ],
+    "disadvantage": [
+        "disadvantages",
+        "disadvantage"
+    ],
+    "today": [
+        "today"
+    ],
+    "therefore": [
+        "therefore"
+    ],
+    "likely": [
+        "likely"
+    ],
+    "bot": [
+        "bot"
+    ],
+    "somewhat": [
+        "somewhat"
+    ],
+    "offset": [
+        "offset"
+    ],
+    "mass": [
+        "mass"
+    ],
+    "appeal": [
+        "appeal"
+    ],
+    "architext": [
+        "architext"
+    ],
+    "six": [
+        "six"
+    ],
+    "stanford": [
+        "stanford"
+    ],
+    "undergraduate": [
+        "undergraduates"
+    ],
+    "february": [
+        "february"
+    ],
+    "relationship": [
+        "relationships"
+    ],
+    "efficient": [
+        "efficient"
+    ],
+    "fund": [
+        "funded"
+    ],
+    "mid": [
+        "mid"
+    ],
+    "once": [
+        "once"
+    ],
+    "funding": [
+        "funding"
+    ],
+    "secure": [
+        "secure",
+        "secured"
+    ],
+    "serious": [
+        "serious"
+    ],
+    "purchase": [
+        "purchased"
+    ],
+    "billion": [
+        "billion"
+    ],
+    "bankrupt": [
+        "bankrupt"
+    ],
+    "infospace": [
+        "infospace"
+    ],
+    "conduct": [
+        "conducted",
+        "conduct"
+    ],
+    "april": [
+        "april"
+    ],
+    "ph": [
+        "ph"
+    ],
+    "d": [
+        "d"
+    ],
+    "candidate": [
+        "candidates"
+    ],
+    "official": [
+        "official"
+    ],
+    "explanation": [
+        "explanation"
+    ],
+    "choice": [
+        "choice"
+    ],
+    "pair": [
+        "pair"
+    ],
+    "thousand": [
+        "thousands"
+    ],
+    "hit": [
+        "hits"
+    ],
+    "team": [
+        "team"
+    ],
+    "organize": [
+        "organize"
+    ],
+    "aid": [
+        "aid"
+    ],
+    "entry": [
+        "entries"
+    ],
+    "really": [
+        "really"
+    ],
+    "classify": [
+        "classified"
+    ],
+    "aspect": [
+        "aspects"
+    ],
+    "gathering": [
+        "gathering"
+    ],
+    "blur": [
+        "blurring"
+    ],
+    "distinction": [
+        "distinction"
+    ],
+    "difficult": [
+        "difficult"
+    ],
+    "thing": [
+        "things"
+    ],
+    "explicitly": [
+        "explicitly"
+    ],
+    "cryptic": [
+        "cryptic"
+    ],
+    "average": [
+        "average"
+    ],
+    "galaxy": [
+        "galaxy"
+    ],
+    "effective": [
+        "effective"
+    ],
+    "additional": [
+        "additional"
+    ],
+    "descriptive": [
+        "descriptive"
+    ],
+    "michael": [
+        "michael"
+    ],
+    "mauldin": [
+        "mauldin"
+    ],
+    "leave": [
+        "leave"
+    ],
+    "cmu": [
+        "cmu"
+    ],
+    "enrich": [
+        "enriched"
+    ],
+    "facility": [
+        "facility"
+    ],
+    "difference": [
+        "difference"
+    ],
+    "basic": [
+        "basic"
+    ],
+    "task": [
+        "tasks"
+    ],
+    "partial": [
+        "partial"
+    ],
+    "statement": [
+        "statements",
+        "statement"
+    ],
+    "description": [
+        "description"
+    ],
+    "conventional": [
+        "conventional"
+    ],
+    "librarycatalog": [
+        "librarycatalog"
+    ],
+    "author": [
+        "author"
+    ],
+    "etc": [
+        "etc"
+    ],
+    "natural": [
+        "natural"
+    ],
+    "voice": [
+        "voice"
+    ],
+    "multimedia": [
+        "multimedia"
+    ],
+    "qbic": [
+        "qbic"
+    ],
+    "webseek": [
+        "webseek"
+    ],
+    "visual": [
+        "visual"
+    ],
+    "shape": [
+        "shapes",
+        "shaping"
+    ],
+    "color": [
+        "colors"
+    ],
+    "q": [
+        "q"
+    ],
+    "stack": [
+        "stack"
+    ],
+    "nsir": [
+        "nsir"
+    ],
+    "restricted": [
+        "restricted"
+    ],
+    "cluster": [
+        "clustering"
+    ],
+    "vivisimo": [
+        "vivisimo"
+    ],
+    "lemur": [
+        "lemur"
+    ],
+    "basically": [
+        "basically"
+    ],
+    "ant": [
+        "ants"
+    ],
+    "hybrid": [
+        "hybrid"
+    ],
+    "agent": [
+        "agents"
+    ],
+    "connects": [
+        "connects"
+    ],
+    "return": [
+        "returns",
+        "return"
+    ],
+    "depository": [
+        "depository"
+    ],
+    "frequency": [
+        "frequency"
+    ],
+    "happen": [
+        "happens"
+    ],
+    "rely": [
+        "rely"
+    ],
+    "subsequently": [
+        "subsequently"
+    ],
+    "catalogue": [
+        "catalogued"
+    ],
+    "put": [
+        "put"
+    ],
+    "re": [
+        "re"
+    ],
+    "giant": [
+        "giant"
+    ],
+    "collect": [
+        "collected"
+    ],
+    "why": [
+        "why"
+    ],
+    "dead": [
+        "dead"
+    ],
+    "invalid": [
+        "invalid"
+    ],
+    "treat": [
+        "treats"
+    ],
+    "different": [
+        "different"
+    ],
+    "answer": [
+        "answering",
+        "answer"
+    ],
+    "element": [
+        "element",
+        "elements"
+    ],
+    "scan": [
+        "scans"
+    ],
+    "sophisticate": [
+        "sophisticated"
+    ],
+    "discourage": [
+        "discourage"
+    ],
+    "stuffing": [
+        "stuffing"
+    ],
+    "spamdexing": [
+        "spamdexing"
+    ],
+    "original": [
+        "original"
+    ],
+    "deserving": [
+        "deserving"
+    ],
+    "boost": [
+        "boost"
+    ],
+    "increasingly": [
+        "increasingly"
+    ],
+    "sophisticated": [
+        "sophisticated"
+    ],
+    "ignore": [
+        "ignore"
+    ],
+    "stuff": [
+        "stuffing"
+    ],
+    "savvy": [
+        "savvy"
+    ],
+    "master": [
+        "masters"
+    ],
+    "artificial": [
+        "artificial"
+    ],
+    "highly": [
+        "highly"
+    ],
+    "intricate": [
+        "intricate"
+    ],
+    "category": [
+        "category",
+        "categories"
+    ],
+    "separately": [
+        "separately"
+    ],
+    "applicable": [
+        "applicable"
+    ],
+    "needs": [
+        "needs"
+    ],
+    "structure": [
+        "structured"
+    ],
+    "dieselpoint": [
+        "dieselpoint"
+    ],
+    "mixed": [
+        "mixed"
+    ],
+    "prevalent": [
+        "prevalent"
+    ],
+    "utilize": [
+        "utilize"
+    ],
+    "trillion": [
+        "trillions"
+    ],
+    "fairly": [
+        "fairly"
+    ],
+    "aim": [
+        "aimed"
+    ],
+    "volume": [
+        "volume"
+    ],
+    "dispersed": [
+        "dispersed"
+    ],
+    "environment": [
+        "environment"
+    ],
+    "degree": [
+        "degree"
+    ],
+    "superfluity": [
+        "superfluity"
+    ],
+    "literature": [
+        "literature"
+    ],
+    "prominent": [
+        "prominent"
+    ],
+    "researcher": [
+        "researchers"
+    ],
+    "extract": [
+        "extracting"
+    ],
+    "theoretical": [
+        "theoretical"
+    ],
+    "construct": [
+        "constructs"
+    ],
+    "finding": [
+        "findings"
+    ],
+    "moderation": [
+        "moderation"
+    ],
+    "itpints": [
+        "itpints"
+    ],
+    "academic": [
+        "academic"
+    ],
+    "manipulation": [
+        "manipulation"
+    ],
+    "privacy": [
+        "privacy"
+    ],
+    "semantic": [
+        "semantic"
+    ],
+    "spell": [
+        "spell"
+    ],
+    "checker": [
+        "checker"
+    ],
+    "test": [
+        "test"
+    ],
+    "tutorial": [
+        "tutorial"
+    ],
+    "stats": [
+        "stats"
+    ],
+    "archived": [
+        "archived"
+    ],
+    "august": [
+        "august"
+    ],
+    "searchenginehistory": [
+        "searchenginehistory"
+    ],
+    "penn": [
+        "penn"
+    ],
+    "webaccess": [
+        "webaccess"
+    ],
+    "login": [
+        "login"
+    ],
+    "psu": [
+        "psu"
+    ],
+    "edu": [
+        "edu"
+    ],
+    "marchiori": [
+        "marchiori"
+    ],
+    "massimo": [
+        "massimo"
+    ],
+    "quest": [
+        "quest"
+    ],
+    "correct": [
+        "correct"
+    ],
+    "proceeding": [
+        "proceedings"
+    ],
+    "sixth": [
+        "sixth"
+    ],
+    "international": [
+        "international"
+    ],
+    "conference": [
+        "conference"
+    ],
+    "b": [
+        "b"
+    ],
+    "scale": [
+        "scale"
+    ],
+    "hypertextual": [
+        "hypertextual"
+    ],
+    "seventh": [
+        "seventh"
+    ],
+    "ken": [
+        "ken"
+    ],
+    "harrenstien": [
+        "harrenstien"
+    ],
+    "vic": [
+        "vic"
+    ],
+    "white": [
+        "white"
+    ],
+    "nicname": [
+        "nicname"
+    ],
+    "doi": [
+        "doi"
+    ],
+    "rfc": [
+        "rfc"
+    ],
+    "unknown": [
+        "unknown"
+    ],
+    "obsoleted": [
+        "obsoleted"
+    ],
+    "cnri": [
+        "cnri"
+    ],
+    "reston": [
+        "reston"
+    ],
+    "va": [
+        "va"
+    ],
+    "deutsch": [
+        "deutsch"
+    ],
+    "peter": [
+        "peter"
+    ],
+    "lisp": [
+        "lisp"
+    ],
+    "mosaic": [
+        "mosaic"
+    ],
+    "communication": [
+        "communications"
+    ],
+    "corporation": [
+        "corporation"
+    ],
+    "watch": [
+        "watch"
+    ],
+    "netherlands": [
+        "netherlands"
+    ],
+    "universiteit": [
+        "universiteit"
+    ],
+    "leiden": [
+        "leiden"
+    ],
+    "pcmag": [
+        "pcmag"
+    ],
+    "alexandra": [
+        "alexandra"
+    ],
+    "samuel": [
+        "samuel"
+    ],
+    "meet": [
+        "meet"
+    ],
+    "black": [
+        "black"
+    ],
+    "technologist": [
+        "technologist"
+    ],
+    "invent": [
+        "invented",
+        "inventing"
+    ],
+    "ithaka": [
+        "ithaka"
+    ],
+    "barbados": [
+        "barbados"
+    ],
+    "barbadian": [
+        "barbadian"
+    ],
+    "loopnewsbarbados": [
+        "loopnewsbarbados"
+    ],
+    "grandoni": [
+        "grandoni"
+    ],
+    "dino": [
+        "dino"
+    ],
+    "man": [
+        "man"
+    ],
+    "didn": [
+        "didn"
+    ],
+    "t": [
+        "t"
+    ],
+    "huffpost": [
+        "huffpost"
+    ],
+    "experimental": [
+        "experimental"
+    ],
+    "mover": [
+        "mover"
+    ],
+    "searchcio": [
+        "searchcio"
+    ],
+    "techtarget": [
+        "techtarget"
+    ],
+    "oppitz": [
+        "oppitz"
+    ],
+    "marcus": [
+        "marcus"
+    ],
+    "tomsu": [
+        "tomsu"
+    ],
+    "cloud": [
+        "cloud"
+    ],
+    "century": [
+        "century"
+    ],
+    "cloudiness": [
+        "cloudiness"
+    ],
+    "life": [
+        "life"
+    ],
+    "economy": [
+        "economy"
+    ],
+    "springer": [
+        "springer"
+    ],
+    "p": [
+        "p"
+    ],
+    "isbn": [
+        "isbn"
+    ],
+    "retrieved": [
+        "retrieved"
+    ],
+    "greenberg": [
+        "greenberg"
+    ],
+    "beat": [
+        "beating"
+    ],
+    "forbes": [
+        "forbes"
+    ],
+    "magazine": [
+        "magazine"
+    ],
+    "yanhong": [
+        "yanhong"
+    ],
+    "qualitative": [
+        "qualitative"
+    ],
+    "ieee": [
+        "ieee"
+    ],
+    "vol": [
+        "vol"
+    ],
+    "pp": [
+        "pp"
+    ],
+    "aug": [
+        "aug"
+    ],
+    "uspto": [
+        "uspto"
+    ],
+    "hypertext": [
+        "hypertext"
+    ],
+    "inventor": [
+        "inventor"
+    ],
+    "filing": [
+        "filing"
+    ],
+    "feb": [
+        "feb"
+    ],
+    "jul": [
+        "jul"
+    ],
+    "twin": [
+        "twins"
+    ],
+    "compare": [
+        "compared"
+    ],
+    "fourweekmba": [
+        "fourweekmba"
+    ],
+    "altucher": [
+        "altucher"
+    ],
+    "james": [
+        "james"
+    ],
+    "unusual": [
+        "unusual"
+    ],
+    "node": [
+        "node"
+    ],
+    "linked": [
+        "linked"
+    ],
+    "ink": [
+        "ink"
+    ],
+    "distribution": [
+        "distribution"
+    ],
+    "push": [
+        "push"
+    ],
+    "stock": [
+        "stock"
+    ],
+    "los": [
+        "los"
+    ],
+    "angeles": [
+        "angeles"
+    ],
+    "oremus": [
+        "oremus"
+    ],
+    "big": [
+        "big"
+    ],
+    "break": [
+        "break"
+    ],
+    "slate": [
+        "slate"
+    ],
+    "issn": [
+        "issn"
+    ],
+    "jay": [
+        "jay"
+    ],
+    "forgotten": [
+        "forgotten"
+    ],
+    "gandal": [
+        "gandal"
+    ],
+    "dynamic": [
+        "dynamics"
+    ],
+    "competition": [
+        "competition"
+    ],
+    "journal": [
+        "journal"
+    ],
+    "industrial": [
+        "industrial"
+    ],
+    "organization": [
+        "organization"
+    ],
+    "depth": [
+        "depth"
+    ],
+    "definition": [
+        "definition"
+    ],
+    "c": [
+        "c"
+    ],
+    "f": [
+        "f"
+    ],
+    "jawadekar": [
+        "jawadekar"
+    ],
+    "waman": [
+        "waman"
+    ],
+    "knowledge": [
+        "knowledge"
+    ],
+    "management": [
+        "management"
+    ],
+    "delhi": [
+        "delhi"
+    ],
+    "tata": [
+        "tata"
+    ],
+    "mcgraw": [
+        "mcgraw"
+    ],
+    "hill": [
+        "hill"
+    ],
+    "education": [
+        "education"
+    ],
+    "private": [
+        "private"
+    ],
+    "ltd": [
+        "ltd"
+    ],
+    "dasgupta": [
+        "dasgupta"
+    ],
+    "anirban": [
+        "anirban"
+    ],
+    "ghosh": [
+        "ghosh"
+    ],
+    "arpita": [
+        "arpita"
+    ],
+    "kumar": [
+        "kumar"
+    ],
+    "ravi": [
+        "ravi"
+    ],
+    "christopher": [
+        "christopher"
+    ],
+    "pandey": [
+        "pandey"
+    ],
+    "sandeep": [
+        "sandeep"
+    ],
+    "tomkins": [
+        "tomkins"
+    ],
+    "andrew": [
+        "andrew"
+    ],
+    "discoverability": [
+        "discoverability"
+    ],
+    "arpitaghosh": [
+        "arpitaghosh"
+    ],
+    "jansen": [
+        "jansen"
+    ],
+    "j": [
+        "j"
+    ],
+    "spink": [
+        "spink"
+    ],
+    "saracevic": [
+        "saracevic"
+    ],
+    "chitu": [
+        "chitu"
+    ],
+    "alex": [
+        "alex"
+    ],
+    "gfo": [
+        "gfo"
+    ],
+    "seo": [
+        "seo"
+    ],
+    "similarweb": [
+        "similarweb"
+    ],
+    "kerr": [
+        "kerr"
+    ],
+    "dara": [
+        "dara"
+    ],
+    "landmark": [
+        "landmark"
+    ],
+    "trial": [
+        "trial"
+    ],
+    "close": [
+        "closes"
+    ],
+    "npr": [
+        "npr"
+    ],
+    "bbc": [
+        "bbc"
+    ],
+    "dilemma": [
+        "dilemma"
+    ],
+    "stay": [
+        "stay"
+    ],
+    "reuters": [
+        "reuters"
+    ],
+    "segev": [
+        "segev"
+    ],
+    "el": [
+        "el"
+    ],
+    "digital": [
+        "digital"
+    ],
+    "divide": [
+        "divide"
+    ],
+    "oxford": [
+        "oxford"
+    ],
+    "chandos": [
+        "chandos"
+    ],
+    "publish": [
+        "publishing"
+    ],
+    "vaughan": [
+        "vaughan"
+    ],
+    "liwen": [
+        "liwen"
+    ],
+    "thelwall": [
+        "thelwall"
+    ],
+    "citeseerx": [
+        "citeseerx"
+    ],
+    "rieh": [
+        "rieh"
+    ],
+    "seventeen": [
+        "seventeen"
+    ],
+    "american": [
+        "american"
+    ],
+    "society": [
+        "society"
+    ],
+    "berkman": [
+        "berkman"
+    ],
+    "replacement": [
+        "replacement"
+    ],
+    "alternative": [
+        "alternative"
+    ],
+    "documentation": [
+        "documentation"
+    ],
+    "screen": [
+        "screen"
+    ],
+    "shot": [
+        "shots"
+    ],
+    "harvard": [
+        "harvard"
+    ],
+    "school": [
+        "school"
+    ],
+    "introna": [
+        "introna"
+    ],
+    "lucas": [
+        "lucas"
+    ],
+    "helen": [
+        "helen"
+    ],
+    "politics": [
+        "politics"
+    ],
+    "matter": [
+        "matters"
+    ],
+    "hillis": [
+        "hillis"
+    ],
+    "petit": [
+        "petit"
+    ],
+    "jarrett": [
+        "jarrett"
+    ],
+    "kylie": [
+        "kylie"
+    ],
+    "culture": [
+        "culture"
+    ],
+    "routledge": [
+        "routledge"
+    ],
+    "reilly": [
+        "reilly"
+    ],
+    "googling": [
+        "googling"
+    ],
+    "terrorist": [
+        "terrorists"
+    ],
+    "irish": [
+        "irish"
+    ],
+    "visible": [
+        "visible"
+    ],
+    "prof": [
+        "prof"
+    ],
+    "dr": [
+        "dr"
+    ],
+    "zimmer": [
+        "zimmer"
+    ],
+    "eds": [
+        "eds"
+    ],
+    "berlin": [
+        "berlin"
+    ],
+    "heidelberg": [
+        "heidelberg"
+    ],
+    "bibcode": [
+        "bibcode"
+    ],
+    "hiroko": [
+        "hiroko"
+    ],
+    "tabuchi": [
+        "tabuchi"
+    ],
+    "denier": [
+        "deniers"
+    ],
+    "york": [
+        "york"
+    ],
+    "dec": [
+        "dec"
+    ],
+    "chemtrails": [
+        "chemtrails"
+    ],
+    "methodology": [
+        "methodology"
+    ],
+    "monday": [
+        "monday"
+    ],
+    "fm": [
+        "fm"
+    ],
+    "penguin": [
+        "penguin"
+    ],
+    "press": [
+        "press"
+    ],
+    "hara": [
+        "hara"
+    ],
+    "k": [
+        "k"
+    ],
+    "worship": [
+        "worship"
+    ],
+    "mic": [
+        "mic"
+    ],
+    "bruns": [
+        "bruns"
+    ],
+    "review": [
+        "review"
+    ],
+    "hdl": [
+        "hdl"
+    ],
+    "haim": [
+        "haim"
+    ],
+    "mario": [
+        "mario"
+    ],
+    "graefe": [
+        "graefe"
+    ],
+    "andreas": [
+        "andreas"
+    ],
+    "brosius": [
+        "brosius"
+    ],
+    "han": [
+        "hans"
+    ],
+    "bernd": [
+        "bernd"
+    ],
+    "burst": [
+        "burst"
+    ],
+    "journalism": [
+        "journalism"
+    ],
+    "nechushtai": [
+        "nechushtai"
+    ],
+    "efrat": [
+        "efrat"
+    ],
+    "lewis": [
+        "lewis"
+    ],
+    "seth": [
+        "seth"
+    ],
+    "kind": [
+        "kind"
+    ],
+    "gatekeeper": [
+        "gatekeepers"
+    ],
+    "machine": [
+        "machines"
+    ],
+    "fragmentation": [
+        "fragmentation"
+    ],
+    "dimension": [
+        "dimensions"
+    ],
+    "recommendation": [
+        "recommendations"
+    ],
+    "chb": [
+        "chb"
+    ],
+    "islam": [
+        "islam"
+    ],
+    "approve": [
+        "approved"
+    ],
+    "faq": [
+        "faq"
+    ],
+    "sin": [
+        "sin"
+    ],
+    "blog": [
+        "blog"
+    ],
+    "schwartz": [
+        "schwartz"
+    ],
+    "barry": [
+        "barry"
+    ],
+    "harmful": [
+        "harmful"
+    ],
+    "roundtable": [
+        "roundtable"
+    ],
+    "heymann": [
+        "heymann"
+    ],
+    "paul": [
+        "paul"
+    ],
+    "koutrika": [
+        "koutrika"
+    ],
+    "georgia": [
+        "georgia"
+    ],
+    "garcia": [
+        "garcia"
+    ],
+    "molina": [
+        "molina"
+    ],
+    "hector": [
+        "hector"
+    ],
+    "acm": [
+        "acm"
+    ],
+    "mining": [
+        "mining"
+    ],
+    "priti": [
+        "priti"
+    ],
+    "srinivas": [
+        "srinivas"
+    ],
+    "sajja": [
+        "sajja"
+    ],
+    "rajendra": [
+        "rajendra"
+    ],
+    "akerkar": [
+        "akerkar"
+    ],
+    "intelligent": [
+        "intelligent"
+    ],
+    "application": [
+        "applications"
+    ],
+    "boca": [
+        "boca"
+    ],
+    "raton": [
+        "raton"
+    ],
+    "crc": [
+        "crc"
+    ],
+    "wiley": [
+        "wiley"
+    ],
+    "bateman": [
+        "bateman"
+    ],
+    "sigir": [
+        "sigir"
+    ],
+    "jingjing": [
+        "jingjing"
+    ],
+    "larsen": [
+        "larsen"
+    ],
+    "kai": [
+        "kai"
+    ],
+    "abbasi": [
+        "abbasi"
+    ],
+    "ahmed": [
+        "ahmed"
+    ],
+    "theoryon": [
+        "theoryon"
+    ],
+    "framework": [
+        "framework"
+    ],
+    "unlock": [
+        "unlocking"
+    ],
+    "behavioral": [
+        "behavioral"
+    ],
+    "ontology": [
+        "ontology"
+    ],
+    "mi": [
+        "mis"
+    ],
+    "quarterly": [
+        "quarterly"
+    ],
+    "misq": [
+        "misq"
+    ],
+    "reading": [
+        "reading"
+    ],
+    "steve": [
+        "steve"
+    ],
+    "lawrence": [
+        "lawrence"
+    ],
+    "giles": [
+        "giles"
+    ],
+    "accessibility": [
+        "accessibility"
+    ],
+    "nature": [
+        "nature"
+    ],
+    "pmid": [
+        "pmid"
+    ],
+    "liu": [
+        "liu"
+    ],
+    "explore": [
+        "exploring"
+    ],
+    "bar": [
+        "bar"
+    ],
+    "ilan": [
+        "ilan"
+    ],
+    "arist": [
+        "arist"
+    ],
+    "levene": [
+        "levene"
+    ],
+    "pearson": [
+        "pearson"
+    ],
+    "hock": [
+        "hock"
+    ],
+    "randolph": [
+        "randolph"
+    ],
+    "extreme": [
+        "extreme"
+    ],
+    "searcher": [
+        "searcher"
+    ],
+    "handbook": [
+        "handbook"
+    ],
+    "javed": [
+        "javed"
+    ],
+    "mostafa": [
+        "mostafa"
+    ],
+    "ross": [
+        "ross"
+    ],
+    "nancy": [
+        "nancy"
+    ],
+    "wolfram": [
+        "wolfram"
+    ],
+    "dietmar": [
+        "dietmar"
+    ],
+    "co": [
+        "co"
+    ],
+    "xie": [
+        "xie"
+    ],
+    "m": [
+        "m"
+    ],
+    "et": [
+        "et"
+    ],
+    "al": [
+        "al"
+    ],
+    "implementing": [
+        "implementing"
+    ],
+    "evaluate": [
+        "evaluating"
+    ],
+    "yeo": [
+        "yeo"
+    ],
+    "shinjoung": [
+        "shinjoung"
+    ],
+    "box": [
+        "box"
+    ],
+    "industry": [
+        "industry"
+    ],
+    "illinois": [
+        "illinois"
+    ],
+    "jstor": [
+        "jstor"
+    ],
+    "learning": [
+        "learning"
+    ],
+    "metasearch": [
+        "metasearch"
+    ],
+    "collaborative": [
+        "collaborative"
+    ],
+    "cross": [
+        "cross"
+    ],
+    "vertical": [
+        "vertical"
+    ],
+    "audio": [
+        "audio"
+    ],
+    "video": [
+        "video"
+    ],
+    "sound": [
+        "sound"
+    ],
+    "evaluation": [
+        "evaluation"
+    ],
+    "selection": [
+        "selection"
+    ],
+    "multisearch": [
+        "multisearch"
+    ],
+    "federate": [
+        "federated"
+    ],
+    "aggregator": [
+        "aggregator"
+    ],
+    "focused": [
+        "focused"
+    ],
+    "exclusion": [
+        "exclusion"
+    ],
+    "mirroring": [
+        "mirroring"
+    ],
+    "opensearch": [
+        "opensearch"
+    ],
+    "representational": [
+        "representational"
+    ],
+    "area": [
+        "area"
+    ],
+    "desktop": [
+        "desktop"
+    ],
+    "dedicate": [
+        "dedicated"
+    ],
+    "ahmia": [
+        "ahmia"
+    ],
+    "fireball": [
+        "fireball"
+    ],
+    "kidrex": [
+        "kidrex"
+    ],
+    "ai": [
+        "ai"
+    ],
+    "seznam": [
+        "seznam"
+    ],
+    "cz": [
+        "cz"
+    ],
+    "youdao": [
+        "youdao"
+    ],
+    "metager": [
+        "metager"
+    ],
+    "mullvad": [
+        "mullvad"
+    ],
+    "leta": [
+        "leta"
+    ],
+    "searxng": [
+        "searxng"
+    ],
+    "defunct": [
+        "defunct"
+    ],
+    "chorki": [
+        "chorki"
+    ],
+    "neeva": [
+        "neeva"
+    ],
+    "pipilika": [
+        "pipilika"
+    ],
+    "scroogle": [
+        "scroogle"
+    ],
+    "sputnik": [
+        "sputnik"
+    ],
+    "complete": [
+        "complete"
+    ],
+    "authority": [
+        "authority"
+    ],
+    "databases": [
+        "databases"
+    ],
+    "national": [
+        "national"
+    ],
+    "united": [
+        "united"
+    ],
+    "czech": [
+        "czech"
+    ],
+    "republic": [
+        "republic"
+    ],
+    "israel": [
+        "israel"
+    ],
+    "yale": [
+        "yale"
+    ],
+    "lux": [
+        "lux"
+    ],
+    "w": [
+        "w"
+    ],
+    "php": [
+        "php"
+    ],
+    "oldid": [
+        "oldid"
+    ],
+    "terminology": [
+        "terminology"
+    ],
+    "property": [
+        "properties"
+    ],
+    "canadian": [
+        "canadian"
+    ],
+    "invention": [
+        "inventions"
+    ],
+    "hidden": [
+        "hidden"
+    ],
+    "semi": [
+        "semi"
+    ],
+    "protect": [
+        "protected"
+    ],
+    "dmy": [
+        "dmy"
+    ],
+    "potentially": [
+        "potentially"
+    ],
+    "dated": [
+        "dated"
+    ],
+    "locally": [
+        "locally"
+    ],
+    "utc": [
+        "utc"
+    ],
+    "creative": [
+        "creative"
+    ],
+    "attribution": [
+        "attribution"
+    ],
+    "license": [
+        "license"
+    ],
+    "registered": [
+        "registered"
+    ],
+    "trademark": [
+        "trademark"
+    ],
+    "foundation": [
+        "foundation"
+    ],
+    "inc": [
+        "inc"
+    ],
+    "profit": [
+        "profit"
+    ],
+    "disclaimer": [
+        "disclaimers"
+    ],
+    "legal": [
+        "legal"
+    ],
+    "safety": [
+        "safety"
+    ],
+    "developer": [
+        "developers"
+    ],
+    "statistic": [
+        "statistics"
+    ],
+    "cookie": [
+        "cookie"
+    ]
+}

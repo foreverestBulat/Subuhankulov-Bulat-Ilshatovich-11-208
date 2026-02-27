@@ -1,0 +1,2449 @@
+{
+    "free": [
+        "free"
+    ],
+    "encyclopedia": [
+        "encyclopedia"
+    ],
+    "jump": [
+        "jump"
+    ],
+    "content": [
+        "contents",
+        "content"
+    ],
+    "main": [
+        "main"
+    ],
+    "menu": [
+        "menu"
+    ],
+    "move": [
+        "move"
+    ],
+    "sidebar": [
+        "sidebar"
+    ],
+    "hide": [
+        "hide"
+    ],
+    "navigation": [
+        "navigation"
+    ],
+    "page": [
+        "page",
+        "pages"
+    ],
+    "current": [
+        "current"
+    ],
+    "event": [
+        "events"
+    ],
+    "random": [
+        "random"
+    ],
+    "article": [
+        "article",
+        "articles"
+    ],
+    "wikipedia": [
+        "wikipedia"
+    ],
+    "contact": [
+        "contact",
+        "contacts"
+    ],
+    "contribute": [
+        "contribute"
+    ],
+    "help": [
+        "help"
+    ],
+    "learn": [
+        "learn"
+    ],
+    "edit": [
+        "editing",
+        "edit",
+        "edited"
+    ],
+    "community": [
+        "community"
+    ],
+    "portal": [
+        "portal",
+        "portals"
+    ],
+    "recent": [
+        "recent"
+    ],
+    "change": [
+        "changes"
+    ],
+    "upload": [
+        "upload"
+    ],
+    "file": [
+        "file"
+    ],
+    "special": [
+        "special"
+    ],
+    "search": [
+        "search"
+    ],
+    "appearance": [
+        "appearance"
+    ],
+    "donate": [
+        "donate"
+    ],
+    "create": [
+        "created",
+        "create"
+    ],
+    "account": [
+        "account"
+    ],
+    "log": [
+        "log"
+    ],
+    "personal": [
+        "personal"
+    ],
+    "tool": [
+        "tools"
+    ],
+    "talk": [
+        "talk"
+    ],
+    "english": [
+        "english"
+    ],
+    "read": [
+        "read"
+    ],
+    "view": [
+        "view"
+    ],
+    "source": [
+        "source",
+        "sources"
+    ],
+    "history": [
+        "history"
+    ],
+    "action": [
+        "actions"
+    ],
+    "general": [
+        "general"
+    ],
+    "what": [
+        "what"
+    ],
+    "link": [
+        "links",
+        "link"
+    ],
+    "here": [
+        "here"
+    ],
+    "relate": [
+        "related"
+    ],
+    "permanent": [
+        "permanent"
+    ],
+    "information": [
+        "information"
+    ],
+    "cite": [
+        "cite"
+    ],
+    "get": [
+        "get"
+    ],
+    "shorten": [
+        "shortened"
+    ],
+    "url": [
+        "url"
+    ],
+    "download": [
+        "download"
+    ],
+    "qr": [
+        "qr"
+    ],
+    "code": [
+        "code"
+    ],
+    "print": [
+        "print"
+    ],
+    "export": [
+        "export"
+    ],
+    "pdf": [
+        "pdf"
+    ],
+    "printable": [
+        "printable"
+    ],
+    "version": [
+        "version"
+    ],
+    "other": [
+        "other"
+    ],
+    "project": [
+        "projects",
+        "project"
+    ],
+    "wikimedia": [
+        "wikimedia"
+    ],
+    "common": [
+        "commons"
+    ],
+    "foundation": [
+        "foundation"
+    ],
+    "mediawiki": [
+        "mediawiki"
+    ],
+    "meta": [
+        "meta"
+    ],
+    "wiki": [
+        "wiki"
+    ],
+    "outreach": [
+        "outreach"
+    ],
+    "multilingual": [
+        "multilingual"
+    ],
+    "wikisource": [
+        "wikisource"
+    ],
+    "wikispecies": [
+        "wikispecies"
+    ],
+    "wikibooks": [
+        "wikibooks"
+    ],
+    "wikidata": [
+        "wikidata"
+    ],
+    "wikifunctions": [
+        "wikifunctions"
+    ],
+    "wikimania": [
+        "wikimania"
+    ],
+    "wikinews": [
+        "wikinews"
+    ],
+    "wikiquote": [
+        "wikiquote"
+    ],
+    "wikiversity": [
+        "wikiversity"
+    ],
+    "wikivoyage": [
+        "wikivoyage"
+    ],
+    "wiktionary": [
+        "wiktionary"
+    ],
+    "item": [
+        "item"
+    ],
+    "welcome": [
+        "welcome"
+    ],
+    "anyone": [
+        "anyone"
+    ],
+    "can": [
+        "can"
+    ],
+    "active": [
+        "active"
+    ],
+    "editor": [
+        "editors"
+    ],
+    "today": [
+        "today"
+    ],
+    "s": [
+        "s"
+    ],
+    "feature": [
+        "featured",
+        "featuring"
+    ],
+    "fort": [
+        "fort"
+    ],
+    "southerland": [
+        "southerland"
+    ],
+    "be": [
+        "were",
+        "are",
+        "was",
+        "be",
+        "is",
+        "being",
+        "been"
+    ],
+    "redoubt": [
+        "redoubts",
+        "redoubt"
+    ],
+    "build": [
+        "built"
+    ],
+    "american": [
+        "american"
+    ],
+    "civil": [
+        "civil"
+    ],
+    "war": [
+        "war"
+    ],
+    "protect": [
+        "protect"
+    ],
+    "camden": [
+        "camden"
+    ],
+    "arkansas": [
+        "arkansas"
+    ],
+    "confederate": [
+        "confederates",
+        "confederate"
+    ],
+    "force": [
+        "forces"
+    ],
+    "along": [
+        "along"
+    ],
+    "four": [
+        "four"
+    ],
+    "early": [
+        "early"
+    ],
+    "union": [
+        "union"
+    ],
+    "victory": [
+        "victory"
+    ],
+    "little": [
+        "little"
+    ],
+    "rock": [
+        "rock"
+    ],
+    "campaign": [
+        "campaign"
+    ],
+    "previous": [
+        "previous"
+    ],
+    "year": [
+        "year"
+    ],
+    "size": [
+        "size"
+    ],
+    "city": [
+        "city"
+    ],
+    "block": [
+        "block"
+    ],
+    "roughly": [
+        "roughly"
+    ],
+    "oval": [
+        "oval"
+    ],
+    "could": [
+        "could"
+    ],
+    "hold": [
+        "hold"
+    ],
+    "three": [
+        "three"
+    ],
+    "cannon": [
+        "cannons"
+    ],
+    "when": [
+        "when"
+    ],
+    "capture": [
+        "captured"
+    ],
+    "april": [
+        "april"
+    ],
+    "expedition": [
+        "expedition"
+    ],
+    "improve": [
+        "improved",
+        "improve"
+    ],
+    "defense": [
+        "defenses",
+        "defense"
+    ],
+    "five": [
+        "five"
+    ],
+    "which": [
+        "which"
+    ],
+    "not": [
+        "not"
+    ],
+    "sufficient": [
+        "sufficient"
+    ],
+    "proper": [
+        "proper"
+    ],
+    "retake": [
+        "retook"
+    ],
+    "later": [
+        "later"
+    ],
+    "month": [
+        "month"
+    ],
+    "continue": [
+        "continued"
+    ],
+    "defenses": [
+        "defenses"
+    ],
+    "lie": [
+        "lies"
+    ],
+    "park": [
+        "park"
+    ],
+    "municipal": [
+        "municipal"
+    ],
+    "dedicate": [
+        "dedicated"
+    ],
+    "list": [
+        "listed",
+        "lists",
+        "list"
+    ],
+    "national": [
+        "national"
+    ],
+    "register": [
+        "register"
+    ],
+    "historic": [
+        "historic"
+    ],
+    "place": [
+        "places"
+    ],
+    "part": [
+        "part"
+    ],
+    "sit": [
+        "sites"
+    ],
+    "landmark": [
+        "landmark"
+    ],
+    "one": [
+        "one"
+    ],
+    "only": [
+        "only"
+    ],
+    "two": [
+        "two"
+    ],
+    "still": [
+        "still"
+    ],
+    "existence": [
+        "existence"
+    ],
+    "full": [
+        "full"
+    ],
+    "recently": [
+        "recently"
+    ],
+    "mary": [
+        "mary"
+    ],
+    "fortune": [
+        "fortune"
+    ],
+    "voice": [
+        "voices"
+    ],
+    "morebath": [
+        "morebath"
+    ],
+    "kent": [
+        "kent"
+    ],
+    "haruf": [
+        "haruf"
+    ],
+    "archive": [
+        "archive"
+    ],
+    "email": [
+        "email"
+    ],
+    "more": [
+        "more"
+    ],
+    "featured": [
+        "featured"
+    ],
+    "do": [
+        "did"
+    ],
+    "know": [
+        "know"
+    ],
+    "paul": [
+        "paul"
+    ],
+    "idlout": [
+        "idlout"
+    ],
+    "age": [
+        "age"
+    ],
+    "that": [
+        "that"
+    ],
+    "youth": [
+        "youth"
+    ],
+    "picture": [
+        "picture",
+        "pictured",
+        "pictures"
+    ],
+    "relocate": [
+        "relocated"
+    ],
+    "high": [
+        "high"
+    ],
+    "arctic": [
+        "arctic"
+    ],
+    "canadian": [
+        "canadian"
+    ],
+    "government": [
+        "government"
+    ],
+    "golden": [
+        "golden"
+    ],
+    "branch": [
+        "branch"
+    ],
+    "virgil": [
+        "virgil"
+    ],
+    "aeneid": [
+        "aeneid"
+    ],
+    "inspire": [
+        "inspired"
+    ],
+    "painting": [
+        "painting"
+    ],
+    "turner": [
+        "turner"
+    ],
+    "poem": [
+        "poems"
+    ],
+    "yeats": [
+        "yeats"
+    ],
+    "anthropological": [
+        "anthropological"
+    ],
+    "study": [
+        "study"
+    ],
+    "ritual": [
+        "ritual"
+    ],
+    "murder": [
+        "murder"
+    ],
+    "box": [
+        "box"
+    ],
+    "apparently": [
+        "apparently"
+    ],
+    "unopened": [
+        "unopened"
+    ],
+    "base": [
+        "base"
+    ],
+    "set": [
+        "set"
+    ],
+    "card": [
+        "card"
+    ],
+    "pack": [
+        "packs"
+    ],
+    "purchase": [
+        "purchased"
+    ],
+    "logan": [
+        "logan"
+    ],
+    "million": [
+        "million"
+    ],
+    "turn": [
+        "turn"
+    ],
+    "out": [
+        "out"
+    ],
+    "fake": [
+        "fake"
+    ],
+    "thandiwe": [
+        "thandiwe"
+    ],
+    "abdullah": [
+        "abdullah"
+    ],
+    "black": [
+        "black"
+    ],
+    "life": [
+        "lives"
+    ],
+    "matter": [
+        "matter"
+    ],
+    "school": [
+        "schools"
+    ],
+    "promote": [
+        "promote"
+    ],
+    "racial": [
+        "racial"
+    ],
+    "justice": [
+        "justice"
+    ],
+    "imagery": [
+        "imagery"
+    ],
+    "ocean": [
+        "ocean"
+    ],
+    "monster": [
+        "monster",
+        "monsters"
+    ],
+    "want": [
+        "wants"
+    ],
+    "eat": [
+        "eats",
+        "eat"
+    ],
+    "have": [
+        "has",
+        "had"
+    ],
+    "interpret": [
+        "interpreted"
+    ],
+    "visual": [
+        "visual"
+    ],
+    "metaphor": [
+        "metaphor"
+    ],
+    "depression": [
+        "depression",
+        "depressions"
+    ],
+    "edward": [
+        "edward"
+    ],
+    "r": [
+        "r"
+    ],
+    "kone": [
+        "kone"
+    ],
+    "ugly": [
+        "ugliest"
+    ],
+    "face": [
+        "face"
+    ],
+    "father": [
+        "father"
+    ],
+    "ever": [
+        "ever"
+    ],
+    "see": [
+        "seen"
+    ],
+    "siege": [
+        "siege"
+    ],
+    "naples": [
+        "naples"
+    ],
+    "local": [
+        "local"
+    ],
+    "jew": [
+        "jews"
+    ],
+    "mount": [
+        "mounted"
+    ],
+    "strong": [
+        "strong",
+        "strongest"
+    ],
+    "resistance": [
+        "resistance"
+    ],
+    "attack": [
+        "attacking"
+    ],
+    "byzantine": [
+        "byzantines"
+    ],
+    "prior": [
+        "prior"
+    ],
+    "operate": [
+        "operating"
+    ],
+    "edmonton": [
+        "edmonton"
+    ],
+    "eskimos": [
+        "eskimos"
+    ],
+    "baseball": [
+        "baseball"
+    ],
+    "executive": [
+        "executive"
+    ],
+    "john": [
+        "john"
+    ],
+    "ducey": [
+        "ducey"
+    ],
+    "arrange": [
+        "arranged"
+    ],
+    "game": [
+        "games"
+    ],
+    "altar": [
+        "altar"
+    ],
+    "boy": [
+        "boy"
+    ],
+    "ask": [
+        "ask",
+        "asked"
+    ],
+    "mysterious": [
+        "mysterious"
+    ],
+    "ghost": [
+        "ghost"
+    ],
+    "girl": [
+        "girl"
+    ],
+    "producer": [
+        "producer"
+    ],
+    "junichi": [
+        "junichi"
+    ],
+    "masuda": [
+        "masuda"
+    ],
+    "laugh": [
+        "laughed"
+    ],
+    "say": [
+        "said"
+    ],
+    "oooooooo": [
+        "oooooooo"
+    ],
+    "start": [
+        "start"
+    ],
+    "new": [
+        "new"
+    ],
+    "nominate": [
+        "nominate"
+    ],
+    "news": [
+        "news"
+    ],
+    "rob": [
+        "rob"
+    ],
+    "jetten": [
+        "jetten"
+    ],
+    "swear": [
+        "sworn"
+    ],
+    "prime": [
+        "prime"
+    ],
+    "minister": [
+        "minister"
+    ],
+    "netherlands": [
+        "netherlands"
+    ],
+    "lead": [
+        "leading"
+    ],
+    "minority": [
+        "minority"
+    ],
+    "battle": [
+        "battle"
+    ],
+    "win": [
+        "wins"
+    ],
+    "best": [
+        "best"
+    ],
+    "film": [
+        "film"
+    ],
+    "british": [
+        "british"
+    ],
+    "academy": [
+        "academy"
+    ],
+    "award": [
+        "awards"
+    ],
+    "nemesio": [
+        "nemesio"
+    ],
+    "oseguera": [
+        "oseguera"
+    ],
+    "cervantes": [
+        "cervantes"
+    ],
+    "leader": [
+        "leader"
+    ],
+    "jalisco": [
+        "jalisco"
+    ],
+    "generation": [
+        "generation"
+    ],
+    "cartel": [
+        "cartel"
+    ],
+    "kill": [
+        "killing",
+        "killed"
+    ],
+    "mexican": [
+        "mexican"
+    ],
+    "army": [
+        "army"
+    ],
+    "remove": [
+        "removed"
+    ],
+    "president": [
+        "president"
+    ],
+    "peru": [
+        "peru"
+    ],
+    "congress": [
+        "congress"
+    ],
+    "replace": [
+        "replaced"
+    ],
+    "ongoing": [
+        "ongoing"
+    ],
+    "russo": [
+        "russo"
+    ],
+    "ukrainian": [
+        "ukrainian"
+    ],
+    "timeline": [
+        "timeline"
+    ],
+    "sudanese": [
+        "sudanese"
+    ],
+    "death": [
+        "deaths"
+    ],
+    "tejero": [
+        "tejero"
+    ],
+    "joanne": [
+        "joanne"
+    ],
+    "bland": [
+        "bland"
+    ],
+    "roger": [
+        "roger"
+    ],
+    "von": [
+        "von"
+    ],
+    "gunten": [
+        "gunten"
+    ],
+    "fredrick": [
+        "fredrick"
+    ],
+    "brennan": [
+        "brennan"
+    ],
+    "leila": [
+        "leila"
+    ],
+    "shahid": [
+        "shahid"
+    ],
+    "eric": [
+        "eric"
+    ],
+    "dane": [
+        "dane"
+    ],
+    "day": [
+        "day",
+        "days"
+    ],
+    "february": [
+        "february"
+    ],
+    "feast": [
+        "feast"
+    ],
+    "saint": [
+        "saint"
+    ],
+    "gregory": [
+        "gregory"
+    ],
+    "narek": [
+        "narek"
+    ],
+    "catholicism": [
+        "catholicism"
+    ],
+    "memorial": [
+        "memorial"
+    ],
+    "victim": [
+        "victims"
+    ],
+    "sumgait": [
+        "sumgait"
+    ],
+    "revolutionary": [
+        "revolutionary"
+    ],
+    "patriot": [
+        "patriot"
+    ],
+    "moore": [
+        "moore"
+    ],
+    "creek": [
+        "creek"
+    ],
+    "bridge": [
+        "bridge"
+    ],
+    "result": [
+        "resulted"
+    ],
+    "arrest": [
+        "arrests"
+    ],
+    "loyalist": [
+        "loyalists"
+    ],
+    "following": [
+        "following"
+    ],
+    "peninsular": [
+        "peninsular"
+    ],
+    "south": [
+        "south"
+    ],
+    "france": [
+        "france"
+    ],
+    "spanish": [
+        "spanish"
+    ],
+    "portuguese": [
+        "portuguese"
+    ],
+    "soldier": [
+        "soldiers"
+    ],
+    "command": [
+        "command"
+    ],
+    "marquess": [
+        "marquess"
+    ],
+    "wellington": [
+        "wellington"
+    ],
+    "defeat": [
+        "defeated"
+    ],
+    "french": [
+        "french"
+    ],
+    "orthez": [
+        "orthez"
+    ],
+    "cause": [
+        "caused",
+        "causing"
+    ],
+    "retreat": [
+        "retreat"
+    ],
+    "east": [
+        "east"
+    ],
+    "armenian": [
+        "armenian"
+    ],
+    "azerbaijan": [
+        "azerbaijan"
+    ],
+    "target": [
+        "target"
+    ],
+    "violent": [
+        "violent"
+    ],
+    "multimedia": [
+        "multimedia"
+    ],
+    "franchise": [
+        "franchise"
+    ],
+    "launch": [
+        "launched"
+    ],
+    "release": [
+        "release"
+    ],
+    "video": [
+        "video"
+    ],
+    "pocket": [
+        "pocket"
+    ],
+    "red": [
+        "red"
+    ],
+    "green": [
+        "green"
+    ],
+    "robert": [
+        "robert"
+    ],
+    "melun": [
+        "melun"
+    ],
+    "d": [
+        "d"
+    ],
+    "alice": [
+        "alice"
+    ],
+    "hamilton": [
+        "hamilton"
+    ],
+    "b": [
+        "b"
+    ],
+    "ganesh": [
+        "ganesh"
+    ],
+    "vasudev": [
+        "vasudev"
+    ],
+    "mavalankar": [
+        "mavalankar"
+    ],
+    "leah": [
+        "leah"
+    ],
+    "poulton": [
+        "poulton"
+    ],
+    "anniversary": [
+        "anniversaries"
+    ],
+    "hurricane": [
+        "hurricanes",
+        "hurricane"
+    ],
+    "ismael": [
+        "ismael"
+    ],
+    "pacific": [
+        "pacific"
+    ],
+    "season": [
+        "season"
+    ],
+    "consist": [
+        "consisted"
+    ],
+    "occur": [
+        "occurred"
+    ],
+    "annual": [
+        "annual"
+    ],
+    "cycle": [
+        "cycle"
+    ],
+    "tropical": [
+        "tropical"
+    ],
+    "cyclone": [
+        "cyclone"
+    ],
+    "formation": [
+        "formation"
+    ],
+    "north": [
+        "north"
+    ],
+    "equator": [
+        "equator"
+    ],
+    "international": [
+        "international"
+    ],
+    "date": [
+        "date"
+    ],
+    "line": [
+        "line"
+    ],
+    "activity": [
+        "activity"
+    ],
+    "below": [
+        "below"
+    ],
+    "average": [
+        "average"
+    ],
+    "eleven": [
+        "eleven"
+    ],
+    "develop": [
+        "developed"
+    ],
+    "ten": [
+        "ten"
+    ],
+    "strengthen": [
+        "strengthened"
+    ],
+    "name": [
+        "named"
+    ],
+    "storm": [
+        "storms"
+    ],
+    "seven": [
+        "seven"
+    ],
+    "become": [
+        "became"
+    ],
+    "further": [
+        "further"
+    ],
+    "intensify": [
+        "intensified"
+    ],
+    "major": [
+        "major"
+    ],
+    "first": [
+        "first"
+    ],
+    "system": [
+        "system"
+    ],
+    "e": [
+        "e"
+    ],
+    "form": [
+        "formed"
+    ],
+    "may": [
+        "may"
+    ],
+    "final": [
+        "final"
+    ],
+    "juliette": [
+        "juliette"
+    ],
+    "dissipate": [
+        "dissipated"
+    ],
+    "september": [
+        "september"
+    ],
+    "vast": [
+        "vast"
+    ],
+    "majority": [
+        "majority"
+    ],
+    "damage": [
+        "damage",
+        "damaged"
+    ],
+    "casualty": [
+        "casualties"
+    ],
+    "mid": [
+        "mid"
+    ],
+    "sea": [
+        "seas"
+    ],
+    "destroy": [
+        "destroyed"
+    ],
+    "fifty": [
+        "fifty"
+    ],
+    "fishing": [
+        "fishing"
+    ],
+    "boat": [
+        "boats"
+    ],
+    "fisherman": [
+        "fishermen"
+    ],
+    "land": [
+        "land"
+    ],
+    "wind": [
+        "winds"
+    ],
+    "severe": [
+        "severe"
+    ],
+    "flooding": [
+        "flooding"
+    ],
+    "heavy": [
+        "heavy"
+    ],
+    "nine": [
+        "nine"
+    ],
+    "people": [
+        "people"
+    ],
+    "state": [
+        "state"
+    ],
+    "sinaloa": [
+        "sinaloa"
+    ],
+    "bird": [
+        "birds",
+        "bird"
+    ],
+    "bouvet": [
+        "bouvet"
+    ],
+    "island": [
+        "island"
+    ],
+    "grade": [
+        "grade"
+    ],
+    "ii": [
+        "ii"
+    ],
+    "building": [
+        "buildings"
+    ],
+    "great": [
+        "greater"
+    ],
+    "manchester": [
+        "manchester"
+    ],
+    "billy": [
+        "billy"
+    ],
+    "wild": [
+        "wilder"
+    ],
+    "filmography": [
+        "filmography"
+    ],
+    "thekla": [
+        "thekla"
+    ],
+    "lark": [
+        "lark"
+    ],
+    "galerida": [
+        "galerida"
+    ],
+    "theklae": [
+        "theklae"
+    ],
+    "specie": [
+        "species"
+    ],
+    "family": [
+        "family"
+    ],
+    "alaudidae": [
+        "alaudidae"
+    ],
+    "german": [
+        "german"
+    ],
+    "zoologist": [
+        "zoologist"
+    ],
+    "alfred": [
+        "alfred"
+    ],
+    "brehm": [
+        "brehm"
+    ],
+    "decease": [
+        "deceased"
+    ],
+    "sister": [
+        "sister"
+    ],
+    "non": [
+        "non"
+    ],
+    "migratory": [
+        "migratory"
+    ],
+    "breed": [
+        "breeds"
+    ],
+    "iberian": [
+        "iberian"
+    ],
+    "peninsula": [
+        "peninsula"
+    ],
+    "northern": [
+        "northern"
+    ],
+    "sub": [
+        "sub"
+    ],
+    "saharan": [
+        "saharan"
+    ],
+    "africa": [
+        "africa"
+    ],
+    "senegal": [
+        "senegal"
+    ],
+    "somalia": [
+        "somalia"
+    ],
+    "preferred": [
+        "preferred"
+    ],
+    "habitat": [
+        "habitat"
+    ],
+    "dry": [
+        "dry"
+    ],
+    "open": [
+        "open"
+    ],
+    "country": [
+        "country"
+    ],
+    "often": [
+        "often"
+    ],
+    "altitude": [
+        "altitude"
+    ],
+    "similar": [
+        "similar"
+    ],
+    "crest": [
+        "crest",
+        "crested"
+    ],
+    "long": [
+        "long"
+    ],
+    "spiky": [
+        "spiky"
+    ],
+    "erectile": [
+        "erectile"
+    ],
+    "relatively": [
+        "relatively"
+    ],
+    "small": [
+        "small"
+    ],
+    "member": [
+        "member"
+    ],
+    "predominantly": [
+        "predominantly"
+    ],
+    "brownish": [
+        "brownish"
+    ],
+    "grey": [
+        "grey"
+    ],
+    "brown": [
+        "brown"
+    ],
+    "colour": [
+        "colour"
+    ],
+    "breast": [
+        "breast"
+    ],
+    "streak": [
+        "streaked"
+    ],
+    "underwing": [
+        "underwings"
+    ],
+    "weed": [
+        "weeds"
+    ],
+    "seed": [
+        "seeds"
+    ],
+    "insects": [
+        "insects"
+    ],
+    "last": [
+        "last"
+    ],
+    "especially": [
+        "especially"
+    ],
+    "popular": [
+        "popular"
+    ],
+    "breeding": [
+        "breeding"
+    ],
+    "nest": [
+        "nests"
+    ],
+    "ground": [
+        "ground"
+    ],
+    "lay": [
+        "laying"
+    ],
+    "six": [
+        "six"
+    ],
+    "egg": [
+        "eggs"
+    ],
+    "photograph": [
+        "photographed",
+        "photograph"
+    ],
+    "douz": [
+        "douz"
+    ],
+    "tunisia": [
+        "tunisia"
+    ],
+    "credit": [
+        "credit"
+    ],
+    "charles": [
+        "charles"
+    ],
+    "j": [
+        "j"
+    ],
+    "sharp": [
+        "sharp"
+    ],
+    "westminster": [
+        "westminster"
+    ],
+    "cathedral": [
+        "cathedral"
+    ],
+    "nintendo": [
+        "nintendo"
+    ],
+    "dsi": [
+        "dsi"
+    ],
+    "orbicular": [
+        "orbicular"
+    ],
+    "batfish": [
+        "batfish"
+    ],
+    "area": [
+        "areas"
+    ],
+    "central": [
+        "central"
+    ],
+    "hub": [
+        "hub"
+    ],
+    "resource": [
+        "resources"
+    ],
+    "task": [
+        "tasks"
+    ],
+    "announcement": [
+        "announcements"
+    ],
+    "village": [
+        "village"
+    ],
+    "pump": [
+        "pump"
+    ],
+    "forum": [
+        "forum"
+    ],
+    "discussion": [
+        "discussions"
+    ],
+    "include": [
+        "including"
+    ],
+    "policy": [
+        "policies",
+        "policy"
+    ],
+    "technical": [
+        "technical"
+    ],
+    "issue": [
+        "issues"
+    ],
+    "site": [
+        "site"
+    ],
+    "broad": [
+        "broader"
+    ],
+    "movement": [
+        "movement"
+    ],
+    "teahouse": [
+        "teahouse"
+    ],
+    "basic": [
+        "basic"
+    ],
+    "question": [
+        "questions"
+    ],
+    "use": [
+        "use",
+        "using"
+    ],
+    "desk": [
+        "desk"
+    ],
+    "reference": [
+        "reference"
+    ],
+    "research": [
+        "research"
+    ],
+    "encyclopedic": [
+        "encyclopedic"
+    ],
+    "topic": [
+        "topics",
+        "topic"
+    ],
+    "unique": [
+        "unique"
+    ],
+    "way": [
+        "way"
+    ],
+    "navigate": [
+        "navigate"
+    ],
+    "write": [
+        "written"
+    ],
+    "volunteer": [
+        "volunteer"
+    ],
+    "host": [
+        "hosts",
+        "hosted"
+    ],
+    "profit": [
+        "profit"
+    ],
+    "organization": [
+        "organization"
+    ],
+    "also": [
+        "also"
+    ],
+    "range": [
+        "range"
+    ],
+    "medium": [
+        "media"
+    ],
+    "repository": [
+        "repository"
+    ],
+    "software": [
+        "software"
+    ],
+    "development": [
+        "development"
+    ],
+    "coordination": [
+        "coordination"
+    ],
+    "textbook": [
+        "textbooks"
+    ],
+    "manual": [
+        "manuals"
+    ],
+    "knowledge": [
+        "knowledge"
+    ],
+    "collection": [
+        "collection"
+    ],
+    "quotation": [
+        "quotations"
+    ],
+    "library": [
+        "library"
+    ],
+    "directory": [
+        "directory"
+    ],
+    "learning": [
+        "learning"
+    ],
+    "travel": [
+        "travel"
+    ],
+    "guide": [
+        "guide"
+    ],
+    "dictionary": [
+        "dictionary"
+    ],
+    "thesaurus": [
+        "thesaurus"
+    ],
+    "languages": [
+        "languages"
+    ],
+    "many": [
+        "many"
+    ],
+    "wikipedias": [
+        "wikipedias"
+    ],
+    "available": [
+        "available"
+    ],
+    "large": [
+        "largest"
+    ],
+    "deutsch": [
+        "deutsch"
+    ],
+    "italiano": [
+        "italiano"
+    ],
+    "nederland": [
+        "nederlands"
+    ],
+    "polski": [
+        "polski"
+    ],
+    "svenska": [
+        "svenska"
+    ],
+    "bahasa": [
+        "bahasa"
+    ],
+    "indonesia": [
+        "indonesia"
+    ],
+    "melayu": [
+        "melayu"
+    ],
+    "dansk": [
+        "dansk"
+    ],
+    "eesti": [
+        "eesti"
+    ],
+    "euskara": [
+        "euskara"
+    ],
+    "magyar": [
+        "magyar"
+    ],
+    "norsk": [
+        "norsk"
+    ],
+    "simple": [
+        "simple"
+    ],
+    "srpski": [
+        "srpski"
+    ],
+    "srpskohrvatski": [
+        "srpskohrvatski"
+    ],
+    "suomi": [
+        "suomi"
+    ],
+    "asturianu": [
+        "asturianu"
+    ],
+    "bosanski": [
+        "bosanski"
+    ],
+    "frysk": [
+        "frysk"
+    ],
+    "gaeilge": [
+        "gaeilge"
+    ],
+    "galego": [
+        "galego"
+    ],
+    "hrvatski": [
+        "hrvatski"
+    ],
+    "nynorsk": [
+        "nynorsk"
+    ],
+    "shqip": [
+        "shqip"
+    ],
+    "retrieve": [
+        "retrieved"
+    ],
+    "http": [
+        "https"
+    ],
+    "org": [
+        "org"
+    ],
+    "w": [
+        "w"
+    ],
+    "index": [
+        "index"
+    ],
+    "php": [
+        "php"
+    ],
+    "title": [
+        "title"
+    ],
+    "oldid": [
+        "oldid"
+    ],
+    "language": [
+        "languages"
+    ],
+    "afrikaans": [
+        "afrikaans"
+    ],
+    "alemannisch": [
+        "alemannisch"
+    ],
+    "pangcah": [
+        "pangcah"
+    ],
+    "obolo": [
+        "obolo"
+    ],
+    "atikamekw": [
+        "atikamekw"
+    ],
+    "kotava": [
+        "kotava"
+    ],
+    "aymar": [
+        "aymar"
+    ],
+    "aru": [
+        "aru"
+    ],
+    "basa": [
+        "basa"
+    ],
+    "bali": [
+        "bali"
+    ],
+    "boarisch": [
+        "boarisch"
+    ],
+    "batak": [
+        "batak"
+    ],
+    "toba": [
+        "toba"
+    ],
+    "bikol": [
+        "bikol"
+    ],
+    "bajau": [
+        "bajau"
+    ],
+    "sama": [
+        "sama"
+    ],
+    "betawi": [
+        "betawi"
+    ],
+    "bislama": [
+        "bislama"
+    ],
+    "banjar": [
+        "banjar"
+    ],
+    "bamanankan": [
+        "bamanankan"
+    ],
+    "brezhoneg": [
+        "brezhoneg"
+    ],
+    "mandailing": [
+        "mandailing"
+    ],
+    "ugi": [
+        "ugi"
+    ],
+    "chavacano": [
+        "chavacano"
+    ],
+    "zamboanga": [
+        "zamboanga"
+    ],
+    "ng": [
+        "ng"
+    ],
+    "cebuano": [
+        "cebuano"
+    ],
+    "chamoru": [
+        "chamoru"
+    ],
+    "corsu": [
+        "corsu"
+    ],
+    "cymraeg": [
+        "cymraeg"
+    ],
+    "dagbanli": [
+        "dagbanli"
+    ],
+    "dagaare": [
+        "dagaare"
+    ],
+    "zazaki": [
+        "zazaki"
+    ],
+    "dolnoserbski": [
+        "dolnoserbski"
+    ],
+    "kadazandusun": [
+        "kadazandusun"
+    ],
+    "mfantse": [
+        "mfantse"
+    ],
+    "fulfulde": [
+        "fulfulde"
+    ],
+    "vosa": [
+        "vosa"
+    ],
+    "vakaviti": [
+        "vakaviti"
+    ],
+    "arpetan": [
+        "arpetan"
+    ],
+    "nordfriisk": [
+        "nordfriisk"
+    ],
+    "furlan": [
+        "furlan"
+    ],
+    "gagauz": [
+        "gagauz"
+    ],
+    "gwiyannen": [
+        "gwiyannen"
+    ],
+    "konknni": [
+        "konknni"
+    ],
+    "hulontalo": [
+        "hulontalo"
+    ],
+    "ghanaian": [
+        "ghanaian"
+    ],
+    "pidgin": [
+        "pidgin"
+    ],
+    "wayuunaiki": [
+        "wayuunaiki"
+    ],
+    "farefare": [
+        "farefare"
+    ],
+    "gungbe": [
+        "gungbe"
+    ],
+    "gaelg": [
+        "gaelg"
+    ],
+    "hausa": [
+        "hausa"
+    ],
+    "hak": [
+        "hak"
+    ],
+    "fiji": [
+        "fiji"
+    ],
+    "hindi": [
+        "hindi"
+    ],
+    "hornjoserbsce": [
+        "hornjoserbsce"
+    ],
+    "ayisyen": [
+        "ayisyen"
+    ],
+    "interlingua": [
+        "interlingua"
+    ],
+    "jaku": [
+        "jaku"
+    ],
+    "iban": [
+        "iban"
+    ],
+    "interlingue": [
+        "interlingue"
+    ],
+    "igbo": [
+        "igbo"
+    ],
+    "igala": [
+        "igala"
+    ],
+    "ilokano": [
+        "ilokano"
+    ],
+    "ido": [
+        "ido"
+    ],
+    "inuktitut": [
+        "inuktitut"
+    ],
+    "patois": [
+        "patois"
+    ],
+    "la": [
+        "la"
+    ],
+    "lojban": [
+        "lojban"
+    ],
+    "jawa": [
+        "jawa"
+    ],
+    "qaraqalpaqsha": [
+        "qaraqalpaqsha"
+    ],
+    "taqbaylit": [
+        "taqbaylit"
+    ],
+    "jju": [
+        "jju"
+    ],
+    "tyap": [
+        "tyap"
+    ],
+    "kongo": [
+        "kongo"
+    ],
+    "kumoring": [
+        "kumoring"
+    ],
+    "kalaallisut": [
+        "kalaallisut"
+    ],
+    "yerwa": [
+        "yerwa"
+    ],
+    "kanuri": [
+        "kanuri"
+    ],
+    "ripoarisch": [
+        "ripoarisch"
+    ],
+    "kernowek": [
+        "kernowek"
+    ],
+    "latina": [
+        "latina"
+    ],
+    "ladino": [
+        "ladino"
+    ],
+    "lingua": [
+        "lingua"
+    ],
+    "franca": [
+        "franca"
+    ],
+    "nova": [
+        "nova"
+    ],
+    "luganda": [
+        "luganda"
+    ],
+    "limburgs": [
+        "limburgs"
+    ],
+    "ligure": [
+        "ligure"
+    ],
+    "ladin": [
+        "ladin"
+    ],
+    "lombard": [
+        "lombard"
+    ],
+    "banyumasan": [
+        "banyumasan"
+    ],
+    "malagasy": [
+        "malagasy"
+    ],
+    "minangkabau": [
+        "minangkabau"
+    ],
+    "malti": [
+        "malti"
+    ],
+    "napulitano": [
+        "napulitano"
+    ],
+    "nedersaksies": [
+        "nedersaksies"
+    ],
+    "li": [
+        "li"
+    ],
+    "niha": [
+        "niha"
+    ],
+    "novial": [
+        "novial"
+    ],
+    "isindebele": [
+        "isindebele"
+    ],
+    "sesewula": [
+        "sesewula"
+    ],
+    "nouormand": [
+        "nouormand"
+    ],
+    "sesotho": [
+        "sesotho"
+    ],
+    "sa": [
+        "sa"
+    ],
+    "leboa": [
+        "leboa"
+    ],
+    "nupe": [
+        "nupe"
+    ],
+    "bizaad": [
+        "bizaad"
+    ],
+    "chi": [
+        "chi"
+    ],
+    "chewa": [
+        "chewa"
+    ],
+    "occitan": [
+        "occitan"
+    ],
+    "livvinkarjala": [
+        "livvinkarjala"
+    ],
+    "oromoo": [
+        "oromoo"
+    ],
+    "pangasinan": [
+        "pangasinan"
+    ],
+    "kapampangan": [
+        "kapampangan"
+    ],
+    "papiamentu": [
+        "papiamentu"
+    ],
+    "picard": [
+        "picard"
+    ],
+    "deitsch": [
+        "deitsch"
+    ],
+    "nawat": [
+        "nawat"
+    ],
+    "pinayuanan": [
+        "pinayuanan"
+    ],
+    "runa": [
+        "runa"
+    ],
+    "simi": [
+        "simi"
+    ],
+    "rumantsch": [
+        "rumantsch"
+    ],
+    "romani": [
+        "romani"
+    ],
+    "ikirundi": [
+        "ikirundi"
+    ],
+    "ikinyarwanda": [
+        "ikinyarwanda"
+    ],
+    "sardu": [
+        "sardu"
+    ],
+    "sicilianu": [
+        "sicilianu"
+    ],
+    "scot": [
+        "scots"
+    ],
+    "gagana": [
+        "gagana"
+    ],
+    "samoa": [
+        "samoa"
+    ],
+    "chishona": [
+        "chishona"
+    ],
+    "soomaaliga": [
+        "soomaaliga"
+    ],
+    "sranantongo": [
+        "sranantongo"
+    ],
+    "siswati": [
+        "siswati"
+    ],
+    "seeltersk": [
+        "seeltersk"
+    ],
+    "sunda": [
+        "sunda"
+    ],
+    "kiswahili": [
+        "kiswahili"
+    ],
+    "sakizaya": [
+        "sakizaya"
+    ],
+    "tayal": [
+        "tayal"
+    ],
+    "tetun": [
+        "tetun"
+    ],
+    "tagalog": [
+        "tagalog"
+    ],
+    "setswana": [
+        "setswana"
+    ],
+    "lea": [
+        "lea"
+    ],
+    "faka": [
+        "faka"
+    ],
+    "tonga": [
+        "tonga"
+    ],
+    "toki": [
+        "toki"
+    ],
+    "pona": [
+        "pona"
+    ],
+    "tok": [
+        "tok"
+    ],
+    "pisin": [
+        "pisin"
+    ],
+    "seediq": [
+        "seediq"
+    ],
+    "xitsonga": [
+        "xitsonga"
+    ],
+    "chitumbuka": [
+        "chitumbuka"
+    ],
+    "twi": [
+        "twi"
+    ],
+    "reo": [
+        "reo"
+    ],
+    "tahiti": [
+        "tahiti"
+    ],
+    "uyghurche": [
+        "uyghurche"
+    ],
+    "tshivenda": [
+        "tshivenda"
+    ],
+    "kel": [
+        "kel"
+    ],
+    "west": [
+        "west"
+    ],
+    "vlams": [
+        "vlams"
+    ],
+    "walon": [
+        "walon"
+    ],
+    "winaray": [
+        "winaray"
+    ],
+    "wolof": [
+        "wolof"
+    ],
+    "isixhosa": [
+        "isixhosa"
+    ],
+    "vahcuengh": [
+        "vahcuengh"
+    ],
+    "isizulu": [
+        "isizulu"
+    ],
+    "utc": [
+        "utc"
+    ],
+    "text": [
+        "text"
+    ],
+    "creative": [
+        "creative"
+    ],
+    "attribution": [
+        "attribution"
+    ],
+    "license": [
+        "license"
+    ],
+    "additional": [
+        "additional"
+    ],
+    "term": [
+        "terms"
+    ],
+    "apply": [
+        "apply"
+    ],
+    "agree": [
+        "agree"
+    ],
+    "privacy": [
+        "privacy"
+    ],
+    "registered": [
+        "registered"
+    ],
+    "trademark": [
+        "trademark"
+    ],
+    "inc": [
+        "inc"
+    ],
+    "disclaimer": [
+        "disclaimers"
+    ],
+    "legal": [
+        "legal"
+    ],
+    "safety": [
+        "safety"
+    ],
+    "conduct": [
+        "conduct"
+    ],
+    "developer": [
+        "developers"
+    ],
+    "statistic": [
+        "statistics"
+    ],
+    "cookie": [
+        "cookie"
+    ],
+    "statement": [
+        "statement"
+    ],
+    "mobile": [
+        "mobile"
+    ],
+    "add": [
+        "add"
+    ]
+}

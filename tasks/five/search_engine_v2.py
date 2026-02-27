@@ -2,61 +2,95 @@ import os
 import re
 import math
 import nltk
-from bs4 import BeautifulSoup
-from nltk.stem import WordNetLemmatizer
 
-# Инициализация
-lemmatizer = WordNetLemmatizer()
+from tasks.two.nlp_processor import NLPProcessor, lemmatizer
 
-class SearchEngine:
-    def __init__(self, pages_dir="pages", tfidf_dir="tf_idf_lemmas", max_pages=100):
-        self.pages_dir = pages_dir
-        self.max_pages = max_pages
-        self.index = {}        # лемма -> {doc_id: tf_idf_weight}
-        self.doc_vectors = {}  # doc_id -> {lemma: tf_idf_weight}
-        self.doc_lengths = {}  # для нормализации векторов (длина вектора)
+class VectorSearchEngine:
+    def __init__(
+        self, 
+        tfidf_dir="tf_idf_lemmas", 
+        index_file="index.txt"
+    ):
+        self.tfidf_dir = tfidf_dir
+        self.index_file = index_file
         
-        self._load_tfidf_data(tfidf_dir)
+        self.doc_vectors = {}  # doc_id -> {lemma: tf_idf_weight}
+        self.doc_lengths = {}  # doc_id -> длина вектора (для косинусного сходства)
+        self.url_map = {}      # doc_id -> url
+        
+        self._load_data()
 
-    def _load_tfidf_data(self, tfidf_dir):
-        print("Загрузка данных TF-IDF...")
-        for i in range(1, self.max_pages + 1):
-            filepath = os.path.join(tfidf_dir, f"{i}.txt")
-            if not os.path.exists(filepath):
+    def _load_data(self):
+        print("Загрузка данных TF-IDF и ссылок...")
+        
+        # 1. Загружаем карту ссылок
+        if os.path.exists(self.index_file):
+            with open(self.index_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    parts = line.strip().split(' ', 1)
+                    if len(parts) == 2:
+                        self.url_map[int(parts[0])] = parts[1]
+
+        # 2. Загружаем векторы из папки tf_idf_lemmas
+        if not os.path.exists(self.tfidf_dir):
+            print(f"Ошибка: Папка {self.tfidf_dir} не найдена. Сначала запустите TF-IDF (Задание 4).")
+            return
+
+        for filename in os.listdir(self.tfidf_dir):
+            if not filename.endswith(".txt"):
                 continue
+                
+            doc_id = int(filename.split(".")[0])
+            filepath = os.path.join(self.tfidf_dir, filename)
             
-            self.doc_vectors[i] = {}
+            self.doc_vectors[doc_id] = {}
             sum_sq = 0
+            
             with open(filepath, 'r', encoding='utf-8') as f:
                 for line in f:
                     parts = line.strip().split()
-                    if len(parts) < 3: continue
-                    lemma, idf, tfidf = parts[0], float(parts[1]), float(parts[2])
-                    
-                    self.doc_vectors[i][lemma] = tfidf
-                    sum_sq += tfidf ** 2
-                    
-                    if lemma not in self.index:
-                        self.index[lemma] = {}
-                    self.index[lemma][i] = tfidf
+                    if len(parts) >= 3:
+                        lemma = parts[0]
+                        tfidf = float(parts[2])
+                        
+                        self.doc_vectors[doc_id][lemma] = tfidf
+                        sum_sq += tfidf ** 2
             
-            self.doc_lengths[i] = math.sqrt(sum_sq)
+            # Считаем длину вектора документа
+            self.doc_lengths[doc_id] = math.sqrt(sum_sq) if sum_sq > 0 else 1
+            
+        print(f"Успешно загружены векторы для {len(self.doc_vectors)} документов.")
 
-    def vector_search(self, query):
-        # 1. Токенизация и лемматизация запроса
-        query_words = re.findall(r'\b[a-zA-Z]+\b', query.lower())
-        query_lemmas = [lemmatizer.lemmatize(w) for w in query_words]
+    def search(self, query):
+        """Выполняет векторный поиск по запросу."""
+        # 1. Извлекаем слова из запроса
+        words = re.findall(r'\b[a-zA-Z]+\b', query)
+        words = [w.lower() for w in words]
         
-        # 2. Формируем вектор запроса (простейший TF)
+        # 2. Обрабатываем запрос через методы NLPProcessor (ПЕРЕИСПОЛЬЗОВАНИЕ)
+        query_lemmas = []
+        tagged_words = nltk.pos_tag(words)
+        for token, pos_tag in tagged_words:
+            # Отсеиваем предлоги и союзы из запроса так же, как в текстах
+            if pos_tag in NLPProcessor.STOP_TAGS:
+                continue
+            
+            wn_pos = NLPProcessor.get_wordnet_pos(pos_tag)
+            lemma = lemmatizer.lemmatize(token, pos=wn_pos)
+            query_lemmas.append(lemma)
+            
+        if not query_lemmas:
+            return []
+
+        # 3. Формируем вектор запроса (TF)
         query_vec = {}
         for l in query_lemmas:
             query_vec[l] = query_vec.get(l, 0) + 1
-        
-        q_sum_sq = sum(v**2 for v in query_vec.values())
-        q_length = math.sqrt(q_sum_sq) if q_sum_sq > 0 else 1
+            
+        q_len = math.sqrt(sum(v**2 for v in query_vec.values())) if query_vec else 1
 
-        # 3. Считаем косинусное сходство со всеми документами
-        scores = []
+        # 4. Считаем косинусное сходство
+        results = []
         for doc_id, doc_vec in self.doc_vectors.items():
             dot_product = 0
             for lemma, q_weight in query_vec.items():
@@ -64,29 +98,32 @@ class SearchEngine:
                     dot_product += q_weight * doc_vec[lemma]
             
             if dot_product > 0:
-                # Формула косинусного сходства: (A * B) / (|A| * |B|)
-                similarity = dot_product / (q_length * self.doc_lengths[doc_id])
-                scores.append((doc_id, similarity))
-        
-        # Сортируем по убыванию сходства
-        return sorted(scores, key=lambda x: x[1], reverse=True)
+                similarity = dot_product / (q_len * self.doc_lengths[doc_id])
+                results.append({
+                    "doc_id": doc_id,
+                    "url": self.url_map.get(doc_id, f"Document #{doc_id}"),
+                    "score": similarity
+                })
+                
+        # Сортируем по убыванию релевантности
+        return sorted(results, key=lambda x: x["score"], reverse=True)
 
-if __name__ == "__main__":
-    engine = SearchEngine()
-    
-    print("\n" + "="*30)
+def start_interactive_search(engine: VectorSearchEngine):
+    print("\n" + "="*40)
     print("ВЕКТОРНЫЙ ПОИСК ГОТОВ")
-    print("="*30)
+    print("="*40)
     
     while True:
-        user_query = input("\nВведите поисковый запрос (или 'exit'): ")
-        if user_query.lower() == 'exit': break
-        
-        results = engine.vector_search(user_query)
+        query = input("\nВведите запрос (или 'exit'): ")
+        if query.lower() == 'exit':
+            break
+            
+        results = engine.search(query)
         
         if not results:
-            print("Ничего не найдено.")
+            print("❌ Ничего не найдено. Попробуйте другие ключевые слова.")
         else:
-            print(f"Результаты (найдено {len(results)}):")
-            for doc_id, score in results[:10]: # Топ-10 результатов
-                print(f"Документ #{doc_id:3} | Релевантность: {score:.4f}")
+            print(f"✅ Найдено результатов: {len(results)}")
+            # Показываем Топ-10
+            for rank, res in enumerate(results[:10], 1):
+                print(f"{rank}. [{res['score']:.4f}] Doc #{res['doc_id']:<3} | {res['url']}")

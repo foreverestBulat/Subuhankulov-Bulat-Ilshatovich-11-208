@@ -1,0 +1,623 @@
+{
+    "list": [
+        "lists",
+        "list"
+    ],
+    "search": [
+        "search"
+    ],
+    "engine": [
+        "engine"
+    ],
+    "software": [
+        "software"
+    ],
+    "wikipedia": [
+        "wikipedia"
+    ],
+    "jump": [
+        "jump"
+    ],
+    "content": [
+        "contents",
+        "content"
+    ],
+    "main": [
+        "main"
+    ],
+    "menu": [
+        "menu"
+    ],
+    "move": [
+        "move"
+    ],
+    "sidebar": [
+        "sidebar"
+    ],
+    "hide": [
+        "hide"
+    ],
+    "navigation": [
+        "navigation"
+    ],
+    "page": [
+        "page",
+        "pages"
+    ],
+    "current": [
+        "current"
+    ],
+    "event": [
+        "events"
+    ],
+    "random": [
+        "random"
+    ],
+    "article": [
+        "article",
+        "articles"
+    ],
+    "contact": [
+        "contact",
+        "contacts"
+    ],
+    "contribute": [
+        "contribute"
+    ],
+    "help": [
+        "help"
+    ],
+    "learn": [
+        "learn"
+    ],
+    "edit": [
+        "edit",
+        "edited"
+    ],
+    "community": [
+        "community"
+    ],
+    "portal": [
+        "portal"
+    ],
+    "recent": [
+        "recent"
+    ],
+    "change": [
+        "changes"
+    ],
+    "upload": [
+        "upload"
+    ],
+    "file": [
+        "file"
+    ],
+    "special": [
+        "special"
+    ],
+    "appearance": [
+        "appearance"
+    ],
+    "donate": [
+        "donate"
+    ],
+    "create": [
+        "create"
+    ],
+    "account": [
+        "account"
+    ],
+    "log": [
+        "log"
+    ],
+    "personal": [
+        "personal"
+    ],
+    "tool": [
+        "tools"
+    ],
+    "top": [
+        "top"
+    ],
+    "commercial": [
+        "commercial"
+    ],
+    "free": [
+        "free"
+    ],
+    "see": [
+        "see"
+    ],
+    "also": [
+        "also"
+    ],
+    "toggle": [
+        "toggle"
+    ],
+    "table": [
+        "table"
+    ],
+    "add": [
+        "add"
+    ],
+    "languages": [
+        "languages"
+    ],
+    "link": [
+        "links",
+        "link"
+    ],
+    "talk": [
+        "talk"
+    ],
+    "english": [
+        "english"
+    ],
+    "read": [
+        "read"
+    ],
+    "view": [
+        "view"
+    ],
+    "history": [
+        "history"
+    ],
+    "action": [
+        "actions"
+    ],
+    "general": [
+        "general"
+    ],
+    "what": [
+        "what"
+    ],
+    "here": [
+        "here"
+    ],
+    "relate": [
+        "related"
+    ],
+    "permanent": [
+        "permanent"
+    ],
+    "information": [
+        "information"
+    ],
+    "cite": [
+        "cite"
+    ],
+    "get": [
+        "get"
+    ],
+    "shorten": [
+        "shortened"
+    ],
+    "url": [
+        "url"
+    ],
+    "download": [
+        "download"
+    ],
+    "qr": [
+        "qr"
+    ],
+    "code": [
+        "code"
+    ],
+    "print": [
+        "print"
+    ],
+    "export": [
+        "export"
+    ],
+    "pdf": [
+        "pdf"
+    ],
+    "printable": [
+        "printable"
+    ],
+    "version": [
+        "version"
+    ],
+    "other": [
+        "other"
+    ],
+    "project": [
+        "projects"
+    ],
+    "wikidata": [
+        "wikidata"
+    ],
+    "item": [
+        "item"
+    ],
+    "encyclopedia": [
+        "encyclopedia"
+    ],
+    "present": [
+        "presented"
+    ],
+    "be": [
+        "is",
+        "was"
+    ],
+    "apache": [
+        "apache"
+    ],
+    "lucene": [
+        "lucene"
+    ],
+    "solr": [
+        "solr"
+    ],
+    "apexkb": [
+        "apexkb"
+    ],
+    "ark": [
+        "ark"
+    ],
+    "arrowsmith": [
+        "arrowsmith"
+    ],
+    "system": [
+        "system"
+    ],
+    "chomp": [
+        "chomp"
+    ],
+    "cue": [
+        "cue"
+    ],
+    "dtsearch": [
+        "dtsearch"
+    ],
+    "datafari": [
+        "datafari"
+    ],
+    "enterprise": [
+        "enterprise"
+    ],
+    "edition": [
+        "edition"
+    ],
+    "elasticsearch": [
+        "elasticsearch"
+    ],
+    "endeca": [
+        "endeca"
+    ],
+    "exasearch": [
+        "exasearch"
+    ],
+    "intergator": [
+        "intergator"
+    ],
+    "koru": [
+        "koru"
+    ],
+    "levan": [
+        "levan"
+    ],
+    "library": [
+        "library"
+    ],
+    "genesis": [
+        "genesis"
+    ],
+    "lookeen": [
+        "lookeen"
+    ],
+    "meilisearch": [
+        "meilisearch"
+    ],
+    "million": [
+        "million"
+    ],
+    "short": [
+        "short"
+    ],
+    "mimvi": [
+        "mimvi"
+    ],
+    "myriad": [
+        "myriad"
+    ],
+    "openbook": [
+        "openbook"
+    ],
+    "opensearchserver": [
+        "opensearchserver"
+    ],
+    "pubget": [
+        "pubget"
+    ],
+    "q": [
+        "q"
+    ],
+    "go": [
+        "go"
+    ],
+    "quixey": [
+        "quixey"
+    ],
+    "sci": [
+        "sci"
+    ],
+    "hub": [
+        "hub"
+    ],
+    "singlepoint": [
+        "singlepoint"
+    ],
+    "smart": [
+        "smart"
+    ],
+    "retrieval": [
+        "retrieval"
+    ],
+    "sparrho": [
+        "sparrho"
+    ],
+    "sphinx": [
+        "sphinx"
+    ],
+    "svensk": [
+        "svensk"
+    ],
+    "mediedatabas": [
+        "mediedatabas"
+    ],
+    "swiftype": [
+        "swiftype"
+    ],
+    "thunderstone": [
+        "thunderstone"
+    ],
+    "yandex": [
+        "yandex"
+    ],
+    "data": [
+        "data"
+    ],
+    "factory": [
+        "factory"
+    ],
+    "yaoota": [
+        "yaoota"
+    ],
+    "shopping": [
+        "shopping"
+    ],
+    "yebol": [
+        "yebol"
+    ],
+    "zedge": [
+        "zedge"
+    ],
+    "nutch": [
+        "nutch"
+    ],
+    "docfetcher": [
+        "docfetcher"
+    ],
+    "gigablast": [
+        "gigablast"
+    ],
+    "grub": [
+        "grub"
+    ],
+    "ht": [
+        "ht"
+    ],
+    "dig": [
+        "dig"
+    ],
+    "isearch": [
+        "isearch"
+    ],
+    "typesense": [
+        "typesense"
+    ],
+    "mnogosearch": [
+        "mnogosearch"
+    ],
+    "opensearch": [
+        "opensearch"
+    ],
+    "php": [
+        "php"
+    ],
+    "crawler": [
+        "crawler"
+    ],
+    "manticore": [
+        "manticore"
+    ],
+    "strangesearch": [
+        "strangesearch"
+    ],
+    "swish": [
+        "swish"
+    ],
+    "e": [
+        "e"
+    ],
+    "terrier": [
+        "terrier"
+    ],
+    "vespa": [
+        "vespa"
+    ],
+    "xapian": [
+        "xapian"
+    ],
+    "yacy": [
+        "yacy"
+    ],
+    "zettair": [
+        "zettair"
+    ],
+    "appliance": [
+        "appliance"
+    ],
+    "bilingual": [
+        "bilingual"
+    ],
+    "discovery": [
+        "discovery"
+    ],
+    "platform": [
+        "platform"
+    ],
+    "document": [
+        "document"
+    ],
+    "incremental": [
+        "incremental"
+    ],
+    "web": [
+        "web"
+    ],
+    "retrieve": [
+        "retrieved"
+    ],
+    "http": [
+        "https"
+    ],
+    "org": [
+        "org"
+    ],
+    "w": [
+        "w"
+    ],
+    "index": [
+        "index"
+    ],
+    "title": [
+        "title"
+    ],
+    "oldid": [
+        "oldid"
+    ],
+    "category": [
+        "categories"
+    ],
+    "hidden": [
+        "hidden"
+    ],
+    "description": [
+        "description"
+    ],
+    "different": [
+        "different"
+    ],
+    "last": [
+        "last"
+    ],
+    "april": [
+        "april"
+    ],
+    "utc": [
+        "utc"
+    ],
+    "text": [
+        "text"
+    ],
+    "available": [
+        "available"
+    ],
+    "creative": [
+        "creative"
+    ],
+    "common": [
+        "commons"
+    ],
+    "attribution": [
+        "attribution"
+    ],
+    "license": [
+        "license"
+    ],
+    "additional": [
+        "additional"
+    ],
+    "term": [
+        "terms"
+    ],
+    "may": [
+        "may"
+    ],
+    "apply": [
+        "apply"
+    ],
+    "use": [
+        "use",
+        "using"
+    ],
+    "site": [
+        "site"
+    ],
+    "agree": [
+        "agree"
+    ],
+    "privacy": [
+        "privacy"
+    ],
+    "policy": [
+        "policy"
+    ],
+    "registered": [
+        "registered"
+    ],
+    "trademark": [
+        "trademark"
+    ],
+    "wikimedia": [
+        "wikimedia"
+    ],
+    "foundation": [
+        "foundation"
+    ],
+    "inc": [
+        "inc"
+    ],
+    "non": [
+        "non"
+    ],
+    "profit": [
+        "profit"
+    ],
+    "organization": [
+        "organization"
+    ],
+    "disclaimer": [
+        "disclaimers"
+    ],
+    "legal": [
+        "legal"
+    ],
+    "safety": [
+        "safety"
+    ],
+    "conduct": [
+        "conduct"
+    ],
+    "developer": [
+        "developers"
+    ],
+    "statistic": [
+        "statistics"
+    ],
+    "cookie": [
+        "cookie"
+    ],
+    "statement": [
+        "statement"
+    ],
+    "mobile": [
+        "mobile"
+    ],
+    "topic": [
+        "topic"
+    ]
+}

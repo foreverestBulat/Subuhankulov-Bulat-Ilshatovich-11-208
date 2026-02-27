@@ -1,0 +1,831 @@
+{
+    "intrinsic": [
+        "intrinsic"
+    ],
+    "extrinsic": [
+        "extrinsic"
+    ],
+    "property": [
+        "properties",
+        "property"
+    ],
+    "philosophy": [
+        "philosophy"
+    ],
+    "wikipedia": [
+        "wikipedia"
+    ],
+    "jump": [
+        "jump"
+    ],
+    "content": [
+        "contents",
+        "content"
+    ],
+    "main": [
+        "main"
+    ],
+    "menu": [
+        "menu"
+    ],
+    "move": [
+        "move"
+    ],
+    "sidebar": [
+        "sidebar"
+    ],
+    "hide": [
+        "hide"
+    ],
+    "navigation": [
+        "navigation"
+    ],
+    "page": [
+        "page",
+        "pages"
+    ],
+    "current": [
+        "current"
+    ],
+    "event": [
+        "events"
+    ],
+    "random": [
+        "random"
+    ],
+    "article": [
+        "article",
+        "articles"
+    ],
+    "contact": [
+        "contact",
+        "contacts"
+    ],
+    "contribute": [
+        "contribute"
+    ],
+    "help": [
+        "help"
+    ],
+    "learn": [
+        "learn"
+    ],
+    "edit": [
+        "edit",
+        "edited"
+    ],
+    "community": [
+        "community"
+    ],
+    "portal": [
+        "portal"
+    ],
+    "recent": [
+        "recent"
+    ],
+    "change": [
+        "changes"
+    ],
+    "upload": [
+        "upload"
+    ],
+    "file": [
+        "file"
+    ],
+    "special": [
+        "special"
+    ],
+    "search": [
+        "search"
+    ],
+    "appearance": [
+        "appearance"
+    ],
+    "donate": [
+        "donate"
+    ],
+    "create": [
+        "create"
+    ],
+    "account": [
+        "account"
+    ],
+    "log": [
+        "log"
+    ],
+    "personal": [
+        "personal"
+    ],
+    "tool": [
+        "tools"
+    ],
+    "top": [
+        "top"
+    ],
+    "criterion": [
+        "criteria"
+    ],
+    "value": [
+        "value"
+    ],
+    "intrinsicism": [
+        "intrinsicism"
+    ],
+    "extrinsicism": [
+        "extrinsicism"
+    ],
+    "toggle": [
+        "toggle"
+    ],
+    "subsection": [
+        "subsection"
+    ],
+    "see": [
+        "see"
+    ],
+    "also": [
+        "also"
+    ],
+    "reference": [
+        "references",
+        "reference"
+    ],
+    "external": [
+        "external"
+    ],
+    "link": [
+        "links",
+        "link"
+    ],
+    "table": [
+        "table"
+    ],
+    "languages": [
+        "languages"
+    ],
+    "eesti": [
+        "eesti"
+    ],
+    "talk": [
+        "talk"
+    ],
+    "english": [
+        "english"
+    ],
+    "read": [
+        "read"
+    ],
+    "view": [
+        "viewed",
+        "view"
+    ],
+    "history": [
+        "history"
+    ],
+    "action": [
+        "actions",
+        "action"
+    ],
+    "general": [
+        "general"
+    ],
+    "what": [
+        "what"
+    ],
+    "here": [
+        "here"
+    ],
+    "relate": [
+        "related"
+    ],
+    "permanent": [
+        "permanent"
+    ],
+    "information": [
+        "information"
+    ],
+    "cite": [
+        "cite"
+    ],
+    "get": [
+        "get"
+    ],
+    "shorten": [
+        "shortened"
+    ],
+    "url": [
+        "url"
+    ],
+    "download": [
+        "download"
+    ],
+    "qr": [
+        "qr"
+    ],
+    "code": [
+        "code"
+    ],
+    "print": [
+        "print"
+    ],
+    "export": [
+        "export"
+    ],
+    "pdf": [
+        "pdf"
+    ],
+    "printable": [
+        "printable"
+    ],
+    "version": [
+        "version"
+    ],
+    "other": [
+        "other"
+    ],
+    "project": [
+        "projects"
+    ],
+    "wikidata": [
+        "wikidata"
+    ],
+    "item": [
+        "item"
+    ],
+    "free": [
+        "free"
+    ],
+    "encyclopedia": [
+        "encyclopedia"
+    ],
+    "thing": [
+        "things",
+        "thing"
+    ],
+    "have": [
+        "has",
+        "have"
+    ],
+    "relational": [
+        "relational"
+    ],
+    "redirects": [
+        "redirects"
+    ],
+    "database": [
+        "databases"
+    ],
+    "be": [
+        "are",
+        "was",
+        "be",
+        "is",
+        "being"
+    ],
+    "include": [
+        "including",
+        "includes"
+    ],
+    "context": [
+        "context"
+    ],
+    "that": [
+        "that"
+    ],
+    "depend": [
+        "depends",
+        "depending",
+        "depend"
+    ],
+    "s": [
+        "s"
+    ],
+    "relationship": [
+        "relationship"
+    ],
+    "example": [
+        "example"
+    ],
+    "mass": [
+        "mass"
+    ],
+    "physical": [
+        "physical"
+    ],
+    "object": [
+        "objects",
+        "object"
+    ],
+    "whereas": [
+        "whereas"
+    ],
+    "weight": [
+        "weight"
+    ],
+    "vary": [
+        "varies"
+    ],
+    "strength": [
+        "strength"
+    ],
+    "gravitational": [
+        "gravitational"
+    ],
+    "field": [
+        "field"
+    ],
+    "which": [
+        "which"
+    ],
+    "respective": [
+        "respective"
+    ],
+    "place": [
+        "place",
+        "placed"
+    ],
+    "question": [
+        "question"
+    ],
+    "intrinsicality": [
+        "intrinsicality"
+    ],
+    "extrinsicality": [
+        "extrinsicality"
+    ],
+    "empirically": [
+        "empirically"
+    ],
+    "observable": [
+        "observable"
+    ],
+    "significant": [
+        "significant"
+    ],
+    "study": [
+        "study",
+        "studies"
+    ],
+    "ontology": [
+        "ontology"
+    ],
+    "branch": [
+        "branch"
+    ],
+    "concern": [
+        "concern",
+        "concerned"
+    ],
+    "explain": [
+        "explaining"
+    ],
+    "fundamental": [
+        "fundamental"
+    ],
+    "nature": [
+        "nature"
+    ],
+    "david": [
+        "david"
+    ],
+    "lewis": [
+        "lewis"
+    ],
+    "offer": [
+        "offered"
+    ],
+    "list": [
+        "list"
+    ],
+    "should": [
+        "should"
+    ],
+    "condense": [
+        "condense"
+    ],
+    "distinction": [
+        "distinction"
+    ],
+    "number": [
+        "numbers"
+    ],
+    "italic": [
+        "italics"
+    ],
+    "add": [
+        "added",
+        "add"
+    ],
+    "sentence": [
+        "sentence"
+    ],
+    "statement": [
+        "statement"
+    ],
+    "proposition": [
+        "proposition"
+    ],
+    "ascribe": [
+        "ascribes"
+    ],
+    "something": [
+        "something"
+    ],
+    "entirely": [
+        "entirely"
+    ],
+    "ascription": [
+        "ascription"
+    ],
+    "not": [
+        "not"
+    ],
+    "may": [
+        "may"
+    ],
+    "well": [
+        "well"
+    ],
+    "large": [
+        "larger"
+    ],
+    "whole": [
+        "whole"
+    ],
+    "part": [
+        "part"
+    ],
+    "virtue": [
+        "virtue"
+    ],
+    "way": [
+        "way"
+    ],
+    "nothing": [
+        "nothing"
+    ],
+    "else": [
+        "else"
+    ],
+    "so": [
+        "so"
+    ],
+    "only": [
+        "only"
+    ],
+    "wholly": [
+        "wholly"
+    ],
+    "partly": [
+        "partly"
+    ],
+    "then": [
+        "then"
+    ],
+    "do": [
+        "does"
+    ],
+    "perfect": [
+        "perfect"
+    ],
+    "duplicate": [
+        "duplicate",
+        "duplicates"
+    ],
+    "situate": [
+        "situated"
+    ],
+    "different": [
+        "different"
+    ],
+    "surroundings": [
+        "surroundings"
+    ],
+    "will": [
+        "will"
+    ],
+    "differ": [
+        "differ"
+    ],
+    "understand": [
+        "understanding"
+    ],
+    "kantian": [
+        "kantian"
+    ],
+    "deontological": [
+        "deontological"
+    ],
+    "ethic": [
+        "ethics"
+    ],
+    "base": [
+        "based"
+    ],
+    "argument": [
+        "arguments",
+        "argument"
+    ],
+    "regard": [
+        "regard"
+    ],
+    "morality": [
+        "morality"
+    ],
+    "oppose": [
+        "opposed"
+    ],
+    "consequentialist": [
+        "consequentialist"
+    ],
+    "utilitarian": [
+        "utilitarian"
+    ],
+    "outcome": [
+        "outcomes"
+    ],
+    "belief": [
+        "belief"
+    ],
+    "non": [
+        "non"
+    ],
+    "characteristic": [
+        "characteristic"
+    ],
+    "mean": [
+        "means"
+    ],
+    "can": [
+        "can"
+    ],
+    "good": [
+        "good"
+    ],
+    "bad": [
+        "bad"
+    ],
+    "who": [
+        "who"
+    ],
+    "reason": [
+        "reason"
+    ],
+    "one": [
+        "one"
+    ],
+    "might": [
+        "might"
+    ],
+    "certain": [
+        "certain"
+    ],
+    "sex": [
+        "sex"
+    ],
+    "act": [
+        "acts"
+    ],
+    "intrinsically": [
+        "intrinsically"
+    ],
+    "evil": [
+        "evil"
+    ],
+    "even": [
+        "even"
+    ],
+    "harm": [
+        "harm"
+    ],
+    "tendency": [
+        "tendency"
+    ],
+    "major": [
+        "major"
+    ],
+    "emphasis": [
+        "emphasis"
+    ],
+    "matter": [
+        "matters"
+    ],
+    "rather": [
+        "rather"
+    ],
+    "more": [
+        "more"
+    ],
+    "profound": [
+        "profound"
+    ],
+    "reality": [
+        "realities"
+    ],
+    "term": [
+        "terms"
+    ],
+    "moral": [
+        "morals",
+        "moral"
+    ],
+    "tend": [
+        "tends"
+    ],
+    "stress": [
+        "stress"
+    ],
+    "observance": [
+        "observance"
+    ],
+    "law": [
+        "laws"
+    ],
+    "precept": [
+        "precepts"
+    ],
+    "less": [
+        "lesser"
+    ],
+    "ultimate": [
+        "ultimate"
+    ],
+    "principle": [
+        "principles"
+    ],
+    "underlie": [
+        "underlying"
+    ],
+    "conduct": [
+        "conduct"
+    ],
+    "brute": [
+        "brute"
+    ],
+    "fact": [
+        "fact"
+    ],
+    "transcendental": [
+        "transcendental"
+    ],
+    "philosophical": [
+        "philosophical"
+    ],
+    "springer": [
+        "springer"
+    ],
+    "netherlands": [
+        "netherlands"
+    ],
+    "doi": [
+        "doi"
+    ],
+    "issn": [
+        "issn"
+    ],
+    "importance": [
+        "importance"
+    ],
+    "britannica": [
+        "britannica"
+    ],
+    "stanford": [
+        "stanford"
+    ],
+    "retrieve": [
+        "retrieved"
+    ],
+    "http": [
+        "https"
+    ],
+    "org": [
+        "org"
+    ],
+    "w": [
+        "w"
+    ],
+    "index": [
+        "index"
+    ],
+    "php": [
+        "php"
+    ],
+    "title": [
+        "title"
+    ],
+    "oldid": [
+        "oldid"
+    ],
+    "category": [
+        "categories"
+    ],
+    "metaphysical": [
+        "metaphysical"
+    ],
+    "hidden": [
+        "hidden"
+    ],
+    "short": [
+        "short"
+    ],
+    "description": [
+        "description"
+    ],
+    "match": [
+        "matches"
+    ],
+    "last": [
+        "last"
+    ],
+    "june": [
+        "june"
+    ],
+    "utc": [
+        "utc"
+    ],
+    "text": [
+        "text"
+    ],
+    "available": [
+        "available"
+    ],
+    "creative": [
+        "creative"
+    ],
+    "common": [
+        "commons"
+    ],
+    "attribution": [
+        "attribution"
+    ],
+    "license": [
+        "license"
+    ],
+    "additional": [
+        "additional"
+    ],
+    "apply": [
+        "apply"
+    ],
+    "use": [
+        "use",
+        "using"
+    ],
+    "site": [
+        "site"
+    ],
+    "agree": [
+        "agree"
+    ],
+    "privacy": [
+        "privacy"
+    ],
+    "policy": [
+        "policy"
+    ],
+    "registered": [
+        "registered"
+    ],
+    "trademark": [
+        "trademark"
+    ],
+    "wikimedia": [
+        "wikimedia"
+    ],
+    "foundation": [
+        "foundation"
+    ],
+    "inc": [
+        "inc"
+    ],
+    "profit": [
+        "profit"
+    ],
+    "organization": [
+        "organization"
+    ],
+    "disclaimer": [
+        "disclaimers"
+    ],
+    "legal": [
+        "legal"
+    ],
+    "safety": [
+        "safety"
+    ],
+    "developer": [
+        "developers"
+    ],
+    "statistic": [
+        "statistics"
+    ],
+    "cookie": [
+        "cookie"
+    ],
+    "mobile": [
+        "mobile"
+    ],
+    "topic": [
+        "topic"
+    ]
+}

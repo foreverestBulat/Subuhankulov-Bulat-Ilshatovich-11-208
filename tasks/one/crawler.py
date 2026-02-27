@@ -87,13 +87,14 @@ class Crawler:
                     for link in soup.find_all("a", href=True):
                         next_url = urljoin(url, link["href"])
                         
-                        # Фильтруем ссылки: остаемся только на Википедии и убираем якоря (#)
-                        if urlparse(next_url).netloc == urlparse(start_url).netloc:
-                            next_url = next_url.split("#")[0]
+                        parsed_url = urlparse(next_url)
+                        
+                        if parsed_url.netloc == urlparse(start_url).netloc:
                             
-                            # Добавляем в очередь, если еще не видели
-                            if next_url not in visited and next_url not in queue:
-                                queue.append(next_url)
+                            if parsed_url.path.startswith('/wiki/') and ':' not in parsed_url.path:
+                                next_clean_url = next_url.split("#")[0].split("?")[0]
+                                if next_clean_url not in visited and next_clean_url not in queue:
+                                    queue.append(next_clean_url)
 
                     count += 1
 
@@ -106,18 +107,18 @@ class Crawler:
 
 if __name__ == "__main__":
     # crawler = Crawler(
-    #     output_dir="gen/pages",
-    #     index_file="gen/index.txt",
-    #     saved_json_path="gen/links.json"
+    #     output_dir="gen/pages_2",
+    #     index_file="gen/index_2.txt",
+    #     saved_json_path="gen/links_2.json"
     # )
     
     # crawler.run_crawler_with_gen_urls("https://en.wikipedia.org/wiki/Web_crawler")
     
-    with open("tasks/one/links.json", "r", encoding="utf-8") as file:
+    with open("gen/links_2.json", "r", encoding="utf-8") as file:
         urls = json.load(file)
     
     crawler = Crawler(
-        output_dir="pages",
-        index_file="index.txt",
+        output_dir="pages_1",
+        index_file="index_1.txt",
     )
     crawler.run_crawler_from_list(urls)
